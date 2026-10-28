@@ -1,0 +1,755 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "paras": [
+    "This chapter consists of words that are commonly mispronounced by non-native speakers. Some of these pairs of words are spelled the same but pronounced differently. Others are spelled differently but pronounced the same. Sometimes the same word exists in other languages but it has a different pronunciation. There is also a list of the most common words with silent consonants and another one with disappearing syllables. Finally, there is list of words that are universally hard to pronounce, even by some native speakers. But the goal of an educated speaker of English is to always use language well and to pronounce words clearly and correctly.",
+    "As you will see in this chapter, English is full of illogical spelling rules and exceptions. Fortunately, if you make it a point to memorize the correct pronunciation of the commonly used words that are in this chapter, you will certainly feel more confident about your accent."
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "same-spelling",
+   "title": "Same Spelling, Different Pronunciation"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Below are common words that are spelled the same but have different pronunciations and different meanings."
+   ]
+  },
+  {
+   "t": "table",
+   "heads": [
+    "",
+    "Pronunciation",
+    "Meaning"
+   ],
+   "rows": [
+    [
+     "<strong>bass</strong>",
+     "<strong><em>a</em></strong> is /æ/ as in <em>fat</em>",
+     "a kind of fish"
+    ],
+    [
+     "<strong>bass</strong>",
+     "<strong><em>a</em></strong> is /eɪ/ as in <em>take</em>",
+     "a musical instrument, or low voice or tone"
+    ],
+    [
+     "<strong>desert</strong>",
+     "first syllable stress",
+     "dry land with little or no vegetation"
+    ],
+    [
+     "<strong>desert</strong>",
+     "second syllable stress",
+     "to leave empty or alone, to abandon"
+    ],
+    [
+     "<strong>dove</strong>",
+     "<strong><em>o</em></strong> is /ɘ/ as in <em>fun</em>",
+     "a kind of bird similar to a pigeon"
+    ],
+    [
+     "<strong>dove</strong>",
+     "<strong><em>o</em></strong> is /oʊ/ as in <em>boat</em>",
+     "past tense of <em>dive</em>"
+    ],
+    [
+     "<strong>lead</strong>",
+     "<strong><em>ea</em></strong> is /i/ as in <em>meet</em>",
+     "to guide"
+    ],
+    [
+     "<strong>lead</strong>",
+     "<strong><em>ea</em></strong> is /ɛ/ as in <em>get</em>",
+     "a kind of metal"
+    ],
+    [
+     "<strong>minute</strong>",
+     "<strong><em>i</em></strong> is /ɪ/ as in <em>sit</em> (first syllable stress)",
+     "sixty seconds"
+    ],
+    [
+     "<strong>minute</strong>",
+     "<strong><em>i</em></strong> is /aɪ/ as in <em>time</em> (second syllable stress)",
+     "very small, tiny"
+    ],
+    [
+     "<strong>Polish</strong>",
+     "<strong><em>o</em></strong> is /oʊ/ as in <em>boat</em>",
+     "(adjective) from Poland"
+    ],
+    [
+     "<strong>polish</strong>",
+     "<strong><em>o</em></strong> is /ɑ/ as in <em>father</em>",
+     "to make a surface shine"
+    ],
+    [
+     "<strong>refuse</strong>",
+     "second syllable stress",
+     "(verb) to deny, reject"
+    ],
+    [
+     "<strong>refuse</strong>",
+     "first syllable stress",
+     "(noun) trash, garbage"
+    ],
+    [
+     "<strong>resume</strong>",
+     "final <strong><em>e</em></strong> is silent (second syllable stress)",
+     "to begin again after an interruption"
+    ],
+    [
+     "<strong>resume</strong>",
+     "final <strong><em>e</em></strong> is /eɪ/ as in <em>take</em> (first syllable stress)",
+     "a summary of work experience"
+    ],
+    [
+     "<strong>tear</strong>",
+     "rhymes with <em>care</em>",
+     "to separate by force"
+    ],
+    [
+     "<strong>tear</strong>",
+     "rhymes with <em>here</em>",
+     "a drop of liquid coming from the eye"
+    ],
+    [
+     "<strong>wind</strong>",
+     "<strong><em>i</em></strong> is /ɪ/ as in <em>sit</em>",
+     "outdoor current of air"
+    ],
+    [
+     "<strong>wind</strong>",
+     "<strong><em>i</em></strong> is /aɪ/ as in <em>time</em>",
+     "to turn in circular motions"
+    ],
+    [
+     "<strong>wound</strong>",
+     "<strong><em>ou</em></strong> is /u/ as in <em>food</em>",
+     "injury, especially when skin is torn or cut"
+    ],
+    [
+     "<strong>wound</strong>",
+     "<strong><em>ou</em></strong> is /aʊ/ as in <em>house</em>",
+     "past tense of verb <em>wind</em>"
+    ]
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "two-correct",
+   "title": "Two Correct Pronunciations"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "There are two ways of pronouncing the following words. Both choices are acceptable."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>either</strong>",
+     "<strong><em>ei</em></strong> is /i/ as in <em>meet</em>",
+     "(more common in American English)"
+    ],
+    [
+     "",
+     "<strong><em>ei</em></strong> is /aɪ/ as in <em>time</em>",
+     "(British English)"
+    ],
+    [
+     "<strong>neither</strong>",
+     "<strong><em>ei</em></strong> is /i/ as in <em>meet</em>",
+     "(more common in American English)"
+    ],
+    [
+     "",
+     "<strong><em>ei</em></strong> is /aɪ/ as in <em>time</em>",
+     "(British English)"
+    ],
+    [
+     "<strong>data</strong>",
+     "<strong><em>a</em></strong> is /eɪ/ as in <em>take</em>",
+     "(more common)"
+    ],
+    [
+     "",
+     "<strong><em>a</em></strong> is /æ/ as in <em>fat</em>",
+     "(less common)"
+    ],
+    [
+     "<strong>aunt</strong>",
+     "<strong><em>a</em></strong> is /æ/ as in <em>fat</em>",
+     "(more common)"
+    ],
+    [
+     "",
+     "<strong><em>a</em></strong> is /ɑ/ as in <em>father</em>",
+     "(less common)"
+    ],
+    [
+     "<strong>apricot</strong>",
+     "<strong><em>a</em></strong> is /eɪ/ as in <em>take</em>",
+     "(more common)"
+    ],
+    [
+     "",
+     "<strong><em>a</em></strong> is /æ/ as in <em>fat</em>",
+     "(less common)"
+    ]
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "difficult",
+   "title": "Especially Difficult Words"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The following words are frequently mispronounced by non-native speakers either because a similar sounding word exists in other languages, or because the spelling is unusual. Other times the combination of sounds simply makes the words difficult to say—even for native speakers!"
+   ]
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "heads": [
+    "Difficult Word",
+    "Correct Pronunciation",
+    "Incorrect Pronunciation",
+    "Example"
+   ],
+   "rows": [
+    [
+     "<strong>aluminum</strong>",
+     "four syllables",
+     "In many languages, and in British English, this word has five syllables and is spelled <em>aluminium</em>",
+     "I will wrap my leftover food in <strong>aluminum</strong> foil."
+    ],
+    [
+     "<strong>caffeine</strong>",
+     "two syllables /kæf-in/",
+     "three syllables /kæf-ɛ-in/",
+     "I had too much <strong>caffeine</strong> and couldn’t fall asleep."
+    ],
+    [
+     "<strong>chaos</strong>",
+     "/keɪ - ɑs/",
+     "“house”",
+     "The apartment was in complete <strong>chaos</strong> after the burglary."
+    ],
+    [
+     "<strong>choir</strong>",
+     "sounds like: “k+wire”",
+     "“core”",
+     "The children’s <strong>choir</strong> sang at the church."
+    ],
+    [
+     "<strong>cooperate</strong>",
+     "four syllables <strong><em>oo</em></strong>= two separate sounds that sound like “kou – ap”",
+     "three syllables",
+     "Children, please <strong>cooperate</strong> with your teacher."
+    ],
+    [
+     "<strong>cucumber</strong>",
+     "first <strong><em>u</em></strong> sounds like <em>you</em>",
+     "first <strong><em>u</em></strong> sounds like /u/",
+     "I made a tomato and <strong>cucumber</strong> salad."
+    ],
+    [
+     "<strong>entrepreneur</strong>",
+     "fourth syllable stress first <strong><em>e</em></strong> sounds like /ɘ/",
+     "first <strong><em>e</em></strong> sounds like /ɛ/",
+     "That business was bought by a foreign <strong>entrepreneur</strong>."
+    ],
+    [
+     "<strong>Europe</strong>",
+     "first syllable stress, <strong><em>o</em></strong> is reduced /ɘ/ sound",
+     "second syllable stress",
+     "Many languages are spoken in <strong>Europe</strong>."
+    ],
+    [
+     "<strong>foreigner</strong>",
+     "first syllable stress <strong><em>eign</em></strong> sounds like <strong><em>en</em></strong> <strong><em>ig</em></strong> are silent letters",
+     "second syllable stress",
+     "I don’t want to speak English like a <strong>foreigner</strong>."
+    ],
+    [
+     "<strong>hierarchy</strong>",
+     "first syllable stress <em>heir</em> sounds like “hire”",
+     "second syllable stress",
+     "Honesty is the first of my <strong>hierarchy</strong> of values."
+    ],
+    [
+     "<strong>hygiene</strong>",
+     "two syllables: sounds like “hi + jean”",
+     "three syllables",
+     "In the medical environment <strong>hygiene</strong> is very important."
+    ],
+    [
+     "<strong>jewelry</strong>",
+     "<strong><em>l</em></strong> and <strong><em>r</em></strong> together “jewel+ ree”",
+     "vowel separating <strong><em>l</em></strong> and <strong><em>r</em></strong> “joo – le – ry”",
+     "I bought a gold necklace at the <strong>jewelry</strong> store."
+    ],
+    [
+     "<strong>length</strong>",
+     "pronounce <strong><em>g</em></strong>",
+     "silent <strong><em>g</em></strong>",
+     "What is the <strong>length</strong> of that swimming pool?"
+    ],
+    [
+     "<strong>museum</strong>",
+     "say: m + <em>you</em> + <em>zee</em> + /ɘm/ stress second syllable",
+     "“moo” + “zei” + “oom”",
+     "Let’s see the new art exhibit at the <strong>museum</strong>."
+    ],
+    [
+     "<strong>of</strong>",
+     "<strong><em>f</em></strong> sounds like <strong><em>v</em></strong> <strong><em>o</em></strong> is reduced /ɘ/ sound",
+     "“off”",
+     "What is it made <strong>of</strong>?"
+    ],
+    [
+     "<strong>parentheses</strong>",
+     "second syllable stress",
+     "third syllable stress",
+     "Please write the information in <strong>parentheses</strong>."
+    ],
+    [
+     "<strong>pizza</strong>",
+     "sounds like “peet+sa”",
+     "“pee+za”",
+     "We were hungry so we ordered a large <strong>pizza</strong>."
+    ],
+    [
+     "<strong>protein</strong>",
+     "two syllables “pro + teen”",
+     "three syllables “pro-te-een”",
+     "Meat and eggs contain a lot of <strong>protein</strong>."
+    ],
+    [
+     "<strong>recipe</strong>",
+     "three syllables; final <strong><em>e</em></strong> sounds like “ee”",
+     "two syllables silent <strong><em>e</em></strong>",
+     "Can you give me the <strong>recipe</strong> for this delicious cheesecake?"
+    ],
+    [
+     "<strong>schedule</strong>",
+     "<strong><em>sch</em></strong> sounds like “sk” <strong><em>du</em></strong> sounds like “ju”",
+     "<strong><em>sch</em></strong> = “sh”",
+     "I don’t like my new work <strong>schedule</strong>."
+    ],
+    [
+     "<strong>schizophrenia</strong>",
+     "<strong><em>sch</em></strong> sounds like “sk”",
+     "<strong><em>sch</em></strong> = “sh”",
+     "The psychiatrist was working with patients who have <strong>schizophrenia</strong>."
+    ],
+    [
+     "<strong>science</strong>",
+     "two syllables sci + /y/tence",
+     "one syllable “signs”",
+     "I got a good grade in my <strong>science</strong> class."
+    ],
+    [
+     "<strong>strength</strong>",
+     "pronounce “<strong><em>g</em></strong>”",
+     "silent “<strong><em>g</em></strong>”",
+     "I don’t have enough <strong>strength</strong> to carry that."
+    ],
+    [
+     "<strong>thermometer</strong>",
+     "second syllable stress",
+     "third syllable stress",
+     "I will check my fever with a <strong>thermometer</strong>."
+    ]
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "items": [
+    "I placed the frozen <strong>pizza</strong> on the <strong>aluminum</strong> foil.",
+    "I found a <strong>recipe</strong> for a <strong>cucumber</strong> salad.",
+    "Too much <strong>caffeine</strong> makes me feel <strong>schizophrenic</strong>.",
+    "We can <strong>cooperate</strong> and create a <strong>hierarchy</strong>.",
+    "That <strong>foreigner</strong> is an <strong>entrepreneur</strong> from <strong>Europe</strong>.",
+    "The <strong>schedule</strong> of the <strong>choir</strong> rehearsal is in <strong>parentheses</strong>.",
+    "They need better <strong>hygiene</strong> and less <strong>chaos</strong>.",
+    "The <strong>thermometer</strong> is used in the <strong>science</strong> class."
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "dropped",
+   "title": "Words with Dropped Syllables"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When pronouncing the following list of words, do not pronounce all of the syllables. Instead of saying “choc-o-late,” with three syllables, say “choc-late” with only two syllables. Instead of “brocc-o-li,” say “brocc-li.” In both of those words one of the middle vowels disappears. Below is a list of the most common words that have a dropped syllable."
+   ]
+  },
+  {
+   "t": "nums",
+   "cols": 4,
+   "items": [
+    "actu<s>a</s>lly",
+    "asp<s>i</s>rin",
+    "av<s>e</s>rage",
+    "basic<s>a</s>lly",
+    "bev<s>e</s>rage",
+    "diff<s>e</s>rent",
+    "extr<s>a</s>ordinary",
+    "ev<s>e</s>ning",
+    "ev<s>e</s>ry",
+    "fam<s>i</s>ly",
+    "gen<s>e</s>rally",
+    "brocc<s>o</s>li",
+    "bus<s>i</s>ness",
+    "cam<s>e</s>ra",
+    "cath<s>o</s>lic",
+    "choc<s>o</s>late",
+    "fav<s>o</s>rite",
+    "int<s>e</s>rest",
+    "int<s>e</s>resting",
+    "lab<s>o</s>ratory",
+    "lib<s>e</s>ral",
+    "op<s>e</s>ra",
+    "comf<s>o</s>rtable",
+    "cov<s>e</s>rage",
+    "desp<s>e</s>rate",
+    "di<s>a</s>mond",
+    "di<s>a</s>per",
+    "practic<s>a</s>lly",
+    "pref<s>e</s>rence",
+    "sev<s>e</s>ral",
+    "temp<s>e</s>rature",
+    "the<s>o</s>ry"
+   ]
+  },
+  {
+   "t": "dialog",
+   "title": "Practice Dialogues",
+   "items": [
+    [
+     "a. What’s your <strong>favorite vegetable</strong>?",
+     "b. I like <strong>broccoli</strong>."
+    ],
+    [
+     "a. Is he <strong>Catholic</strong>?",
+     "b. Yes, he comes from a <strong>Catholic family</strong>."
+    ],
+    [
+     "a. Do you like my <strong>diamond</strong> ring?",
+     "b. It’s really <strong>extraordinary</strong>."
+    ],
+    [
+     "a. Would you like some <strong>chocolate</strong>?",
+     "b. Yes, I’ll take <strong>several</strong> pieces."
+    ],
+    [
+     "a. What are you doing this <strong>evening</strong>?",
+     "b. I’m going to the <strong>opera</strong>."
+    ],
+    [
+     "a. Is the <strong>temperature</strong> okay for you?",
+     "b. Yes, it’s quite <strong>comfortable</strong> here."
+    ],
+    [
+     "a. Do you need some <strong>aspirin</strong>?",
+     "b. Yes, <strong>desperately</strong>."
+    ],
+    [
+     "a. Do you agree with that <strong>theory</strong>?",
+     "b. I think it’s an <strong>interesting theory</strong>."
+    ],
+    [
+     "a. Do you like that <strong>restaurant</strong>?",
+     "b. Yes, they have many <strong>different beverages</strong>."
+    ],
+    [
+     "a. What is your <strong>preference</strong>?",
+     "b. <strong>Actually</strong>, I don’t have a <strong>preference</strong>. I’m <strong>indifferent</strong>."
+    ]
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "silent",
+   "title": "Words with Silent Letters"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The chart below highlights many common words that have a letter that is not pronounced."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>silent <em>b</em></strong>",
+     "bomb, debt, limb, thumb, crumb, doubt, numb, tomb, climb, dumb, plumber, comb, lamb, subtle"
+    ],
+    [
+     "<strong>silent <em>c</em></strong>",
+     "indict, muscle"
+    ],
+    [
+     "<strong>silent <em>ch</em></strong>",
+     "yacht"
+    ],
+    [
+     "<strong>silent <em>d</em></strong>",
+     "adjective, adjust, handsome, Wednesday"
+    ],
+    [
+     "<strong>silent <em>g</em></strong>",
+     "align, campaign, diaphragm, resign, assign, champagne, foreign, sign, benign, design, reign"
+    ],
+    [
+     "<strong>silent <em>gh</em></strong>",
+     "bright, fight, light, bought, fought, night, caught, height, weigh, drought, high, weight"
+    ],
+    [
+     "<strong>silent <em>h</em></strong>",
+     "ghost, heir, honest, hour, honor, herb, vehicle, exhibit"
+    ],
+    [
+     "<strong>silent <em>k</em></strong>",
+     "knee, knife, know, knot"
+    ],
+    [
+     "<strong>silent <em>l</em></strong>",
+     "calm, folk, psalm, talk, chalk, half, salmon, walk, could, Lincoln, should, would"
+    ],
+    [
+     "<strong>silent <em>n</em></strong>",
+     "hymn, autumn, column"
+    ],
+    [
+     "<strong>silent <em>p</em></strong>",
+     "cupboard, pneumonia, psalm, psychology, psychic, receipt"
+    ],
+    [
+     "<strong>silent <em>s</em></strong>",
+     "aisle, debris, island, Arkansas, Illinois"
+    ],
+    [
+     "<strong>silent <em>t</em></strong>",
+     "ballet, Chevrolet, mortgage, gourmet, bouquet, Christmas, often, debut, buffet, fasten, whistle, soften, castle, listen, fillet, rapport"
+    ],
+    [
+     "<strong>silent <em>th</em></strong>",
+     "asthma, months,* clothes*"
+    ],
+    [
+     "<strong>silent <em>w</em></strong>",
+     "answer, sword, toward"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "*You will hear some Americans lightly pronounce the <strong><em>th</em></strong> sound when saying these words but most just omit it."
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "homophones",
+   "title": "Homophones"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Homophones are words with the same pronunciation but different spelling and meaning. Make sure you pronounce the second (and sometimes third) word the same as the first word, even though they look different."
+   ]
+  },
+  {
+   "t": "nums",
+   "cols": 3,
+   "items": [
+    "Adam–atom",
+    "air–err–heir",
+    "aloud–allowed",
+    "altar–alter",
+    "ant–aunt",
+    "ate–eight",
+    "band–banned",
+    "bare–bear",
+    "base–bass",
+    "be–bee",
+    "beat–beet",
+    "berry–bury",
+    "billed–build",
+    "blew–blue",
+    "board–bored",
+    "brake–break",
+    "buy–by–bye",
+    "caller–collar",
+    "cell–sell",
+    "cent–sent–scent",
+    "chili–chilly–Chile",
+    "chews–choose",
+    "cite–site–sight",
+    "close–clothes",
+    "core–corps",
+    "course–coarse",
+    "dear–deer",
+    "die–dye",
+    "do–due–dew",
+    "finish–Finnish",
+    "feudal–futile",
+    "flea–flee",
+    "flew–flu",
+    "flower–flour",
+    "for–four",
+    "Greece–grease",
+    "guest–guessed",
+    "gym–Jim",
+    "heal–heel–he’ll",
+    "hear–here",
+    "him–hymn",
+    "hire–higher",
+    "hole–whole",
+    "I–eye",
+    "I’ll–isle–aisle",
+    "in–inn",
+    "lessen–lesson",
+    "maid–made",
+    "mail–male",
+    "meat–meet",
+    "metal–medal",
+    "new–knew",
+    "nose–knows",
+    "not–knot",
+    "nun–none",
+    "oh–owe",
+    "one–won",
+    "our–hour",
+    "pail–pale",
+    "pair–pare",
+    "past–passed",
+    "peace–piece",
+    "profit–prophet",
+    "rain–rein–reign",
+    "red–read",
+    "right–write",
+    "ring–wring",
+    "road–rode–rowed",
+    "roll–role",
+    "root–route",
+    "sail–sale",
+    "sea–see",
+    "seam–seem",
+    "seas–sees–seize",
+    "seen–scene",
+    "seller–cellar",
+    "side–sighed",
+    "so–sow–sew",
+    "some–sum",
+    "son–sun",
+    "steal–steel",
+    "sweet–suite",
+    "tail–tale",
+    "there–their–they’re",
+    "tie–Thai",
+    "to–too–two",
+    "tow–toe",
+    "weather–whether",
+    "wheel–we’ll",
+    "wore–war",
+    "worn–warn"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "sub": "The highlighted words are homophones, so they pronounce them the same.",
+   "items": [
+    "If they <strong>hire</strong> him, he’ll have a <strong>higher</strong> salary.",
+    "Reading <strong>aloud</strong> is not <strong>allowed</strong> in the library.",
+    "I <strong>passed</strong> by your house in the <strong>past</strong>.",
+    "I <strong>hear</strong> that he’s been <strong>here</strong>.",
+    "I <strong>rode</strong> my bike on the <strong>road</strong>.",
+    "Her young <strong>son</strong> went out in the <strong>sun</strong>.",
+    "He <strong>knows</strong> about your broken <strong>nose</strong>.",
+    "Only <strong>one</strong> team <strong>won</strong>.",
+    "I <strong>read</strong> the <strong>red</strong> book.",
+    "I have a <strong>male mail</strong> carrier."
+   ]
+  },
+  {
+   "t": "dialog",
+   "title": "Practice Dialogues",
+   "items": [
+    [
+     "a. Does the <strong>nun</strong> have children?",
+     "b. No, she has <strong>none</strong>."
+    ],
+    [
+     "a. Have you <strong>seen</strong> it?",
+     "b. I have never <strong>seen</strong> such a strange <strong>scene</strong>."
+    ],
+    [
+     "a. When did the soldier wear the uniform?",
+     "b. He <strong>wore</strong> it in the <strong>war</strong>."
+    ],
+    [
+     "a. I want <strong>two</strong>, and you?",
+     "b. I want <strong>two</strong>, <strong>too</strong>."
+    ],
+    [
+     "a. Are they <strong>there</strong> already?",
+     "b. <strong>They’re</strong> already <strong>there</strong>.",
+     "a. Where?",
+     "b. At <strong>their</strong> uncle’s house."
+    ],
+    [
+     "a. You should <strong>dye</strong> your hair green.",
+     "b. I’d rather <strong>die</strong> than <strong>dye</strong> it green."
+    ],
+    [
+     "a. Is the gold <strong>medal</strong> really made of gold?",
+     "b. I think the <strong>medal</strong> is made of <strong>metal</strong>."
+    ],
+    [
+     "a. Did I <strong>write</strong> that correctly?",
+     "b. Yes, that’s <strong>right</strong>."
+    ],
+    [
+     "a. What time did you eat?",
+     "b. I <strong>ate</strong> at <strong>eight</strong>."
+    ],
+    [
+     "a. How’s the weather in <strong>Chile</strong>.",
+     "b. Sometimes it’s <strong>chilly</strong> in <strong>Chile</strong>."
+    ],
+    [
+     "a. <strong>Do</strong> you know when the report is <strong>due</strong>?",
+     "b. Yes, I <strong>do</strong>. It’s <strong>due</strong> on Tuesday."
+    ],
+    [
+     "a. He broke his foot and injured his <strong>heel</strong>.",
+     "b. I hope that <strong>he’ll heal</strong> soon."
+    ],
+    [
+     "a. I <strong>owe</strong> ten thousand dollars.",
+     "b. <strong>Oh</strong>, you <strong>owe</strong> so much."
+    ],
+    [
+     "a. Do you want to <strong>sail</strong> the boat today?",
+     "b. I can’t. My favorite store has a big <strong>sale</strong>."
+    ]
+   ]
+  }
+ ]
+}

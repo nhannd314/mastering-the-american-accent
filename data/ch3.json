@@ -1,0 +1,810 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "paras": [
+    "This chapter will teach you how to form all of the consonant sounds of American English. You can either study this chapter first to get an in-depth understanding of how consonants are formed, or you can just skip to the next chapter (“Problematic Consonants”) and begin practicing the most difficult sounds for non-native speakers. Make sure that you also refer to the “Native Language Guide” at the end of the book, which will tell you which specific consonant sounds you need to focus on in this chapter and in the following one."
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "forming",
+   "title": "Forming American Consonants"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When you are learning another accent, it is very helpful to know how the instruments of the mouth work together to produce sound. One reason that you have an accent when you are speaking English is that you are likely not moving your tongue and lips in the same way as a native speaker.",
+    "A consonant is a sound that is made when the airflow is blocked by either your lips or your tongue. The different places where this block may occur are called “points of articulation.” The point of articulation is, therefore, a point of contact of one part of your mouth with another part. For example, when you produce the sound /p/ (which is spelled with the letter p) your lips come together and close shut. So, the points of contact here are your two lips. The sound /b/ (which is spelled with a letter b) is also produced by your lips touching, as is the sound /m/.",
+    "Sometimes the points of contact, or points of articulation, occur when the tip of your tongue touches directly behind the upper teeth, a part of your mouth called the gum ridge. The sounds that are produced at this point are /t/, /d/, /n/, and /l/. Another point of contact occurs when the back part of your tongue touches the back part of your mouth, near the throat, as in /g/ and /k/. You don’t necessarily need to learn the formal names of the different parts of your mouth, but you should develop an awareness of where the points of contact are. Studying the illustration below will help you do this."
+   ]
+  },
+  {
+   "t": "img",
+   "src": "images/mouth-diagram.png",
+   "alt": "Parts of the mouth used to form consonants"
+  },
+  {
+   "t": "sec",
+   "id": "voicing",
+   "title": "Voiceless and Voiced Consonants",
+   "cd": 2,
+   "track": 13
+  },
+  {
+   "t": "p",
+   "paras": [
+    "One way that we categorize consonants is by determining whether they are “voiceless” or “voiced.” It’s important to know the difference between these types because the length of a vowel that precedes a consonant is determined by whether the consonant that follows it is voiceless or voiced. You will learn more about this later in the chapter. Also, knowing whether a sound is voiceless or voiced will help to correctly pronounce letters such as -ed and -s at the ends of words. You will learn about this in detail in the next chapter.",
+    "First, let’s learn how to distinguish between a voiced and a voiceless consonant. Place your fingers in the front, middle part of your neck. Now say /z/ as in the word zoo. Now, let’s make it longer: zzzzzzzzzz. You should feel a vibration in your vocal cords. This is how you know that the /z/ sound is voiced. Now let’s try this with the /s/ sound as in the word sat. Say /s/. Now let’s prolong it: sssssssss. This time there was no vibration in your vocal cords, so this consonant is considered unvoiced. That’s all there is to it. The tongue and lip positions of the /z/ and /s/ are identical. The only difference between them is vibration or no vibration. Look at the other consonant pairs that are produced exactly the same way, except for the vibration in the vocal cords."
+   ]
+  },
+  {
+   "t": "cons",
+   "paired": true,
+   "title": "Voiceless and Voiced Consonant Pairs",
+   "heads": [
+    "Voiceless Consonants (vocal cords do not vibrate)",
+    "Voiced Consonants (vocal cords vibrate)",
+    "How to Produce the Sound"
+   ],
+   "rows": [
+    [
+     [
+      "/p/",
+      [
+       "pet",
+       "rope"
+      ]
+     ],
+     [
+      "/b/",
+      [
+       "bet",
+       "robe"
+      ]
+     ],
+     "Lips start fully together, then part quickly to produce a small release of air."
+    ],
+    [
+     [
+      "/t/",
+      [
+       "ten",
+       "seat"
+      ]
+     ],
+     [
+      "/d/",
+      [
+       "den",
+       "seed"
+      ]
+     ],
+     "Tip of the tongue is slightly tense as it firmly touches and then releases the gum ridge."
+    ],
+    [
+     [
+      "/k/",
+      [
+       "class",
+       "back"
+      ]
+     ],
+     [
+      "/g/",
+      [
+       "glass",
+       "bag"
+      ]
+     ],
+     "Back of tongue presses up against soft palate (back of mouth) and releases."
+    ],
+    [
+     [
+      "/f/",
+      [
+       "fault",
+       "leaf"
+      ]
+     ],
+     [
+      "/v/",
+      [
+       "vault",
+       "leave"
+      ]
+     ],
+     "Lower lips lightly touch upper teeth; vibration occurs on the lips from the flow of air created."
+    ],
+    [
+     [
+      "/θ/",
+      [
+       "thank",
+       "breath"
+      ]
+     ],
+     [
+      "/ð/",
+      [
+       "this",
+       "breathe"
+      ]
+     ],
+     "Tip of the tongue touches back of front teeth or edges of front teeth. Air flows out between tongue and teeth."
+    ],
+    [
+     [
+      "/s/",
+      [
+       "sink",
+       "price"
+      ]
+     ],
+     [
+      "/z/",
+      [
+       "zinc",
+       "prize"
+      ]
+     ],
+     "Sides of tongue touch middle and back upper teeth. Tip of tongue is lowered a bit. Air flows out of middle part of the tongue."
+    ],
+    [
+     [
+      "/ʃ/",
+      [
+       "pressure",
+       "wish"
+      ]
+     ],
+     [
+      "/ʒ/",
+      [
+       "pleasure",
+       "massage"
+      ]
+     ],
+     "Tip of tongue is down, sides of tongue are against upper teeth on sides of mouth. Air flows out through middle of tongue."
+    ],
+    [
+     [
+      "/ʧ/",
+      [
+       "choke",
+       "rich"
+      ]
+     ],
+     [
+      "/ʤ/",
+      [
+       "joke",
+       "ridge"
+      ]
+     ],
+     "Tip of tongue is down, sides of tongue are against upper teeth on the side of mouth. Tip of tongue quickly touches gum ridge and then releases."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "title": "More Voiced Consonants",
+   "paras": [
+    "Now let’s go through the rest of the consonant sounds of English. These consonants are all voiced, but they have no voiceless pair. Make sure that you feel the vibration in your vocal cords as you say them."
+   ]
+  },
+  {
+   "t": "cons",
+   "rows": [
+    [
+     [
+      "/m/",
+      [
+       "mom",
+       "from",
+       "lemon"
+      ]
+     ],
+     "Lips together. Air flows out of the nose."
+    ],
+    [
+     [
+      "/n/",
+      [
+       "non",
+       "fun",
+       "any"
+      ]
+     ],
+     "Tip of tongue touches gum ridge, and the sides of the tongue touch upper teeth; air any flows out of the nose."
+    ],
+    [
+     [
+      "/ŋ/",
+      [
+       "going",
+       "spring",
+       "king"
+      ]
+     ],
+     "Back of the tongue touches the soft palate; air flows out of the nose."
+    ],
+    [
+     [
+      "/l/",
+      [
+       "love",
+       "will",
+       "yellow"
+      ]
+     ],
+     "Tip of tongue touches upper gum ridge. Tongue is tense. Air comes out on the sides of the tongue, at the corners of the mouth."
+    ],
+    [
+     [
+      "/r/",
+      [
+       "red",
+       "four",
+       "card"
+      ]
+     ],
+     "There are two ways to produce this sound: 1: Tip of tongue curls a bit and then is pulled back slightly. 2: Tip of tongue is down; center of the tongue touches hard palate."
+    ],
+    [
+     [
+      "/w/",
+      [
+       "win",
+       "lower",
+       "quiet"
+      ]
+     ],
+     "Rounded lips as for the vowel /u/ in moon. Air flows out through the lips. Tongue is in position for the vowel sound that follows the /w/."
+    ],
+    [
+     [
+      "/y/",
+      [
+       "yes",
+       "mayor",
+       "young"
+      ]
+     ],
+     "Tip of tongue touches lower front teeth. Front of tongue is raised near the hard palate."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "title": "The Consonant /h/",
+   "paras": [
+    "This final consonant sound is voiceless and does not have a “voiced pair” that it corresponds to."
+   ]
+  },
+  {
+   "t": "cons",
+   "rows": [
+    [
+     [
+      "/h/",
+      [
+       "happy",
+       "behave",
+       "who"
+      ]
+     ],
+     "Vocal cords are tense and restricted, back of tongue is pushed against the throat to create friction as the air flows out from the back of the mouth."
+    ]
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "p",
+   "sym": "/p/",
+   "word": "pie",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Start fully together, then part quickly to release a small puff of air.",
+   "tongue": "Relaxed; it rests in the position of the vowel that follows.",
+   "words": "pet, rope",
+   "video": "V_n_rUKQSew"
+  },
+  {
+   "t": "sound",
+   "id": "b",
+   "sym": "/b/",
+   "word": "boy",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Start fully together, then part quickly to release the air.",
+   "tongue": "Relaxed; it rests in the position of the vowel that follows.",
+   "words": "bet, robe",
+   "video": "LbCOXRz7Uf8"
+  },
+  {
+   "t": "sound",
+   "id": "t",
+   "sym": "/t/",
+   "word": "toy",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip is slightly tense as it firmly touches the gum ridge, then releases.",
+   "words": "ten, seat",
+   "video": [
+    "mLlotV_0dRI",
+    "9b-UIkuwOdU",
+    "Vabg-EUHOQk"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "d",
+   "sym": "/d/",
+   "word": "dog",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip is slightly tense as it firmly touches the gum ridge, then releases.",
+   "words": "den, seed",
+   "video": "N73xPe0x79g"
+  },
+  {
+   "t": "sound",
+   "id": "k",
+   "sym": "/k/",
+   "word": "key",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The back of the tongue presses up against the soft palate (back of the mouth), then releases.",
+   "words": "class, back",
+   "video": "zxrveu6yu6E"
+  },
+  {
+   "t": "sound",
+   "id": "g",
+   "sym": "/g/",
+   "word": "gift",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The back of the tongue presses up against the soft palate (back of the mouth), then releases.",
+   "words": "glass, bag",
+   "video": "vP5XKYvxe0Q"
+  },
+  {
+   "t": "sound",
+   "id": "f",
+   "sym": "/f/",
+   "word": "fun",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "The lower lip lightly touches the upper teeth; air flows out between them.",
+   "tongue": "Relaxed; it rests in the position of the vowel that follows.",
+   "words": "fault, leaf",
+   "video": "05f62-73nrY"
+  },
+  {
+   "t": "sound",
+   "id": "v",
+   "sym": "/v/",
+   "word": "very",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "The lower lip lightly touches the upper teeth; vibration occurs on the lips from the flow of air.",
+   "tongue": "Relaxed; it rests in the position of the vowel that follows.",
+   "words": "vault, leave",
+   "video": "U5Oro6v0klg"
+  },
+  {
+   "t": "sound",
+   "id": "th",
+   "sym": "/θ/",
+   "word": "think",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip touches the back of the front teeth or their edges; air flows out between the tongue and teeth.",
+   "words": "thank, breath",
+   "video": "qC0l6GQZtM4"
+  },
+  {
+   "t": "sound",
+   "id": "dh",
+   "sym": "/ð/",
+   "word": "this",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip touches the back of the front teeth or their edges; air flows out between the tongue and teeth.",
+   "words": "this, breathe",
+   "video": "EZb_EWVCUoE"
+  },
+  {
+   "t": "sound",
+   "id": "s",
+   "sym": "/s/",
+   "word": "sun",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The sides of the tongue touch the middle and back upper teeth; the tip is lowered a bit. Air flows out over the middle of the tongue.",
+   "words": "sink, price",
+   "video": "6hWPXaPXrnQ"
+  },
+  {
+   "t": "sound",
+   "id": "z",
+   "sym": "/z/",
+   "word": "zoo",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The sides of the tongue touch the middle and back upper teeth; the tip is lowered a bit. Air flows out over the middle of the tongue.",
+   "words": "zinc, prize",
+   "video": "ky7Jh9Bbjts"
+  },
+  {
+   "t": "sound",
+   "id": "sh",
+   "sym": "/ʃ/",
+   "word": "show",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Slightly rounded and pushed forward.",
+   "tongue": "The tip of the tongue is down and the sides of the tongue are against the upper teeth at the sides of the mouth. Air flows out through the middle of the tongue.",
+   "words": "pressure, wish",
+   "video": "wINb4HFguck"
+  },
+  {
+   "t": "sound",
+   "id": "zh",
+   "sym": "/ʒ/",
+   "word": "vision",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Slightly rounded and pushed forward.",
+   "tongue": "The tip of the tongue is down and the sides of the tongue are against the upper teeth at the sides of the mouth. Air flows out through the middle of the tongue.",
+   "words": "pleasure, massage",
+   "video": "k8ImSmVOSVA"
+  },
+  {
+   "t": "sound",
+   "id": "ch",
+   "sym": "/ʧ/",
+   "word": "chair",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Slightly rounded and pushed forward.",
+   "tongue": "The tip of the tongue is down and the sides of the tongue are against the upper teeth at the sides of the mouth. The tip of the tongue quickly touches the gum ridge and then releases.",
+   "words": "choke, rich",
+   "video": "WoyI_omRpcw"
+  },
+  {
+   "t": "sound",
+   "id": "j",
+   "sym": "/ʤ/",
+   "word": "job",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Slightly rounded and pushed forward.",
+   "tongue": "The tip of the tongue is down and the sides of the tongue are against the upper teeth at the sides of the mouth. The tip of the tongue quickly touches the gum ridge and then releases.",
+   "words": "joke, ridge",
+   "video": "zJJ3hhHtjtI"
+  },
+  {
+   "t": "sound",
+   "id": "m",
+   "sym": "/m/",
+   "word": "map",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Lips together. Air flows out of the nose.",
+   "tongue": "Relaxed; it rests in the position of the vowel that follows.",
+   "words": "mom, from, lemon",
+   "video": "tkiN8BsBEfA"
+  },
+  {
+   "t": "sound",
+   "id": "n",
+   "sym": "/n/",
+   "word": "nice",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip of the tongue touches the gum ridge and the sides of the tongue touch the upper teeth. Air flows out of the nose.",
+   "words": "non, fun, any",
+   "video": "1eyr7O4TFmI"
+  },
+  {
+   "t": "sound",
+   "id": "ng",
+   "sym": "/ŋ/",
+   "word": "thing",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The back of the tongue touches the soft palate. Air flows out of the nose.",
+   "words": "going, spring, king",
+   "video": "5xVq8T88oJw"
+  },
+  {
+   "t": "sound",
+   "id": "l",
+   "sym": "/l/",
+   "word": "let",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip of the tongue touches the upper gum ridge and is tense. Air comes out on the sides of the tongue, at the corners of the mouth.",
+   "words": "love, will, yellow",
+   "video": [
+    "JamM8TgB_AA",
+    "ZTgYjGXFAkw"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "r",
+   "sym": "/r/",
+   "word": "run",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Slightly rounded.",
+   "tongue": "There are two ways to produce this sound. 1: The tip of the tongue curls a bit and is then pulled back slightly. 2: The tip of the tongue is down and the center of the tongue touches the hard palate.",
+   "words": "red, four, card",
+   "video": "q5a2-KuHkBU"
+  },
+  {
+   "t": "sound",
+   "id": "w",
+   "sym": "/w/",
+   "word": "way",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Rounded, as for the vowel /u/ in moon. Air flows out through the lips.",
+   "tongue": "In position for the vowel sound that follows the /w/.",
+   "words": "win, lower, quiet",
+   "video": "nMB5mX_PGHQ"
+  },
+  {
+   "t": "sound",
+   "id": "y",
+   "sym": "/y/",
+   "word": "yes",
+   "voice": "Voiced: the vocal cords vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The tip of the tongue touches the lower front teeth. The front of the tongue is raised near the hard palate.",
+   "words": "yes, mayor, young",
+   "video": "1G8SCotE2yg"
+  },
+  {
+   "t": "sound",
+   "id": "h",
+   "sym": "/h/",
+   "word": "home",
+   "voice": "Voiceless: the vocal cords do not vibrate.",
+   "lips": "Relaxed; they take the position of the vowel that follows.",
+   "tongue": "The back of the tongue is pushed against the throat to create friction as the air flows out from the back of the mouth. The vocal cords are tense and restricted.",
+   "words": "happy, behave, who",
+   "video": "dV6At0g4n78"
+  },
+  {
+   "t": "sec",
+   "id": "vowel-length",
+   "title": "Vowel Length and Voiced and Voiceless Consonants",
+   "cd": 2,
+   "track": 14
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Vowels are longer when followed by a voiced consonant. They are shorter when followed by a voiceless consonant. Even short vowels like /i/, /ɛ/, /ɘ/, and /ʊ/ are prolonged when followed by a voiced consonant."
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "warning",
+   "title": "Warning: Common Mistake",
+   "text": "When you lengthen a vowel, make sure that you do not change the sound of the vowel. For example, when you say hid make sure that it doesn’t sound like heed."
+  },
+  {
+   "t": "contrast",
+   "title": "Word Pairs for Practice",
+   "cd": 2,
+   "track": 15,
+   "groups": [
+    {
+     "heads": [
+      "voiceless /s/",
+      "voiced /z/"
+     ],
+     "rows": [
+      [
+       "advice",
+       "advise"
+      ],
+      [
+       "ice",
+       "eyes"
+      ],
+      [
+       "niece",
+       "knees"
+      ]
+     ]
+    },
+    {
+     "heads": [
+      "voiceless /t/",
+      "voiced /d/"
+     ],
+     "rows": [
+      [
+       "mate",
+       "made"
+      ],
+      [
+       "hat",
+       "had"
+      ],
+      [
+       "bet",
+       "bed"
+      ]
+     ]
+    },
+    {
+     "heads": [
+      "voiceless /f/",
+      "voiced /v/"
+     ],
+     "rows": [
+      [
+       "half",
+       "have"
+      ],
+      [
+       "life",
+       "live"
+      ],
+      [
+       "belief",
+       "believe"
+      ]
+     ]
+    },
+    {
+     "heads": [
+      "voiceless /k/",
+      "voiced /g/"
+     ],
+     "rows": [
+      [
+       "back",
+       "bag"
+      ],
+      [
+       "dock",
+       "dog"
+      ],
+      [
+       "duck",
+       "Doug"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "table",
+   "title": "Practice Sentences",
+   "cd": 2,
+   "track": 16,
+   "numbered": true,
+   "heads": [
+    "voiceless",
+    "voiced"
+   ],
+   "rows": [
+    [
+     "My wallet is in the back.",
+     "My wallet is in the bag."
+    ],
+    [
+     "I saw five bucks on the floor.",
+     "I saw five bugs on the floor."
+    ],
+    [
+     "He has blue ice.",
+     "He has blue eyes."
+    ],
+    [
+     "I heard about the lice.",
+     "I heard about the lies."
+    ]
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Word Pairs in Sentences",
+   "cd": 2,
+   "track": 17,
+   "items": [
+    "He told me lies about the lice.",
+    "His eyes are ice cold.",
+    "There was a buzz in the bus.",
+    "The dog is on the dock."
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "stops",
+   "title": "Stops and Continuants",
+   "cd": 2,
+   "track": 18
+  },
+  {
+   "t": "p",
+   "paras": [
+    "There is another important way that consonants are categorized, besides whether they are voiced or voiceless. Consonants can either be “stops” or “continuants,” depending on whether the airflow is stopped or if it is continued. For example, when we say the /s/ sound we can prolong it by saying “yessssssss.” The /s/ sound is considered a continuant because the air flow can continue as long as we have air in our lungs. But if we say a word like “job,” we cannot continue the final consonant, /b/. We stop the airflow by closing our lips. Therefore, /b/ is a stop. If we quickly open our lips, we can then “release” the stop and say job."
+   ]
+  },
+  {
+   "t": "p",
+   "title": "Holding Final Stops",
+   "cd": 2,
+   "track": 19,
+   "paras": [
+    "Americans generally do not release many of the final stops. For example, when they say the sound /p/ in the word stop, the lips stay closed. No air comes out. This creates almost a silent version of the sound /p/, or a half p. We know the p is there, but we don’t hear all of it. If the lips were released, there would be a slight puff of air.",
+    "Let’s try another stop: the sound /g/. When you say the word big, don’t release the /g/. Make sure that your tongue remains up in the back of your mouth when you are done saying the word."
+   ]
+  },
+  {
+   "t": "table",
+   "title": "Words for Practice",
+   "sub": "Pay special attention to the final consonants as you pronounce the words in each column.",
+   "cd": 2,
+   "track": 20,
+   "numbered": true,
+   "heads": [
+    "final p",
+    "final b",
+    "final d",
+    "final t"
+   ],
+   "rows": [
+    [
+     "stop",
+     "club",
+     "married",
+     "that"
+    ],
+    [
+     "cup",
+     "job",
+     "played",
+     "sat"
+    ],
+    [
+     "up",
+     "sub",
+     "sad",
+     "it"
+    ],
+    [
+     "shop",
+     "tub",
+     "dad",
+     "cut"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "title": "Final Stops Followed by Consonants",
+   "cd": 2,
+   "track": 21,
+   "paras": [
+    "The final stop is always held when the next word within the same sentence begins with a consonant. However, when a word with the final stop is at the end of a sentence, the rule is much more flexible. The final sound can either be held or released."
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure you hold the final consonant of the first word of the pair.",
+   "cd": 2,
+   "track": 22,
+   "items": [
+    "help him",
+    "keep talking",
+    "did that",
+    "could go",
+    "stop that",
+    "job market",
+    "big park",
+    "cup cake"
+   ]
+  }
+ ]
+}

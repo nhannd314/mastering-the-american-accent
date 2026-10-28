@@ -1,0 +1,1335 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "paras": [
+    "A syllable is a small unit of speech that consists of a vowel, or a vowel and one or more consonants. Stressed and unstressed syllables form the basis of the rhythmic pattern of English words.",
+    "Many languages place the same amount of stress on each syllable. For example, in many languages the word banana is pronounced as:",
+    "__ __ __ ba na na (All three syllables are stressed equally.)",
+    "In English, we pronounce the word as: __ __ __ ba <strong>na</strong> na (The second syllable is stressed.)",
+    "The vowel within the stressed syllable is longer, louder and higher in pitch. The vowel within the unstressed syllable is reduced and becomes a neutral, short vowel called the “schwa” and is pronounced as /ə/. It can be spelled with <em><strong>a</strong></em>, <em><strong>e</strong></em>, <em><strong>i</strong></em>, <em><strong>o</strong></em>, or <em><strong>u</strong></em>. All of the five vowels can sound the same if they are part of a reduced syllable. As you can see, it is more important to know which syllable is stressed than how the word is spelled. If people don’t understand a particular word you are saying, chances are you stressing the wrong syllable.",
+    "<em>Note:</em> Phonetically, <em>banana</em> looks like this: /bə ʹnænə/. The small accent symbol in front of the /n/ indicates that the syllable that follows is stressed. Your dictionary may have different stress markers."
+   ],
+   "cd": 3,
+   "track": 30
+  },
+  {
+   "t": "sec",
+   "id": "stressed",
+   "title": "Stressed and Reduced Vowels",
+   "cd": 3,
+   "track": 31
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Listen to the following word pairs and notice the changes in the vowel sounds, depending on whether the syllable is stressed or reduced. The first word of each pair has only one syllable, so the vowel must be fully pronounced. The second word has two syllables, with the second syllable reduced. Even though the ending of the second word is spelled exactly the same as the first word, the vowel is pronounced differently because it’s part of the reduced syllable."
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "full vowel one syllable",
+    "reduced vowel unstressed second syllable"
+   ],
+   "rows": [
+    [
+     "man /æ/",
+     "salesman /ɘ<strong>/</strong>"
+    ],
+    [
+     "/oʊ/ pose",
+     "purpose /ɘ<strong>/</strong>"
+    ],
+    [
+     "/ɛɪ/ race",
+     "terrace /ɘ<strong>/</strong>"
+    ],
+    [
+     "/ɛɪ/ late",
+     "chocolate /ɘ<strong>/</strong>"
+    ],
+    [
+     "cord /ɔ/",
+     "record /ɘ<strong>/</strong>"
+    ],
+    [
+     "/ɛɪ/ rage /æ/",
+     "courage /ɘ<strong>/</strong> /ɘ<strong>/</strong>"
+    ],
+    [
+     "fast",
+     "breakfast"
+    ],
+    [
+     "/æ/ land",
+     "England /ɘ<strong>/</strong>"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Now listen to vowel changes of words that have a reduced <em>first syllable</em>."
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "full vowel stressed",
+    "reduced vowel unstressed first syllable"
+   ],
+   "rows": [
+    [
+     "con /ɑ/",
+     "control /ɘ<strong>/</strong>"
+    ],
+    [
+     "ad /æ/ /æ/",
+     "/ɘ<strong>/</strong> advice /ɘ<strong>/</strong>"
+    ],
+    [
+     "lag",
+     "lagoon"
+    ],
+    [
+     "/ɑ/ pod /ɔ/",
+     "/ɘ<strong>/</strong> podiatrist /ɘ<strong>/</strong>"
+    ],
+    [
+     "ball",
+     "balloon"
+    ],
+    [
+     "/ɛ/ red",
+     "/ɘ<strong>/</strong> reduce"
+    ],
+    [
+     "/ɔ/ off",
+     "/ɘ<strong>/</strong> offend"
+    ],
+    [
+     "mat /æ/",
+     "material /ɘ<strong>/</strong>"
+    ],
+    [
+     "or /ɔ/",
+     "/ɘ<strong>/</strong> ordain"
+    ],
+    [
+     "mad /æ/",
+     "Madrid /ɘ<strong>/</strong>"
+    ]
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "dangers",
+   "title": "Dangers of Stressing the Wrong Syllable",
+   "cd": 3,
+   "track": 32
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Stressing the wrong syllable sometimes creates misunderstandings because people think you are pronouncing a completely different word. The following words are great examples of why syllable stress is such an important component of the American accent."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "1.<em> <strong>no</strong>ble</em>",
+     "honorable, distinguished, aristocratic",
+     ""
+    ],
+    [
+     "<em>No<strong>bel</strong></em>",
+     "a prestigious award of achievement",
+     ""
+    ],
+    [
+     "“He won the <strong>Nobel</strong> Prize for his <strong>noble</strong> effort.”",
+     "",
+     ""
+    ],
+    [
+     "2.<em> <strong>in</strong>valid</em>",
+     "a sick or disabled person",
+     ""
+    ],
+    [
+     "<em>in<strong>val</strong>id</em>",
+     "not valid, void",
+     ""
+    ],
+    [
+     "“The <strong>invalid</strong> has an <strong>invalid</strong> permit.”",
+     "",
+     ""
+    ],
+    [
+     "3. <em>p<strong>er</strong>sonal</em>",
+     "individual, private",
+     ""
+    ],
+    [
+     "<em>person<strong>nel</strong></em>",
+     "a group of people employed in an organization or a place of work",
+     ""
+    ],
+    [
+     "“Some of the <strong>personnel</strong> have some <strong>personal</strong> problems.”",
+     "",
+     ""
+    ],
+    [
+     "4.<em> <strong>el</strong>igible</em>",
+     "worthy of choice, suitable, legally qualified",
+     ""
+    ],
+    [
+     "<em>il<strong>leg</strong>ible</em>",
+     "impossible or hard to read",
+     ""
+    ],
+    [
+     "“You won’t be <strong>eligible</strong> for that position if your handwriting is <strong>illegible</strong>.”",
+     "",
+     ""
+    ],
+    [
+     "5.<em> <strong>pro</strong>nouns</em>",
+     "parts of speech that substitute for nouns are pronouns such as <em>he</em> and <em>she</em>",
+     ""
+    ],
+    [
+     "<em>pro<strong>nounc</strong>e</em>",
+     "to say words, to utter",
+     ""
+    ],
+    [
+     "“Can you <strong>pronounce</strong> those <strong>pronouns</strong> correctly?”",
+     "",
+     ""
+    ],
+    [
+     "6.<em> <strong>co</strong>medy</em>",
+     "a humorous drama or play",
+     ""
+    ],
+    [
+     "<em>com<strong>mit</strong>tee</em>",
+     "a group of people elected or appointed to perform a function",
+     ""
+    ],
+    [
+     "“The <strong>committee</strong> watched a <strong>comedy</strong>.”",
+     "",
+     ""
+    ],
+    [
+     "7. <em>adv<strong>an</strong>tages</em>",
+     "benefits or gain",
+     ""
+    ],
+    [
+     "<em>advan<strong>ta</strong>geous</em>",
+     "beneficial, useful",
+     ""
+    ],
+    [
+     "“It would be <strong>advantageous</strong> to learn about the <strong>advantages</strong> of that method.”",
+     "",
+     ""
+    ],
+    [
+     "8.<em> <strong>de</strong>cade</em>",
+     "ten years",
+     ""
+    ],
+    [
+     "<em>de<strong>cayed</strong></em>",
+     "become rotten or ruined",
+     ""
+    ],
+    [
+     "“Their relationship has <strong>decayed</strong> in the past <strong>decade</strong>.”",
+     "",
+     ""
+    ],
+    [
+     "9.<em> <strong>ac</strong>cess</em>",
+     "ability or right to enter",
+     ""
+    ],
+    [
+     "<em>ex<strong>cess</strong></em>",
+     "extra, additional",
+     ""
+    ],
+    [
+     "“Do you have <strong>access</strong> to the <strong>excess</strong> data?”",
+     "",
+     ""
+    ],
+    [
+     "10.<em> <strong>con</strong>tent</em> (noun)",
+     "the subject matter of a book, speech, etc.",
+     ""
+    ],
+    [
+     "<em>con<strong>tent</strong></em> (adjective)",
+     "",
+     "satisfied and happy"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "“Are you <strong>content</strong> with the <strong>content</strong> of that letter?”"
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "11.<em> <strong>ca</strong>reer</em>",
+     "profession"
+    ],
+    [
+     "<em>ca<strong>rrier</strong></em>",
+     "a person or company that carries or transports something"
+    ],
+    [
+     "“He had a <strong>career</strong> working for an aircraft <strong>carrier</strong>.”",
+     ""
+    ],
+    [
+     "12.<em> <strong>di</strong>scus</em>",
+     "a heavy disc of metal thrown in an athletic competition"
+    ],
+    [
+     "<em>dis<strong>cuss</strong></em>",
+     "to talk over in detail, to examine in speech or writing"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "“The <strong>discus</strong> throwers <strong>discussed</strong> the competition.”"
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "tip",
+   "title": "Study Tip",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "Make a list of words commonly used at your workplace or in your field of study. Ask a colleague or classmate who is a native speaker to pronounce the words for you as you record them. Listen to the recording, carefully noting which syllable is stressed."
+     ]
+    }
+   ],
+   "img": "images/study-tip.png"
+  },
+  {
+   "t": "sec",
+   "id": "rules",
+   "title": "General Rules for Stress Placement",
+   "cd": 3,
+   "track": 33
+  },
+  {
+   "t": "p",
+   "paras": [
+    "This section will give you some general guidelines and patterns of American English syllable stress. Keep in mind that there are many exceptions to these rules and that English syllable stress can be quite irregular. Get into the habit of using your dictionary or asking native speakers to pronounce new or confusing words for you."
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "NOUNS Stress the first syllable",
+    "VERBS Stress the second syllable."
+   ],
+   "rows": [
+    [
+     "<strong>ac</strong>tion",
+     "pro<strong>duce</strong>"
+    ],
+    [
+     "<strong>pa</strong>per",
+     "ach<strong>ieve</strong>"
+    ],
+    [
+     "<strong>buil</strong>ding",
+     "app<strong>ly</strong>"
+    ],
+    [
+     "<strong>con</strong>cert",
+     "suc<strong>ceed</strong>"
+    ],
+    [
+     "<strong>tea</strong>cher",
+     "att<strong>ach</strong>"
+    ],
+    [
+     "<strong>fa</strong>ther",
+     "emp<strong>loy</strong>"
+    ],
+    [
+     "<strong>win</strong>dow",
+     "inc<strong>lude</strong>"
+    ],
+    [
+     "<strong>gar</strong>den",
+     "des<strong>troy</strong>"
+    ]
+   ],
+   "title": "Two-Syllable Words",
+   "id": "two-syllable"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The following pairs of nouns and verbs are spelled the same but pronounced differently because of changing syllable stress. Make sure you reduce the vowel in the unstressed syllable. First you will hear the noun, and then the verb."
+   ],
+   "title": "Noun and Verb Pairs",
+   "id": "noun-verb"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "NOUNS",
+    "VERBS"
+   ],
+   "rows": [
+    [
+     "<strong>ad</strong>dict",
+     "a<strong>ddict</strong>"
+    ],
+    [
+     "<strong>con</strong>duct",
+     "con<strong>duct</strong>"
+    ],
+    [
+     "<strong>con</strong>flict",
+     "con<strong>flict</strong>"
+    ],
+    [
+     "<strong>con</strong>test",
+     "con<strong>test</strong>"
+    ],
+    [
+     "<strong>con</strong>vert",
+     "con<strong>vert</strong>"
+    ],
+    [
+     "<strong>con</strong>vict",
+     "con<strong>vict</strong>"
+    ],
+    [
+     "<strong>de</strong>fect",
+     "de<strong>fect</strong>"
+    ],
+    [
+     "<strong>de</strong>sert",
+     "de<strong>sert</strong>"
+    ],
+    [
+     "<strong>in</strong>crease",
+     "in<strong>crease</strong>"
+    ],
+    [
+     "<strong>in</strong>sult",
+     "in<strong>sult</strong>"
+    ],
+    [
+     "<strong>ob</strong>ject",
+     "ob<strong>ject</strong>"
+    ],
+    [
+     "<strong>pres</strong>ent",
+     "pre<strong>sent</strong>"
+    ],
+    [
+     "<strong>pro</strong>duce",
+     "pro<strong>duce</strong>"
+    ],
+    [
+     "<strong>prog</strong>ress",
+     "pro<strong>gress</strong>"
+    ],
+    [
+     "<strong>reb</strong>el",
+     "re<strong>bel</strong>"
+    ],
+    [
+     "<strong>rec</strong>ord",
+     "re<strong>cord</strong>"
+    ],
+    [
+     "<strong>re</strong>search",
+     "re<strong>search</strong>"
+    ],
+    [
+     "<strong>sub</strong>ject",
+     "sub<strong>ject</strong>"
+    ],
+    [
+     "<strong>sus</strong>pect",
+     "sus<strong>pect</strong>"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "<em>Note:</em> Some of the above words have completely different meanings in the verb and noun forms."
+   ]
+  },
+  {
+   "t": "list",
+   "items": [
+    "The singer wants to <strong>record</strong> a new <strong>record</strong>.",
+    "The drug <strong>addict</strong> is <strong>addicted</strong> to heroin.",
+    "He <strong>insulted</strong> me with a rude <strong>insult</strong>.",
+    "I would like to <strong>present</strong> all of the <strong>present</strong> members.",
+    "This <strong>permit permits</strong> you to park your car here.",
+    "They <strong>protested</strong> in the <strong>protest</strong>.",
+    "Do you <strong>object</strong> to this <strong>object</strong>?",
+    "The <strong>convict</strong> was <strong>convicted</strong> again.",
+    "I <strong>suspect</strong> that they caught the <strong>suspect</strong>.",
+    "They are going to <strong>contest</strong> the results of the <strong>contest</strong>."
+   ],
+   "title": "Practice Sentences",
+   "cd": 3,
+   "track": 34,
+   "sub": "Underline the stressed syllables in the verbs and nouns in bold letters. To check your answers, listen to the audio."
+  },
+  {
+   "t": "list",
+   "items": [
+    "Have you heard? The police caught the <strong>suspect</strong>!",
+    "Do you mean the one who is <strong>suspected</strong> of robbing the bank?",
+    "Yes, I heard that he had a criminal <strong>record</strong>.",
+    "Oh really? What crime was he <strong>convicted</strong> of?",
+    "He’s a drug <strong>addict</strong> who has been robbing banks to support his <strong>addiction</strong>.",
+    "How many years do you think he will spend in prison?",
+    "A maximum of ten years. But he might be released early on good <strong>conduct</strong>.",
+    "If he <strong>conducts</strong> himself badly and <strong>insults</strong> the prison guards, I wonder if his sentence will be <strong>increased</strong>.",
+    "I don’t know. I haven’t heard of a prison term <strong>increase</strong> for <strong>insults</strong> and bad <strong>conduct</strong>."
+   ],
+   "title": "Practice Dialogue",
+   "sub": "Once again, underline the stressed syllables in the bold words before listening to the audio."
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Verbs that end with <em>-ate</em> have a stress on the first syllable. Nouns ending with <em>-tion</em> however, have a stress on the syllable before the suffix. Examine the examples in the chart below."
+   ],
+   "title": "Words Ending in <em>-tion</em> and <em>-ate</em>",
+   "cd": 3,
+   "track": 35,
+   "id": "tion-ate"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "<strong>Verbs that end in</strong> <em><strong>-ate</strong></em> Stress is on the first syllable",
+    "<strong>Nouns ending in</strong> <em><strong>-tion</strong></em> <strong>Stress is on the syllable that</strong> <strong>precedes the suffix</strong> <em><strong>-tion</strong></em>"
+   ],
+   "rows": [
+    [
+     "<strong>ac</strong>tivate",
+     "acti<strong>va</strong>tion"
+    ],
+    [
+     "<strong>cel</strong>ebrate",
+     "cele<strong>bra</strong>tion"
+    ],
+    [
+     "con<strong>grat</strong>ulate",
+     "congratu<strong>la</strong>tion"
+    ],
+    [
+     "<strong>dem</strong>onstrate",
+     "demonst<strong>ra</strong>tion"
+    ],
+    [
+     "<strong>do</strong>nate",
+     "do<strong>na</strong>tion"
+    ],
+    [
+     "f<strong>rus</strong>trate",
+     "frus<strong>tra</strong>tion"
+    ],
+    [
+     "<strong>im</strong>itate",
+     "imi<strong>ta</strong>tion"
+    ],
+    [
+     "<strong>lo</strong>cate",
+     "lo<strong>ca</strong>tion"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Note that the <em>-ate</em> word ending is pronounced fully in verbs but is reduced in adjectives and nouns. For example, the <em>-ate</em> ending of the word <em>separate</em> is pronounced /eɪt/ when it is a verb and /ɪt/ when it is a noun."
+   ],
+   "title": "<em>-ate </em>Endings of Verbs and Nouns",
+   "cd": 3,
+   "track": 36,
+   "id": "ate-endings"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "1. a. separate /eɪt/ (verb)",
+     "They have decided to <strong>separate</strong>."
+    ],
+    [
+     "b. separate /It/ (adjective)",
+     "They will live in <strong>separate</strong> houses."
+    ],
+    [
+     "2. a. alternate /eɪt/ (verb)",
+     "She <strong>alternates</strong> between feeling happy and sad."
+    ],
+    [
+     "b. alternate /It/ (adjective)",
+     "Do you have an <strong>alternate</strong> plan?"
+    ]
+   ],
+   "title": "Word Pairs for Practice"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "3. a. graduate /eɪt/ (verb)",
+     "He will <strong>graduate</strong> next spring."
+    ],
+    [
+     "b. graduate /It/ (noun)",
+     "He will be a college <strong>graduate</strong>."
+    ],
+    [
+     "4. a. estimate /eɪt/ (verb)",
+     "Can you <strong>estimate</strong> the cost of the repairs?"
+    ],
+    [
+     "b. estimate /It/ (noun)",
+     "I would like to have an <strong>estimate</strong> of the costs."
+    ],
+    [
+     "5. a. duplicate /eɪt/ (verb)",
+     "I will <strong>duplicate</strong> this document."
+    ],
+    [
+     "b. duplicate /It/ (noun)",
+     "Please make a <strong>duplicate</strong> of it."
+    ],
+    [
+     "6. a. appropriate /eɪt/ (verb)",
+     "The city <strong>appropriated</strong> the money for the new park."
+    ],
+    [
+     "b. appropriate /It/ (adjective)",
+     "It was an <strong>appropriate</strong> decision."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Look for words with the following suffixes: <em>ee</em>, <em>ette</em>, <em>ique</em>, <em>ese</em>, <em>eer</em>, and <em>ain</em>. The suffix is always stressed in these words"
+   ],
+   "title": "More Stressed Suffixes",
+   "cd": 3,
+   "track": 37,
+   "id": "suffixes"
+  },
+  {
+   "t": "nums",
+   "cols": 4,
+   "items": [
+    "employ<strong>ee</strong>",
+    "train<strong>ee</strong>",
+    "cigar<strong>ette</strong>",
+    "cass<strong>ette</strong>",
+    "un<strong>ique</strong>",
+    "bout<strong>ique</strong>",
+    "Japan<strong>ese</strong>",
+    "Chin<strong>ese</strong>",
+    "engin<strong>eer</strong>",
+    "volunt<strong>eer</strong>",
+    "main<strong>tain</strong>",
+    "exp<strong>lain</strong>"
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Sometimes the prefix is stressed and other times it’s not. Prefix + verb combinations usually have second syllable stress. Here are a few examples."
+   ],
+   "title": "Rules for Prefixes",
+   "cd": 3,
+   "track": 38,
+   "id": "prefixes"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "over<strong>sleep</strong>",
+     "under<strong>stand</strong>",
+     "out<strong>live</strong>",
+     "re<strong>write</strong>"
+    ],
+    [
+     "over<strong>do</strong>",
+     "under<strong>take</strong>",
+     "out<strong>perform</strong>",
+     "re<strong>do</strong>"
+    ],
+    [
+     "However, if the prefix + the root word function as a noun, the first syllable is stressed:",
+     "",
+     "",
+     ""
+    ],
+    [
+     "<strong>over</strong>sight",
+     "<strong>under</strong>taker",
+     "<strong>re</strong>fill",
+     "<strong>out</strong>sourcing"
+    ],
+    [
+     "<strong>over</strong>dose",
+     "<strong>under</strong>wear",
+     "<strong>re</strong>peat",
+     "<strong>out</strong>come"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "With reflexive pronouns, the last syllable is stressed. Note these common examples:"
+   ],
+   "cd": 3,
+   "track": 39
+  },
+  {
+   "t": "words",
+   "groups": [
+    {
+     "words": [
+      "my<strong>self</strong>",
+      "him<strong>self</strong>",
+      "it<strong>self</strong>",
+      "your<strong>self</strong>",
+      "her<strong>self</strong>",
+      "our<strong>selves</strong>"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Practice saying the following groups of words with the same prefixes, paying attention to the changes in stress. In the nouns, stress the prefix. In the verbs, stress the root word."
+   ],
+   "title": "Practice with Prefixes"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>PREFIX</strong>",
+     "<strong>Prefix + root word = NOUN Stress the prefix</strong>",
+     "<strong>Prefix + root word = VERB Stress the root word</strong> pre<strong>vent</strong>, pre<strong>pare</strong>, pre<strong>dict,</strong> pre<strong>cede</strong>,"
+    ],
+    [
+     "pre–",
+     "<strong>pre</strong>view, <strong>pre</strong>fix",
+     ""
+    ],
+    [
+     "",
+     "",
+     "pre<strong>fer</strong>, pre<strong>tend</strong>"
+    ],
+    [
+     "per–",
+     "<strong>per</strong>mit <strong>pro</strong>duct, <strong>pro</strong>cess, <strong>pro</strong>fit, <strong>pro</strong>gress,",
+     "per<strong>form</strong>, per<strong>suade</strong>, per<strong>mit</strong> pro<strong>duce</strong>, pro<strong>tect</strong>, pro<strong>pose</strong>, pro<strong>ject</strong>,"
+    ],
+    [
+     "pro–",
+     "",
+     ""
+    ],
+    [
+     "",
+     "<strong>pro</strong>ject, <strong>pro</strong>gram",
+     "pro<strong>long</strong>, pro<strong>fess</strong>, pro<strong>mote</strong>"
+    ],
+    [
+     "mis–",
+     "<strong>mis</strong>chief, <strong>mis</strong>print, <strong>mis</strong>fit <strong>con</strong>cert, <strong>con</strong>test, <strong>con</strong>flict, <strong>con</strong>gress,",
+     "mis<strong>place</strong>, mis<strong>quote</strong>, mis<strong>read</strong> con<strong>fess</strong>, con<strong>trol</strong>, con<strong>duct</strong>, con<strong>fuse</strong>,"
+    ],
+    [
+     "con–",
+     "",
+     ""
+    ],
+    [
+     "",
+     "<strong>con</strong>cept, <strong>con</strong>tent,",
+     "con<strong>firm</strong>, con<strong>sent</strong>, con<strong>sole</strong> com<strong>pete</strong>, com<strong>plain</strong>, com<strong>pare</strong>,"
+    ],
+    [
+     "com–",
+     "<strong>com</strong>plex, <strong>com</strong>pound",
+     ""
+    ],
+    [
+     "",
+     "",
+     "com<strong>pose</strong>, com<strong>pute</strong> ob<strong>serve</strong>, ob<strong>tain</strong>, ob<strong>sess</strong>,"
+    ],
+    [
+     "ob–",
+     "<strong>ob</strong>ject",
+     ""
+    ],
+    [
+     "",
+     "",
+     "ob<strong>scure</strong>, ob<strong>struct</strong>"
+    ],
+    [
+     "sub–",
+     "<strong>sub</strong>ject, <strong>sub</strong>urb, <strong>sub</strong>way",
+     "sub<strong>tract</strong>, sub<strong>mit</strong>, sub<strong>scribe</strong> ex<strong>plain</strong>, ex<strong>tract</strong>, ex<strong>hale</strong>, ex<strong>cuse</strong>,"
+    ],
+    [
+     "ex–",
+     "<strong>ex</strong>pert, <strong>ex</strong>ile, <strong>ex</strong>cerpt",
+     ""
+    ],
+    [
+     "",
+     "",
+     "ex<strong>change</strong>, ex<strong>ceed</strong>, ex<strong>clude</strong>, ex<strong>cite</strong>"
+    ],
+    [
+     "de–",
+     "<strong>de</strong>tail, <strong>de</strong>fect, <strong>de</strong>crease",
+     "de<strong>ny</strong>, de<strong>mand</strong>, de<strong>fend</strong>"
+    ],
+    [
+     "dis–",
+     "<strong>dis</strong>count, <strong>dis</strong>course, <strong>dis</strong>trict",
+     "dis<strong>cuss</strong>, dis<strong>trust</strong>, dis<strong>turb</strong> a<strong>gree</strong>, a<strong>pply</strong>, ad<strong>mit</strong>, a<strong>dore</strong>, a<strong>fford</strong>, a<strong>lert</strong>,"
+    ],
+    [
+     "a–",
+     "<strong>a</strong>ccess, <strong>a</strong>ddict, <strong>an</strong>chor",
+     ""
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "a<strong>pplaud</strong>, a<strong>pprove</strong>, a<strong>rrange</strong>, a<strong>ttack</strong>"
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Underline the stressed syllables in the highlighted verbs and nouns."
+   ],
+   "title": "Practice Paragraph"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The <strong>protesters</strong> gathered in front of the government building <strong>expecting</strong> to <strong>confront</strong> the <strong>elected</strong> officials. They were <strong>protesting</strong> the recently <strong>uncovered</strong> corruption. It is <strong>believed</strong> that the officials were inside the building <strong>discussing</strong> the <strong>conflict</strong>. The crowds threatened to <strong>disrupt</strong> the meeting. Some workers <strong>complained</strong> about <strong>receiving</strong> threats from the <strong>protesters</strong>. The mayor <strong>confirmed</strong> that he would <strong>conduct</strong> an investigation and try to <strong>resolve</strong> the <strong>conflict</strong>. The sheriff will <strong>assist</strong> him to <strong>compile</strong> all the <strong>details</strong> of the investigation. The mayor <strong>assured</strong> the <strong>public</strong> that he would make an <strong>effort</strong> to <strong>protect</strong> the citizens from further corruption."
+   ],
+   "title": "The Protest"
+  },
+  {
+   "t": "box",
+   "kind": "tip",
+   "title": "Study Tip",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "Practice reading aloud, underlining longer words and determining syllable stress by looking in the dictionary. Your dictionary may come with an audio CD which will help you hear the correct word pronunciation."
+     ]
+    }
+   ],
+   "img": "images/study-tip.png"
+  },
+  {
+   "t": "sec",
+   "id": "stress-changes",
+   "title": "Syllable Stress Changes",
+   "cd": 3,
+   "track": 40
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When a word changes from a noun to a verb or to an adjective or adverb, frequently the stress placement changes as well. Listen to these common words that non-native speakers tend to mispronounce (read across)."
+   ]
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "<strong>po</strong>litics",
+     "po<strong>li</strong>tical",
+     "poli<strong>ti</strong>cian"
+    ],
+    [
+     "<strong>pho</strong>tograph",
+     "photo<strong>gra</strong>phic",
+     "pho<strong>to</strong>graphy"
+    ],
+    [
+     "com<strong>pete</strong>",
+     "com<strong>pet</strong>itive",
+     "compe<strong>ti</strong>tion"
+    ],
+    [
+     "e<strong>con</strong>omy",
+     "eco<strong>nom</strong>ical",
+     "e<strong>con</strong>omize"
+    ],
+    [
+     "<strong>de</strong>mocrat",
+     "de<strong>mo</strong>cracy",
+     "demo<strong>cra</strong>tic"
+    ],
+    [
+     "<strong>fa</strong>mily",
+     "fa<strong>mil</strong>iar",
+     "famili<strong>ar</strong>ity"
+    ],
+    [
+     "<strong>ne</strong>cessary",
+     "necess<strong>ar</strong>ily",
+     "ne<strong>ces</strong>sity"
+    ],
+    [
+     "<strong>ho</strong>spital",
+     "hospi<strong>tal</strong>ity",
+     "hos<strong>pit</strong>able"
+    ],
+    [
+     "<strong>or</strong>igin",
+     "origi<strong>nal</strong>ity",
+     "o<strong>rig</strong>inal"
+    ],
+    [
+     "me<strong>chan</strong>ic",
+     "<strong>me</strong>chanism",
+     "mech<strong>an</strong>ical"
+    ],
+    [
+     "de<strong>fine</strong>",
+     "defi<strong>ni</strong>tion",
+     "<strong>de</strong>finitely"
+    ],
+    [
+     "<strong>va</strong>ry",
+     "va<strong>ri</strong>ety",
+     "vari<strong>a</strong>tion"
+    ],
+    [
+     "<strong>cou</strong>rage",
+     "cou<strong>rag</strong>eous",
+     ""
+    ],
+    [
+     "<strong>pro</strong>bably",
+     "proba<strong>bil</strong>ity",
+     ""
+    ],
+    [
+     "ge<strong>og</strong>raphy",
+     "geog<strong>raph</strong>ic",
+     ""
+    ],
+    [
+     "<strong>me</strong>mory",
+     "me<strong>mo</strong>rial",
+     ""
+    ],
+    [
+     "<strong>Ca</strong>nada",
+     "Ca<strong>na</strong>dian",
+     ""
+    ],
+    [
+     "ig<strong>no</strong>re",
+     "<strong>ig</strong>norance",
+     ""
+    ]
+   ]
+  },
+  {
+   "t": "list",
+   "items": [
+    "Underline the stressed syllables in the highlighted words. To check your answers, listen to the audio.",
+    "He likes <strong>politics</strong>. He wants to be a <strong>politician</strong>.",
+    "I love <strong>photography</strong>. Do you take a lot of <strong>photographs</strong>?",
+    "He studied <strong>economy</strong>. He is an <strong>economical</strong> shopper.",
+    "Do you know that <strong>family</strong>? Yes, they’re <strong>familiar</strong> to me.",
+    "He is a very good <strong>mechanic</strong>. He is fixing the <strong>mechanism</strong>.",
+    "Their opinions <strong>vary</strong>. There is a <strong>variety</strong> of opinions in the room.",
+    "We celebrate <strong>Memorial</strong> Day. It’s in <strong>memory</strong> of the veterans.",
+    "Do you know the <strong>origin</strong> of your name? No, it’s pretty <strong>original</strong>.",
+    "He is a registered <strong>Democrat</strong>. He watched the <strong>democratic</strong> debate on TV.",
+    "It is not <strong>necessary</strong> to do that. I don’t <strong>necessarily</strong> agree.",
+    "He likes to <strong>compete</strong>. He’s always been very <strong>competitive</strong>."
+   ],
+   "title": "Sentence Pairs for Practice",
+   "cd": 3,
+   "track": 41
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Underline the stressed syllables in the highlighted words. Check your answers by looking in the dictionary."
+   ],
+   "title": "Practice Paragraph"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When in the Course of human <strong>events</strong> it <strong>becomes necessary</strong> for one people to <strong>dissolve</strong> the <strong>political</strong> bands which have <strong>connected</strong> them with another and to <strong>assume</strong> among the powers of the earth, the <strong>separate</strong> and equal station to which the Laws of <strong>Nature</strong> and of Nature's God <strong>entitle</strong> them, a <strong>decent respect</strong> to the <strong>opinions</strong> of mankind <strong>requires</strong> that they should <strong>declare</strong> the causes which <strong>impel</strong> them to the <strong>separation</strong>.",
+    "We hold these truths to be self-evident, that all men are <strong>created</strong> equal, that they are <strong>endowed</strong> by their <strong>Creator</strong> with certain unalienable Rights, that among these are Life, Liberty and the <strong>pursuit</strong> of Happiness. That to <strong>secure</strong> these rights, <strong>Governments</strong> are instituted among Men, <strong>deriving</strong> their just powers from the <strong>consent</strong> of the <strong>governed</strong>."
+   ],
+   "title": "American Declaration of Independence"
+  },
+  {
+   "t": "sec",
+   "id": "reduced-review",
+   "title": "Reduced Vowels for Review"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "As a final review of this important chapter on stress and reduction, you will have an opportunity to break the habit of pronouncing each vowel fully, as you would in your native language. You must remind yourself that one of the most important factors to a great American accent is the concept of stress and reduction.",
+    "Read the word lists below, one row at a time, making sure that the vowel of the unstressed syllable is reduced and pronounced as /ə/, the schwa. The vowel spelling changes, but the vowel sound is the same in all of these groups of words."
+   ]
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "little",
+     "social",
+     "level",
+     "awful",
+     "symbol"
+    ],
+    [
+     "gamble",
+     "mental",
+     "marvel",
+     "beautiful",
+     "idol"
+    ],
+    [
+     "able",
+     "final",
+     "travel",
+     "careful",
+     "capitol"
+    ],
+    [
+     "double",
+     "practical",
+     "angel",
+     "faithful",
+     ""
+    ],
+    [
+     "cycle",
+     "local",
+     "bagel",
+     "harmful",
+     ""
+    ],
+    [
+     "handle",
+     "animal",
+     "novel",
+     "thankful",
+     ""
+    ]
+   ],
+   "heads": [
+    "le",
+    "al",
+    "el",
+    "ul",
+    "ol"
+   ],
+   "title": "A. Practice these words ending in ... /əl/"
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "ocean",
+     "fasten",
+     "common",
+     "fiction"
+    ],
+    [
+     "American",
+     "children",
+     "person",
+     "nation"
+    ],
+    [
+     "urban",
+     "chicken",
+     "lesson",
+     "million"
+    ],
+    [
+     "German",
+     "dozen",
+     "iron",
+     "direction"
+    ],
+    [
+     "woman",
+     "given",
+     "melon",
+     "attention"
+    ],
+    [
+     "veteran",
+     "driven",
+     "Jefferson",
+     "action"
+    ]
+   ],
+   "heads": [
+    "an",
+    "en",
+    "on",
+    "ion"
+   ],
+   "title": "B. Practice these words ending in ... /ən/"
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "grammar",
+     "teacher",
+     "visitor",
+     "culture"
+    ],
+    [
+     "popular",
+     "driver",
+     "liquor",
+     "measure"
+    ],
+    [
+     "sugar",
+     "singer",
+     "actor",
+     "injure"
+    ],
+    [
+     "familiar",
+     "answer",
+     "color",
+     "future"
+    ],
+    [
+     "nuclear",
+     "sister",
+     "junior",
+     "failure"
+    ],
+    [
+     "regular",
+     "border",
+     "major",
+     "pressure"
+    ]
+   ],
+   "heads": [
+    "ar",
+    "er",
+    "or",
+    "ure"
+   ],
+   "title": "C. Practice these words ending in ... /ər/"
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "terrace",
+     "cautious",
+     "purpose",
+     "lettuce"
+    ],
+    [
+     "necklace",
+     "fabulous",
+     "",
+     ""
+    ],
+    [
+     "palace",
+     "dangerous",
+     "",
+     ""
+    ],
+    [
+     "grimace",
+     "curious",
+     "",
+     ""
+    ],
+    [
+     "surface",
+     "delicious",
+     "",
+     ""
+    ],
+    [
+     "preface",
+     "religious",
+     "",
+     ""
+    ]
+   ],
+   "heads": [
+    "ace",
+    "ous",
+    "ose",
+    "uce"
+   ],
+   "title": "D. Practice these words ending in ... /əs/"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "ant",
+    "ent"
+   ],
+   "rows": [
+    [
+     "distant",
+     "present"
+    ],
+    [
+     "elegant",
+     "accent"
+    ],
+    [
+     "infant",
+     "talent"
+    ],
+    [
+     "instant",
+     "frequent"
+    ],
+    [
+     "constant",
+     "document"
+    ],
+    [
+     "important",
+     "payment"
+    ]
+   ],
+   "title": "E. Practice these words ending in ... /ənt/"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "<em>Note:</em> In this grouping of words the first syllables, rather than the last, are reduced."
+   ]
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "<strong></strong> attain",
+     "enough",
+     "obtain",
+     "undo"
+    ],
+    [
+     "<strong></strong> achieve",
+     "elect",
+     "object",
+     "unfit"
+    ],
+    [
+     "<strong></strong> admit",
+     "effect",
+     "observe",
+     "untie"
+    ],
+    [
+     "<strong></strong> adore",
+     "equip",
+     "obsess",
+     "unhappy"
+    ],
+    [
+     "<strong></strong> awake",
+     "exam",
+     "offend",
+     "uncover"
+    ],
+    [
+     "<strong></strong> announce",
+     "example",
+     "occur",
+     "unlock"
+    ]
+   ],
+   "heads": [
+    "a",
+    "e",
+    "o",
+    "u"
+   ],
+   "title": "F. Words beginning with... /ə/"
+  }
+ ]
+}

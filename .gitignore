@@ -1,0 +1,25 @@
+# Only the site itself goes to the server (see DEPLOY.md):
+#   index.php  .htaccess  inc/  data/  assets/  CD1/ … CD4/
+
+# Sources the build scripts in tools/ read from (tools/ itself is kept; .htaccess hides it)
+/old/
+/img/
+/Mastering the American Accent.pdf
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors and OS
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local leftovers
+*.bak
+*.log
+*.tmp

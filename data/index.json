@@ -1,0 +1,3342 @@
+{
+ "blocks": [
+  {
+   "t": "index",
+   "groups": [
+    {
+     "letter": "A",
+     "entries": [
+      {
+       "term": "Abbreviations, stress of",
+       "refs": [
+        {
+         "p": "83",
+         "link": "ch6#names"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Adjectives",
+       "refs": [
+        {
+         "p": "80",
+         "link": "ch6#adjectives"
+        },
+        {
+         "p": "81",
+         "link": "ch6#phrasal"
+        },
+        {
+         "p": "87",
+         "link": "ch6#content-adjectives"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Advice from a Successful Student",
+       "refs": [
+        {
+         "p": "9",
+         "link": "ch1#uh"
+        },
+        {
+         "p": "19",
+         "link": "ch2#e-ae"
+        },
+        {
+         "p": "54",
+         "link": "ch4#v"
+        },
+        {
+         "p": "85",
+         "link": "ch6#content"
+        },
+        {
+         "p": "96",
+         "link": "ch7#rising"
+        },
+        {
+         "p": "115",
+         "link": "ch8#casual"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Articles",
+       "refs": [
+        {
+         "p": "88",
+         "link": "ch6#reducing"
+        },
+        {
+         "p": "105",
+         "link": "ch8#vowels-within"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "-<em>ate</em> endings",
+       "refs": [
+        {
+         "p": "71",
+         "link": "ch5#ate-endings"
+        },
+        {
+         "p": "72",
+         "link": "ch5#prefixes"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Auxiliaries",
+       "refs": [
+        {
+         "p": "88",
+         "link": "ch6#reducing"
+        },
+        {
+         "p": "93",
+         "link": "ch6#contrastive"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Contractions of",
+         "refs": [
+          {
+           "p": "109",
+           "link": "ch8#contracted"
+          },
+          {
+           "p": "110",
+           "link": "ch8#contracted"
+          },
+          {
+           "p": "112",
+           "link": "ch8#contracted"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "B",
+     "entries": [
+      {
+       "term": "/b/ – Formation of",
+       "refs": [
+        {
+         "p": "29",
+         "link": "ch3#forming"
+        },
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "33",
+         "link": "ch3#stops"
+        },
+        {
+         "p": "55",
+         "link": "ch4#b-v"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Versus /v/",
+         "refs": [
+          {
+           "p": "55",
+           "link": "ch4#b-v"
+          },
+          {
+           "p": "56",
+           "link": "ch4#w"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "C",
+     "entries": [
+      {
+       "term": "<em>Can</em> or <em>can’t?</em>",
+       "refs": [
+        {
+         "p": "35",
+         "link": "ch4#t-sounds"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Casual speech",
+       "refs": [
+        {
+         "p": "115–117",
+         "link": "ch8#casual"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>ch</em>, /ʧ/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        },
+        {
+         "p": "41",
+         "link": "ch4#ed"
+        },
+        {
+         "p": "59",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": [
+        {
+         "term": "<em>ch</em> versus <em>sh</em>",
+         "refs": [
+          {
+           "p": "175",
+           "link": "guide#spanish"
+          },
+          {
+           "p": "176",
+           "link": "guide#spanish"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Chinese",
+       "refs": [
+        {
+         "p": "127–134",
+         "link": "guide#chinese"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Commonly confused words",
+       "refs": [
+        {
+         "p": "118",
+         "link": "ch8#confused"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Compound nouns",
+       "refs": [
+        {
+         "p": "78–81",
+         "link": "ch6#compound"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Conditional tense",
+       "refs": [
+        {
+         "p": "113",
+         "link": "ch8#conditional"
+        },
+        {
+         "p": "114",
+         "link": "ch8#conditional"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Consonants",
+       "refs": [],
+       "subs": [
+        {
+         "term": "Clusters",
+         "refs": [
+          {
+           "p": "63–65",
+           "link": "ch4#clusters"
+          }
+         ]
+        },
+        {
+         "term": "Continuants",
+         "refs": [
+          {
+           "p": "33",
+           "link": "ch3#stops"
+          }
+         ]
+        },
+        {
+         "term": "Formation of",
+         "refs": [
+          {
+           "p": "29",
+           "link": "ch3#forming"
+          }
+         ]
+        },
+        {
+         "term": "Illustration for formation of",
+         "refs": [
+          {
+           "p": "29",
+           "link": "ch3#forming"
+          }
+         ]
+        },
+        {
+         "term": "Linking",
+         "refs": [
+          {
+           "p": "102–104",
+           "link": "ch8#cons-vowel"
+          }
+         ]
+        },
+        {
+         "term": "Silent",
+         "refs": [
+          {
+           "p": "107",
+           "link": "ch8#pronouns"
+          },
+          {
+           "p": "108",
+           "link": "ch8#contractions"
+          },
+          {
+           "p": "124",
+           "link": "ch9#silent"
+          },
+          {
+           "p": "125",
+           "link": "ch9#homophones"
+          }
+         ]
+        },
+        {
+         "term": "Voiceless and voiced",
+         "refs": [
+          {
+           "p": "30–32",
+           "link": "ch3#voicing"
+          }
+         ]
+        },
+        {
+         "term": "Stops",
+         "refs": [
+          {
+           "p": "33",
+           "link": "ch3#stops"
+          },
+          {
+           "p": "104",
+           "link": "ch8#vowel-vowel"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Content words",
+       "refs": [
+        {
+         "p": "85–88",
+         "link": "ch6#content"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Contractions",
+       "refs": [
+        {
+         "p": "108–114",
+         "link": "ch8#contractions"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Common expressions",
+         "refs": [
+          {
+           "p": "111",
+           "link": "ch8#contracted"
+          }
+         ]
+        },
+        {
+         "term": "In conditional tense",
+         "refs": [
+          {
+           "p": "113",
+           "link": "ch8#conditional"
+          },
+          {
+           "p": "114",
+           "link": "ch8#conditional"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Contrastive stress",
+       "refs": [
+        {
+         "p": "92–94",
+         "link": "ch6#contrastive"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "D",
+     "entries": [
+      {
+       "term": "/d/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "33",
+         "link": "ch3#stops"
+        },
+        {
+         "p": "45",
+         "link": "ch4#th"
+        },
+        {
+         "p": "46",
+         "link": "ch4#th"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Fast <em>d</em>",
+         "refs": [
+          {
+           "p": "38",
+           "link": "ch4#fast-d"
+          },
+          {
+           "p": "39",
+           "link": "ch4#dr"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "/dʒ/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        },
+        {
+         "p": "41",
+         "link": "ch4#ed"
+        },
+        {
+         "p": "59",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": [
+        {
+         "term": "/dʒ/ versus /ʒ/",
+         "refs": [
+          {
+           "p": "159",
+           "link": "guide#japanese"
+          }
+         ]
+        },
+        {
+         "term": "/dʒ/ versus /y/",
+         "refs": [
+          {
+           "p": "175",
+           "link": "guide#spanish"
+          }
+         ]
+        },
+        {
+         "term": "/dʒ/ versus /z/",
+         "refs": [
+          {
+           "p": "163",
+           "link": "guide#korean"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "<em>dr</em>",
+       "refs": [
+        {
+         "p": "39",
+         "link": "ch4#dr"
+        },
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Dropped syllables",
+       "refs": [
+        {
+         "p": "123",
+         "link": "ch9#dropped"
+        },
+        {
+         "p": "124",
+         "link": "ch9#silent"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>ds</em>, words ending in",
+       "refs": [
+        {
+         "p": "64",
+         "link": "ch4#clusters"
+        },
+        {
+         "p": "65",
+         "link": "ch4#clusters"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>du</em> sounds like “joo”",
+       "refs": [
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        },
+        {
+         "p": "41",
+         "link": "ch4#ed"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "E",
+     "entries": [
+      {
+       "term": "-<em>ed</em> endings",
+       "refs": [
+        {
+         "p": "41–43",
+         "link": "ch4#ed"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Linking <em>-ed</em> with initial vowel",
+         "refs": [
+          {
+           "p": "42",
+           "link": "ch4#ed"
+          },
+          {
+           "p": "43",
+           "link": "ch4#ed"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Especially difficult words",
+       "refs": [
+        {
+         "p": "121–123",
+         "link": "ch9#difficult"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "F",
+     "entries": [
+      {
+       "term": "/f/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        }
+       ],
+       "subs": [
+        {
+         "term": "/f/ versus /h/",
+         "refs": [
+          {
+           "p": "158",
+           "link": "guide#japanese"
+          }
+         ]
+        },
+        {
+         "term": "/f/ versus /p/",
+         "refs": [
+          {
+           "p": "162",
+           "link": "guide#korean"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Farsi",
+       "refs": [
+        {
+         "p": "135–137",
+         "link": "guide#farsi"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Fast <em>d</em>",
+       "refs": [
+        {
+         "p": "38",
+         "link": "ch4#fast-d"
+        },
+        {
+         "p": "39",
+         "link": "ch4#dr"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Filipino",
+       "refs": [
+        {
+         "p": "138–140",
+         "link": "guide#filipino"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Focus words",
+       "refs": [
+        {
+         "p": "91",
+         "link": "ch6#thought-groups"
+        },
+        {
+         "p": "92",
+         "link": "ch6#contrastive"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Formal speech",
+       "refs": [
+        {
+         "p": "115–117",
+         "link": "ch8#casual"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "French",
+       "refs": [
+        {
+         "p": "141–145",
+         "link": "guide#french"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Function words",
+       "refs": [
+        {
+         "p": "88",
+         "link": "ch6#reducing"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "G",
+     "entries": [
+      {
+       "term": "/g/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "German",
+       "refs": [
+        {
+         "p": "146–149",
+         "link": "guide#german"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "H",
+     "entries": [
+      {
+       "term": "Held <em>t</em>",
+       "refs": [
+        {
+         "p": "34–36",
+         "link": "ch4#t-sounds"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Plus consonant",
+         "refs": [
+          {
+           "p": "35",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "Before /n/",
+         "refs": [
+          {
+           "p": "36",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Homophones",
+       "refs": [
+        {
+         "p": "125",
+         "link": "ch9#homophones"
+        },
+        {
+         "p": "126",
+         "link": "ch9#homophones"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "I",
+     "entries": [
+      {
+       "term": "Indian languages",
+       "refs": [
+        {
+         "p": "150–153",
+         "link": "guide#indian"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Indonesian",
+       "refs": [
+        {
+         "p": "154–157",
+         "link": "guide#indonesian"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Informal speech",
+       "refs": [
+        {
+         "p": "115–117",
+         "link": "ch8#casual"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Intonation",
+       "refs": [
+        {
+         "p": "95–100",
+         "link": "ch7#questions"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Expressing choices",
+         "refs": [
+          {
+           "p": "98",
+           "link": "ch7#choices"
+          },
+          {
+           "p": "99",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "Expressing emotions",
+         "refs": [
+          {
+           "p": "95",
+           "link": "ch7#questions"
+          },
+          {
+           "p": "99",
+           "link": "ch7#wavering"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "Falling",
+         "refs": [
+          {
+           "p": "95–97",
+           "link": "ch7#questions"
+          }
+         ]
+        },
+        {
+         "term": "Introductory words",
+         "refs": [
+          {
+           "p": "98",
+           "link": "ch7#choices"
+          }
+         ]
+        },
+        {
+         "term": "Non-final",
+         "refs": [
+          {
+           "p": "97",
+           "link": "ch7#unfinished"
+          },
+          {
+           "p": "98",
+           "link": "ch7#choices"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "Rising",
+         "refs": [
+          {
+           "p": "96",
+           "link": "ch7#rising"
+          },
+          {
+           "p": "97",
+           "link": "ch7#unfinished"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "Series of words",
+         "refs": [
+          {
+           "p": "98",
+           "link": "ch7#choices"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "Statements",
+         "refs": [
+          {
+           "p": "95",
+           "link": "ch7#questions"
+          }
+         ]
+        },
+        {
+         "term": "Unfinished thoughts",
+         "refs": [
+          {
+           "p": "97",
+           "link": "ch7#unfinished"
+          }
+         ]
+        },
+        {
+         "term": "Wavering",
+         "refs": [
+          {
+           "p": "99",
+           "link": "ch7#wavering"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        },
+        {
+         "term": "<em>Wh</em> questions",
+         "refs": [
+          {
+           "p": "95–97",
+           "link": "ch7#questions"
+          }
+         ]
+        },
+        {
+         "term": "Yes/No Questions",
+         "refs": [
+          {
+           "p": "96",
+           "link": "ch7#rising"
+          },
+          {
+           "p": "97",
+           "link": "ch7#unfinished"
+          },
+          {
+           "p": "100",
+           "link": "ch7#wavering"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "J",
+     "entries": [
+      {
+       "term": "Japanese",
+       "refs": [
+        {
+         "p": "158–161",
+         "link": "guide#japanese"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "/ʒ/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        }
+       ],
+       "subs": [
+        {
+         "term": "/ʒ/ versus /dʒ/",
+         "refs": [
+          {
+           "p": "159",
+           "link": "guide#japanese"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "K",
+     "entries": [
+      {
+       "term": "/k/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Korean",
+       "refs": [
+        {
+         "p": "162–165",
+         "link": "guide#korean"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "L",
+     "entries": [
+      {
+       "term": "/l/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "50",
+         "link": "ch4#l"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Confusing /n/ and /l/",
+         "refs": [
+          {
+           "p": "128",
+           "link": "guide#chinese"
+          }
+         ]
+        },
+        {
+         "term": "Formation of",
+         "refs": [
+          {
+           "p": "50",
+           "link": "ch4#l"
+          }
+         ]
+        },
+        {
+         "term": "Versus /r/",
+         "refs": [
+          {
+           "p": "52–54",
+           "link": "ch4#l-r"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Linking",
+       "refs": [
+        {
+         "p": "101",
+         "link": "ch8#linking"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Consonant to consonant",
+         "refs": [
+          {
+           "p": "103",
+           "link": "ch8#cons-same"
+          },
+          {
+           "p": "104",
+           "link": "ch8#vowel-vowel"
+          },
+          {
+           "p": "106",
+           "link": "ch8#vowels-within"
+          }
+         ]
+        },
+        {
+         "term": "Consonant to vowel",
+         "refs": [
+          {
+           "p": "101",
+           "link": "ch8#linking"
+          },
+          {
+           "p": "102",
+           "link": "ch8#cons-vowel"
+          },
+          {
+           "p": "105",
+           "link": "ch8#vowels-within"
+          },
+          {
+           "p": "106",
+           "link": "ch8#vowels-within"
+          }
+         ]
+        },
+        {
+         "term": "-<em>ed</em> endings",
+         "refs": []
+        },
+        {
+         "term": "Vowel to vowel",
+         "refs": [
+          {
+           "p": "104",
+           "link": "ch8#vowel-vowel"
+          },
+          {
+           "p": "105",
+           "link": "ch8#vowels-within"
+          },
+          {
+           "p": "106",
+           "link": "ch8#vowels-within"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Long vowels + /l/",
+       "refs": [
+        {
+         "p": "51",
+         "link": "ch4#l"
+        },
+        {
+         "p": "52",
+         "link": "ch4#l-r"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Longer words",
+       "refs": [
+        {
+         "p": "132",
+         "link": "guide#chinese"
+        },
+        {
+         "p": "133",
+         "link": "guide#chinese"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "M",
+     "entries": [
+      {
+       "term": "/m/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "176",
+         "link": "guide#spanish"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "N",
+     "entries": [
+      {
+       "term": "/n/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "63",
+         "link": "ch4#clusters"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Illustration",
+         "refs": [
+          {
+           "p": "63",
+           "link": "ch4#clusters"
+          }
+         ]
+        },
+        {
+         "term": "Confusing /n/ and /l/",
+         "refs": [
+          {
+           "p": "128",
+           "link": "guide#chinese"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "<em>ng</em> /ŋ/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "62",
+         "link": "ch4#ng"
+        },
+        {
+         "p": "63",
+         "link": "ch4#clusters"
+        }
+       ],
+       "subs": [
+        {
+         "term": "<em>n</em> versus <em>ng</em>",
+         "refs": [
+          {
+           "p": "63",
+           "link": "ch4#clusters"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Names of places",
+       "refs": [
+        {
+         "p": "83",
+         "link": "ch6#names"
+        },
+        {
+         "p": "84",
+         "link": "ch6#lengthening"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Names of people",
+       "refs": [
+        {
+         "p": "83",
+         "link": "ch6#names"
+        },
+        {
+         "p": "84",
+         "link": "ch6#lengthening"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Native Language Guide",
+       "refs": [],
+       "subs": [
+        {
+         "term": "Chinese",
+         "refs": [
+          {
+           "p": "127–134",
+           "link": "guide#chinese"
+          }
+         ]
+        },
+        {
+         "term": "Farsi",
+         "refs": [
+          {
+           "p": "135–137",
+           "link": "guide#farsi"
+          }
+         ]
+        },
+        {
+         "term": "Filipino languages",
+         "refs": [
+          {
+           "p": "138–140",
+           "link": "guide#filipino"
+          }
+         ]
+        },
+        {
+         "term": "French",
+         "refs": [
+          {
+           "p": "141–145",
+           "link": "guide#french"
+          }
+         ]
+        },
+        {
+         "term": "German",
+         "refs": [
+          {
+           "p": "146–149",
+           "link": "guide#german"
+          }
+         ]
+        },
+        {
+         "term": "Indian languages",
+         "refs": [
+          {
+           "p": "150–153",
+           "link": "guide#indian"
+          }
+         ]
+        },
+        {
+         "term": "Indonesian",
+         "refs": [
+          {
+           "p": "154–157",
+           "link": "guide#indonesian"
+          }
+         ]
+        },
+        {
+         "term": "Japanese",
+         "refs": [
+          {
+           "p": "158–161",
+           "link": "guide#japanese"
+          }
+         ]
+        },
+        {
+         "term": "Korean",
+         "refs": [
+          {
+           "p": "162–165",
+           "link": "guide#korean"
+          }
+         ]
+        },
+        {
+         "term": "Portuguese",
+         "refs": [
+          {
+           "p": "166–169",
+           "link": "guide#portuguese"
+          }
+         ]
+        },
+        {
+         "term": "Russian",
+         "refs": [
+          {
+           "p": "170–173",
+           "link": "guide#russian"
+          }
+         ]
+        },
+        {
+         "term": "Spanish",
+         "refs": [
+          {
+           "p": "174–178",
+           "link": "guide#spanish"
+          }
+         ]
+        },
+        {
+         "term": "Vietnamese",
+         "refs": [
+          {
+           "p": "179–183",
+           "link": "guide#vietnamese"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Neutral vowel /ɘ/",
+       "refs": [
+        {
+         "p": "1",
+         "link": "ch1#main-vowels"
+        },
+        {
+         "p": "9–11",
+         "link": "ch1#uh"
+        },
+        {
+         "p": "20–23",
+         "link": "ch2#uh-a-aw-ou"
+        },
+        {
+         "p": "26",
+         "link": "ch2#u-yu"
+        },
+        {
+         "p": "28",
+         "link": "ch2#vowel-r"
+        },
+        {
+         "p": "51",
+         "link": "ch4#l"
+        },
+        {
+         "p": "67",
+         "link": "ch5#stressed"
+        },
+        {
+         "p": "76",
+         "link": "ch5#reduced-review"
+        },
+        {
+         "p": "77",
+         "link": "ch5#reduced-review"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Non-final intonation",
+       "refs": [
+        {
+         "p": "97",
+         "link": "ch7#unfinished"
+        },
+        {
+         "p": "98",
+         "link": "ch7#choices"
+        },
+        {
+         "p": "100",
+         "link": "ch7#wavering"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Nouns",
+       "refs": [
+        {
+         "p": "86–88",
+         "link": "ch6#content-verbs"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Syllable stress rules for",
+         "refs": [
+          {
+           "p": "69–71",
+           "link": "ch5#two-syllable"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Numbers, stress of",
+       "refs": [
+        {
+         "p": "83",
+         "link": "ch6#names"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "P",
+     "entries": [
+      {
+       "term": "/p/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "33",
+         "link": "ch3#stops"
+        }
+       ],
+       "subs": [
+        {
+         "term": "/f/ versus /p/",
+         "refs": [
+          {
+           "p": "162",
+           "link": "guide#korean"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Phrasal verbs",
+       "refs": [
+        {
+         "p": "81",
+         "link": "ch6#phrasal"
+        },
+        {
+         "p": "82",
+         "link": "ch6#phrasal-nouns"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Noun forms of",
+         "refs": [
+          {
+           "p": "82",
+           "link": "ch6#phrasal-nouns"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Portuguese",
+       "refs": [
+        {
+         "p": "166–169",
+         "link": "guide#portuguese"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Prefixes, stress rules",
+       "refs": [
+        {
+         "p": "72",
+         "link": "ch5#prefixes"
+        },
+        {
+         "p": "73",
+         "link": "ch5#prefixes"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Prepositions",
+       "refs": [
+        {
+         "p": "88",
+         "link": "ch6#reducing"
+        },
+        {
+         "p": "89",
+         "link": "ch6#weak"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Pronouns",
+       "refs": [
+        {
+         "p": "88",
+         "link": "ch6#reducing"
+        },
+        {
+         "p": "107",
+         "link": "ch8#pronouns"
+        },
+        {
+         "p": "108",
+         "link": "ch8#contractions"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "Q",
+     "entries": [
+      {
+       "term": "Questions",
+       "refs": [
+        {
+         "p": "95–100",
+         "link": "ch7#questions"
+        },
+        {
+         "p": "113",
+         "link": "ch8#conditional"
+        },
+        {
+         "p": "114",
+         "link": "ch8#conditional"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "R",
+     "entries": [
+      {
+       "term": "/r/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "48",
+         "link": "ch4#r"
+        },
+        {
+         "p": "49",
+         "link": "ch4#r"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Formation of",
+         "refs": [
+          {
+           "p": "48",
+           "link": "ch4#r"
+          }
+         ]
+        },
+        {
+         "term": "Before a consonant",
+         "refs": [
+          {
+           "p": "49",
+           "link": "ch4#r"
+          }
+         ]
+        },
+        {
+         "term": "Versus /l/",
+         "refs": [
+          {
+           "p": "52–54",
+           "link": "ch4#l-r"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Reduced pronouns",
+       "refs": [
+        {
+         "p": "107",
+         "link": "ch8#pronouns"
+        },
+        {
+         "p": "108",
+         "link": "ch8#contractions"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Reduced vowels",
+       "refs": [
+        {
+         "p": "76",
+         "link": "ch5#reduced-review"
+        },
+        {
+         "p": "77",
+         "link": "ch5#reduced-review"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Rising intonation",
+       "refs": [
+        {
+         "p": "96–100",
+         "link": "ch7#rising"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Russian",
+       "refs": [
+        {
+         "p": "170–173",
+         "link": "guide#russian"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "S",
+     "entries": [
+      {
+       "term": "/s/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "46",
+         "link": "ch4#th"
+        },
+        {
+         "p": "47",
+         "link": "ch4#th"
+        },
+        {
+         "p": "59–62",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": [
+        {
+         "term": "<em>s</em> or <em>z</em>?",
+         "refs": [
+          {
+           "p": "59",
+           "link": "ch4#s-z"
+          },
+          {
+           "p": "60",
+           "link": "ch4#s-z"
+          }
+         ]
+        },
+        {
+         "term": "Rules",
+         "refs": [
+          {
+           "p": "49",
+           "link": "ch4#r"
+          }
+         ]
+        },
+        {
+         "term": "Versus <em>th</em>",
+         "refs": [
+          {
+           "p": "46",
+           "link": "ch4#th"
+          },
+          {
+           "p": "47",
+           "link": "ch4#th"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Schwa",
+       "refs": [
+        {
+         "p": "66",
+         "link": "ch5#stressed"
+        },
+        {
+         "p": "76",
+         "link": "ch5#reduced-review"
+        },
+        {
+         "p": "77",
+         "link": "ch5#reduced-review"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Sh /ʃ/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "59",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": [
+        {
+         "term": "<em>sh</em> versus <em>ch</em>",
+         "refs": [
+          {
+           "p": "175",
+           "link": "guide#spanish"
+          },
+          {
+           "p": "176",
+           "link": "guide#spanish"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Silent letters",
+       "refs": [
+        {
+         "p": "124",
+         "link": "ch9#silent"
+        },
+        {
+         "p": "125",
+         "link": "ch9#homophones"
+        }
+       ],
+       "subs": [
+        {
+         "term": "In reduced pronouns",
+         "refs": [
+          {
+           "p": "107",
+           "link": "ch8#pronouns"
+          },
+          {
+           "p": "108",
+           "link": "ch8#contractions"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Silent <em>t</em> after <em>n</em>",
+       "refs": [
+        {
+         "p": "36",
+         "link": "ch4#t-sounds"
+        },
+        {
+         "p": "37",
+         "link": "ch4#t-sounds"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Spanish",
+       "refs": [
+        {
+         "p": "174–178",
+         "link": "guide#spanish"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Spelling",
+       "refs": [],
+       "subs": [
+        {
+         "term": "Same spelling, different pronunciation",
+         "refs": [
+          {
+           "p": "119",
+           "link": "ch9#same-spelling"
+          },
+          {
+           "p": "120",
+           "link": "ch9#two-correct"
+          }
+         ]
+        },
+        {
+         "term": "Silent letters",
+         "refs": [
+          {
+           "p": "124",
+           "link": "ch9#silent"
+          },
+          {
+           "p": "125",
+           "link": "ch9#homophones"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Stops",
+       "refs": [
+        {
+         "p": "33",
+         "link": "ch3#stops"
+        },
+        {
+         "p": "104",
+         "link": "ch8#vowel-vowel"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Holding final stops",
+         "refs": [
+          {
+           "p": "33",
+           "link": "ch3#stops"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Stress",
+       "refs": [],
+       "subs": [
+        {
+         "term": "Contrastive",
+         "refs": [
+          {
+           "p": "92",
+           "link": "ch6#contrastive"
+          },
+          {
+           "p": "93",
+           "link": "ch6#contrastive"
+          }
+         ]
+        },
+        {
+         "term": "Two syllable words",
+         "refs": [
+          {
+           "p": "69",
+           "link": "ch5#two-syllable"
+          },
+          {
+           "p": "70",
+           "link": "ch5#noun-verb"
+          }
+         ]
+        },
+        {
+         "term": "Of verbs",
+         "refs": [
+          {
+           "p": "69",
+           "link": "ch5#two-syllable"
+          },
+          {
+           "p": "70",
+           "link": "ch5#noun-verb"
+          }
+         ]
+        },
+        {
+         "term": "Of nouns",
+         "refs": [
+          {
+           "p": "69",
+           "link": "ch5#two-syllable"
+          },
+          {
+           "p": "70",
+           "link": "ch5#noun-verb"
+          }
+         ]
+        },
+        {
+         "term": "Prefixes",
+         "refs": [
+          {
+           "p": "72",
+           "link": "ch5#prefixes"
+          },
+          {
+           "p": "73",
+           "link": "ch5#prefixes"
+          }
+         ]
+        },
+        {
+         "term": "Syllables",
+         "refs": [
+          {
+           "p": "66–77",
+           "link": "ch5#stressed"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Strong forms",
+       "refs": [
+        {
+         "p": "90",
+         "link": "ch6#strong"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Study Tips",
+       "refs": [
+        {
+         "p": "25",
+         "link": "ch2#oo-u"
+        },
+        {
+         "p": "36",
+         "link": "ch4#t-sounds"
+        },
+        {
+         "p": "60",
+         "link": "ch4#s-z"
+        },
+        {
+         "p": "69",
+         "link": "ch5#two-syllable"
+        },
+        {
+         "p": "74",
+         "link": "ch5#stress-changes"
+        },
+        {
+         "p": "108",
+         "link": "ch8#contractions"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Suffixes, stress rules",
+       "refs": [
+        {
+         "p": "72",
+         "link": "ch5#prefixes"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Syllables",
+       "refs": [
+        {
+         "p": "66",
+         "link": "ch5#stressed"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Dropped",
+         "refs": [
+          {
+           "p": "123",
+           "link": "ch9#dropped"
+          },
+          {
+           "p": "124",
+           "link": "ch9#silent"
+          }
+         ]
+        },
+        {
+         "term": "Rules",
+         "refs": [
+          {
+           "p": "69–72",
+           "link": "ch5#two-syllable"
+          }
+         ]
+        },
+        {
+         "term": "Number of",
+         "refs": [
+          {
+           "p": "133",
+           "link": "guide#chinese"
+          }
+         ]
+        },
+        {
+         "term": "Stressed",
+         "refs": [
+          {
+           "p": "66–77",
+           "link": "ch5#stressed"
+          }
+         ]
+        },
+        {
+         "term": "Stress changes",
+         "refs": [
+          {
+           "p": "68–71",
+           "link": "ch5#dangers"
+          }
+         ]
+        },
+        {
+         "term": "Two syllable words",
+         "refs": [
+          {
+           "p": "69",
+           "link": "ch5#two-syllable"
+          },
+          {
+           "p": "70",
+           "link": "ch5#noun-verb"
+          }
+         ]
+        },
+        {
+         "term": "Unstressed",
+         "refs": [
+          {
+           "p": "66",
+           "link": "ch5#stressed"
+          },
+          {
+           "p": "67",
+           "link": "ch5#stressed"
+          },
+          {
+           "p": "76",
+           "link": "ch5#reduced-review"
+          },
+          {
+           "p": "77",
+           "link": "ch5#reduced-review"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "T",
+     "entries": [
+      {
+       "term": "/t/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32–34",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "44",
+         "link": "ch4#th"
+        },
+        {
+         "p": "45",
+         "link": "ch4#th"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Between two vowels",
+         "refs": [
+          {
+           "p": "37",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "Held t",
+         "refs": [
+          {
+           "p": "34",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "Held t before /n/",
+         "refs": [
+          {
+           "p": "36",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "Held t plus consonant",
+         "refs": [
+          {
+           "p": "35",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "Silent t after /n/",
+         "refs": [
+          {
+           "p": "36",
+           "link": "ch4#t-sounds"
+          },
+          {
+           "p": "37",
+           "link": "ch4#t-sounds"
+          }
+         ]
+        },
+        {
+         "term": "t+r",
+         "refs": [
+          {
+           "p": "39",
+           "link": "ch4#dr"
+          },
+          {
+           "p": "40",
+           "link": "ch4#tu"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "th - /θ/ and /ð/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Illustrations",
+         "refs": [
+          {
+           "p": "44",
+           "link": "ch4#th"
+          },
+          {
+           "p": "47",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Versus d",
+         "refs": [
+          {
+           "p": "45",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Versus t",
+         "refs": [
+          {
+           "p": "44",
+           "link": "ch4#th"
+          },
+          {
+           "p": "45",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Versus s",
+         "refs": [
+          {
+           "p": "46",
+           "link": "ch4#th"
+          },
+          {
+           "p": "47",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Versus z",
+         "refs": [
+          {
+           "p": "46",
+           "link": "ch4#th"
+          },
+          {
+           "p": "47",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Voiced",
+         "refs": [
+          {
+           "p": "30",
+           "link": "ch3#voicing"
+          },
+          {
+           "p": "45–47",
+           "link": "ch4#th"
+          }
+         ]
+        },
+        {
+         "term": "Voiceless",
+         "refs": [
+          {
+           "p": "30",
+           "link": "ch3#voicing"
+          },
+          {
+           "p": "44",
+           "link": "ch4#th"
+          },
+          {
+           "p": "45",
+           "link": "ch4#th"
+          },
+          {
+           "p": "47",
+           "link": "ch4#th"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "<em>the</em> or <em>“thee”</em>?",
+       "refs": [
+        {
+         "p": "105",
+         "link": "ch8#vowels-within"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>this</em> versus <em>these</em>",
+       "refs": [
+        {
+         "p": "61",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Thought groups",
+       "refs": [
+        {
+         "p": "91",
+         "link": "ch6#thought-groups"
+        },
+        {
+         "p": "92",
+         "link": "ch6#contrastive"
+        },
+        {
+         "p": "107",
+         "link": "ch8#pronouns"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>tr</em> sound",
+       "refs": [
+        {
+         "p": "39",
+         "link": "ch4#dr"
+        },
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>ts</em> words ending with",
+       "refs": [
+        {
+         "p": "64",
+         "link": "ch4#clusters"
+        },
+        {
+         "p": "65",
+         "link": "ch4#clusters"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "<em>tu</em> sound",
+       "refs": [
+        {
+         "p": "40",
+         "link": "ch4#tu"
+        },
+        {
+         "p": "41",
+         "link": "ch4#ed"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Two correct pronunciations",
+       "refs": [
+        {
+         "p": "120",
+         "link": "ch9#two-correct"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "U",
+     "entries": [
+      {
+       "term": "Unstressed words",
+       "refs": [
+        {
+         "p": "88–90",
+         "link": "ch6#reducing"
+        },
+        {
+         "p": "107",
+         "link": "ch8#pronouns"
+        },
+        {
+         "p": "108",
+         "link": "ch8#contractions"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "V",
+     "entries": [
+      {
+       "term": "/v/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "54–55",
+         "link": "ch4#v"
+        },
+        {
+         "p": "58",
+         "link": "ch4#v-w"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Formation of",
+         "refs": [
+          {
+           "p": "30",
+           "link": "ch3#voicing"
+          },
+          {
+           "p": "54",
+           "link": "ch4#v"
+          }
+         ]
+        },
+        {
+         "term": "Versus /b/",
+         "refs": [
+          {
+           "p": "55",
+           "link": "ch4#b-v"
+          },
+          {
+           "p": "56",
+           "link": "ch4#w"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Verbs",
+       "refs": [
+        {
+         "p": "86–88",
+         "link": "ch6#content-verbs"
+        }
+       ],
+       "subs": [
+        {
+         "term": "-<em>ed</em> endings",
+         "refs": [
+          {
+           "p": "41–43",
+           "link": "ch4#ed"
+          }
+         ]
+        },
+        {
+         "term": "Syllable stress rules for",
+         "refs": [
+          {
+           "p": "69–71",
+           "link": "ch5#two-syllable"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Vietnamese",
+       "refs": [
+        {
+         "p": "179–183",
+         "link": "guide#vietnamese"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Voiced and voiceless consonants",
+       "refs": [
+        {
+         "p": "30–32",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "179",
+         "link": "guide#vietnamese"
+        },
+        {
+         "p": "180",
+         "link": "guide#vietnamese"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Vowel Sounds",
+       "refs": [],
+       "subs": [
+        {
+         "term": "/ɑ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "8–10",
+           "link": "ch1#a"
+          },
+          {
+           "p": "12",
+           "link": "ch1#ou"
+          },
+          {
+           "p": "13",
+           "link": "ch1#u"
+          },
+          {
+           "p": "20",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "21",
+           "link": "ch2#problematic-o"
+          },
+          {
+           "p": "23",
+           "link": "ch2#american-aw"
+          },
+          {
+           "p": "25",
+           "link": "ch2#oo-u"
+          }
+         ]
+        },
+        {
+         "term": "/aɪ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "15",
+           "link": "ch1#ai"
+          },
+          {
+           "p": "16",
+           "link": "ch1#au"
+          }
+         ]
+        },
+        {
+         "term": "/aʊ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "16",
+           "link": "ch1#au"
+          },
+          {
+           "p": "17",
+           "link": "ch1#oi"
+          }
+         ]
+        },
+        {
+         "term": "/æ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "7–9",
+           "link": "ch1#ae"
+          },
+          {
+           "p": "19",
+           "link": "ch2#e-ae"
+          },
+          {
+           "p": "20",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "25",
+           "link": "ch2#oo-u"
+          }
+         ]
+        },
+        {
+         "term": "/ɛ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "6–8",
+           "link": "ch1#e"
+          },
+          {
+           "p": "19",
+           "link": "ch2#e-ae"
+          },
+          {
+           "p": "20",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "25",
+           "link": "ch2#oo-u"
+          }
+         ]
+        },
+        {
+         "term": "/eɪ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "5",
+           "link": "ch1#ei"
+          },
+          {
+           "p": "7",
+           "link": "ch1#ae"
+          }
+         ]
+        },
+        {
+         "term": "/ɘ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "9–11",
+           "link": "ch1#uh"
+          },
+          {
+           "p": "20–23",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "26",
+           "link": "ch2#u-yu"
+          },
+          {
+           "p": "28",
+           "link": "ch2#vowel-r"
+          },
+          {
+           "p": "51",
+           "link": "ch4#l"
+          },
+          {
+           "p": "67",
+           "link": "ch5#stressed"
+          },
+          {
+           "p": "76",
+           "link": "ch5#reduced-review"
+          },
+          {
+           "p": "77",
+           "link": "ch5#reduced-review"
+          }
+         ]
+        },
+        {
+         "term": "/ɘr/",
+         "refs": [
+          {
+           "p": "6",
+           "link": "ch1#e"
+          },
+          {
+           "p": "15",
+           "link": "ch1#ai"
+          },
+          {
+           "p": "27",
+           "link": "ch2#vowel-r"
+          }
+         ]
+        },
+        {
+         "term": "/i/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "3–5",
+           "link": "ch1#I"
+          },
+          {
+           "p": "18",
+           "link": "ch2#ih-i"
+          },
+          {
+           "p": "19",
+           "link": "ch2#e-ae"
+          }
+         ]
+        },
+        {
+         "term": "/ɪ/",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "3–5",
+           "link": "ch1#I"
+          },
+          {
+           "p": "18",
+           "link": "ch2#ih-i"
+          },
+          {
+           "p": "19",
+           "link": "ch2#e-ae"
+          }
+         ]
+        },
+        {
+         "term": "/ɔ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "10–13",
+           "link": "ch1#aw"
+          },
+          {
+           "p": "20",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "21",
+           "link": "ch2#problematic-o"
+          },
+          {
+           "p": "24–26",
+           "link": "ch2#american-aw"
+          }
+         ]
+        },
+        {
+         "term": "/ɔɪ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "17",
+           "link": "ch1#oi"
+          }
+         ]
+        },
+        {
+         "term": "/oʊ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "12",
+           "link": "ch1#ou"
+          },
+          {
+           "p": "13",
+           "link": "ch1#u"
+          },
+          {
+           "p": "20",
+           "link": "ch2#uh-a-aw-ou"
+          },
+          {
+           "p": "21",
+           "link": "ch2#problematic-o"
+          },
+          {
+           "p": "24–26",
+           "link": "ch2#american-aw"
+          }
+         ]
+        },
+        {
+         "term": "/ʊ/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "13",
+           "link": "ch1#u"
+          },
+          {
+           "p": "14",
+           "link": "ch1#u"
+          },
+          {
+           "p": "25",
+           "link": "ch2#oo-u"
+          },
+          {
+           "p": "26",
+           "link": "ch2#u-yu"
+          }
+         ]
+        },
+        {
+         "term": "/u/",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          },
+          {
+           "p": "13",
+           "link": "ch1#u"
+          },
+          {
+           "p": "14",
+           "link": "ch1#u"
+          },
+          {
+           "p": "25",
+           "link": "ch2#oo-u"
+          },
+          {
+           "p": "26",
+           "link": "ch2#u-yu"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Vowels",
+       "refs": [],
+       "subs": [
+        {
+         "term": "Chart",
+         "refs": [
+          {
+           "p": "1",
+           "link": "ch1#main-vowels"
+          },
+          {
+           "p": "2",
+           "link": "ch1#production"
+          }
+         ]
+        },
+        {
+         "term": "Illustrations",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          }
+         ]
+        },
+        {
+         "term": "In unstressed words",
+         "refs": [
+          {
+           "p": "88–90",
+           "link": "ch6#reducing"
+          }
+         ]
+        },
+        {
+         "term": "High",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          }
+         ]
+        },
+        {
+         "term": "Low",
+         "refs": [
+          {
+           "p": "2",
+           "link": "ch1#production"
+          }
+         ]
+        },
+        {
+         "term": "Length",
+         "refs": [
+          {
+           "p": "84",
+           "link": "ch6#lengthening"
+          },
+          {
+           "p": "85",
+           "link": "ch6#content"
+          }
+         ]
+        },
+        {
+         "term": "Linking",
+         "refs": [
+          {
+           "p": "102–106",
+           "link": "ch8#cons-vowel"
+          }
+         ]
+        },
+        {
+         "term": "Production of",
+         "refs": [
+          {
+           "p": "2–17",
+           "link": "ch1#production"
+          }
+         ]
+        },
+        {
+         "term": "Reduced",
+         "refs": [
+          {
+           "p": "66",
+           "link": "ch5#stressed"
+          },
+          {
+           "p": "67",
+           "link": "ch5#stressed"
+          },
+          {
+           "p": "88–90",
+           "link": "ch6#reducing"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "W",
+     "entries": [
+      {
+       "term": "/w/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "56–58",
+         "link": "ch4#w"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Formation of",
+         "refs": [
+          {
+           "p": "56",
+           "link": "ch4#w"
+          }
+         ]
+        },
+        {
+         "term": "Versus /<em>v</em>/",
+         "refs": [
+          {
+           "p": "56",
+           "link": "ch4#w"
+          },
+          {
+           "p": "58",
+           "link": "ch4#v-w"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "term": "Warning: Common Mistake",
+       "refs": [
+        {
+         "p": "24",
+         "link": "ch2#american-aw"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "44",
+         "link": "ch4#th"
+        },
+        {
+         "p": "45",
+         "link": "ch4#th"
+        },
+        {
+         "p": "50",
+         "link": "ch4#l"
+        },
+        {
+         "p": "52",
+         "link": "ch4#l-r"
+        },
+        {
+         "p": "59",
+         "link": "ch4#s-z"
+        },
+        {
+         "p": "60",
+         "link": "ch4#s-z"
+        },
+        {
+         "p": "61",
+         "link": "ch4#s-z"
+        },
+        {
+         "p": "91",
+         "link": "ch6#thought-groups"
+        },
+        {
+         "p": "102",
+         "link": "ch8#cons-vowel"
+        },
+        {
+         "p": "107",
+         "link": "ch8#pronouns"
+        },
+        {
+         "p": "109",
+         "link": "ch8#contracted"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Warning: Dangerous Mistake",
+       "refs": [
+        {
+         "p": "18",
+         "link": "ch2#ih-i"
+        },
+        {
+         "p": "21",
+         "link": "ch2#problematic-o"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Weak forms",
+       "refs": [
+        {
+         "p": "89",
+         "link": "ch6#weak"
+        },
+        {
+         "p": "90",
+         "link": "ch6#strong"
+        }
+       ],
+       "subs": []
+      },
+      {
+       "term": "Word stress",
+       "refs": [
+        {
+         "p": "78",
+         "link": "ch6#compound"
+        },
+        {
+         "p": "84",
+         "link": "ch6#lengthening"
+        },
+        {
+         "p": "85",
+         "link": "ch6#content"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "X",
+     "entries": [
+      {
+       "term": "<em>x</em>",
+       "refs": [
+        {
+         "p": "64",
+         "link": "ch4#clusters"
+        },
+        {
+         "p": "59",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": []
+      }
+     ]
+    },
+    {
+     "letter": "Y",
+     "entries": [
+      {
+       "term": "/y/",
+       "refs": [
+        {
+         "p": "31",
+         "link": "ch3#vowel-length"
+        }
+       ],
+       "subs": [
+        {
+         "term": "/y/ versus /dʒ/",
+         "refs": [
+          {
+           "p": "175",
+           "link": "guide#spanish"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "letter": "Z",
+     "entries": [
+      {
+       "term": "/z/",
+       "refs": [
+        {
+         "p": "30",
+         "link": "ch3#voicing"
+        },
+        {
+         "p": "32",
+         "link": "ch3#vowel-length"
+        },
+        {
+         "p": "46",
+         "link": "ch4#th"
+        },
+        {
+         "p": "47",
+         "link": "ch4#th"
+        },
+        {
+         "p": "59–62",
+         "link": "ch4#s-z"
+        }
+       ],
+       "subs": [
+        {
+         "term": "Four rules",
+         "refs": [
+          {
+           "p": "59",
+           "link": "ch4#s-z"
+          }
+         ]
+        },
+        {
+         "term": "/s/ or /z/?",
+         "refs": [
+          {
+           "p": "59–62",
+           "link": "ch4#s-z"
+          }
+         ]
+        },
+        {
+         "term": "/z/ versus /dʒ/",
+         "refs": [
+          {
+           "p": "163",
+           "link": "guide#korean"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

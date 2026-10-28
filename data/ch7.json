@@ -1,0 +1,483 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "paras": [
+    "“Intonation” is the melody of language and is made up of pitches that rise and fall. This rising and falling melody is used to communicate our intentions and our emotions. In spoken language, intonation replaces punctuation. It tells the listener whether we are finished talking or whether we have something more to say; whether we are asking a question or making a statement. Intonation also gives information that words alone cannot give. It can indicate anger, surprise, confusion, hesitation, sarcasm, interest, or lack of interest. If your speech has good intonation it will be more dynamic and more interesting to listen to."
+   ],
+   "cd": 4,
+   "track": 1
+  },
+  {
+   "t": "sec",
+   "id": "falling",
+   "title": "Falling Intonation",
+   "cd": 4,
+   "track": 2
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Lower your voice at the end of the sentence to produce a “falling intonation.” This intonation is used for a variety of reasons:"
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Falling intonation is used in simple sentences that are not questions. For example:"
+   ],
+   "title": "Statements",
+   "id": "statements"
+  },
+  {
+   "t": "list",
+   "items": [
+    "My name is John.↘",
+    "It’s nice to meet you.↘",
+    "Have a nice day.↘",
+    "I’m going outside.↘",
+    "I’ll be back in a minute.↘"
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Falling intonation is also used when asking questions if they contain interrogative words such as <em>where, what, why, when, how,</em> and <em>who</em>. For example:"
+   ],
+   "title": "Questions",
+   "cd": 4,
+   "track": 3,
+   "id": "questions"
+  },
+  {
+   "t": "list",
+   "items": [
+    "What’s his name?↘",
+    "Why did you leave?↘",
+    "Where are you going?↘",
+    "What are you thinking about?↘",
+    "How are you doing?↘",
+    "When does it start?↘",
+    "Who told you?↘"
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "rising",
+   "title": "Rising Intonation",
+   "cd": 4,
+   "track": 4
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Raise the pitch of your voice at the end of a sentence to create “rising intonation.” Rising intonation is used in “yes/no questions.” For example, “Did you see it?” is a “yes/no” question. It can be answered with either a “yes” or a “no.” Compare that question with this one: “When did you see it?” this one cannot be answered by a simple “yes” or “no.”"
+   ]
+  },
+  {
+   "t": "list",
+   "items": [
+    "Did he work yesterday?↗",
+    "Does he know about↗ it?",
+    "Can you call me at↗ five?",
+    "Is it good?↗",
+    "Is that↗ it?",
+    "Excuse me?↗",
+    "Really?↗"
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 5
+  },
+  {
+   "t": "box",
+   "kind": "advice",
+   "title": "Advice from a Successful Student",
+   "text": "“I don’t get upset with myself if my accent isn’t perfect. I know I am making progress as long as I practice all the time. Don’t be too hard on yourself if you are still making mistakes. Developing an American accent is a process. It doesn’t happen overnight.” Sabrina Stoll, Germany",
+   "by": "",
+   "cd": 4,
+   "track": 6
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "yes/no question",
+    "question words"
+   ],
+   "rows": [
+    [
+     "Do you teach?↗",
+     "What do you teach?↘"
+    ],
+    [
+     "Did you see the movie?↗",
+     "When did you see the movie?↘"
+    ],
+    [
+     "Do you know that↗ guy?",
+     "How do you know that↘ guy?"
+    ],
+    [
+     "Did you buy the↗ car?",
+     "Where did you buy the↘ car?"
+    ],
+    [
+     "Do you work↗ there?",
+     "Why do you work there?↘"
+    ]
+   ],
+   "title": "Sentence Pairs for Practice",
+   "cd": 4,
+   "track": 7,
+   "sub": "The following question pairs contain both rising and falling intonation, depending on whether they contain a “question word” or whether they are “yes/no” questions. The first question of the pair has rising intonation, and the second has falling intonation."
+  },
+  {
+   "t": "sec",
+   "id": "non-final",
+   "title": "Non-final Intonation",
+   "cd": 4,
+   "track": 8
+  },
+  {
+   "t": "p",
+   "paras": [
+    "With “non-final intonation,” the pitch rises and falls within the sentence or word. This type of intonation is used in various situations which are outlined below."
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Non-final intonation is often used to indicate that you have not ended a thought. To indicate that you have something more to say, raise your pitch at the end of the phrase. For example, “When I saw him...” or “If I study hard...”"
+   ],
+   "title": "Unfinished Thoughts",
+   "id": "unfinished"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I bought the book.↘",
+     "I bought the book,↗ but I didn’t read↘ it."
+    ],
+    [
+     "I finished school.↘",
+     "When I finished school,↗ I moved to New York.↘"
+    ],
+    [
+     "I’ll study hard.↘",
+     "If I study hard,↗ I’ll get an↘ A."
+    ],
+    [
+     "I’m going inside.↘",
+     "I’m going inside,↗ to get something to drink.↘"
+    ]
+   ],
+   "title": "Sentence Pairs for Practice",
+   "cd": 4,
+   "track": 9,
+   "sub": "The first sentence in each pair has falling intonation which indicates that the thought has ended. The second sentence contains rising intonation indicating that the thought has not ended."
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Non-final intonation is also used with introductory words, such as <em>actually</em> or <em>by the way</em>. Since these types of words indicate that a thought is not finished, the non-final intonation is appropriate."
+   ],
+   "title": "Introductory Words",
+   "cd": 4,
+   "track": 10,
+   "id": "introductory"
+  },
+  {
+   "t": "nums",
+   "cols": 1,
+   "items": [
+    "As a matter of fact,↗ I do know the answer.↘",
+    "As far as I’m concerned,↗ you did great.↘",
+    "Actually,↗ it was pretty good.↘",
+    "In my opinion,↗ it’s too expensive.↘",
+    "If you don’t mind,↗ I’d like to close the window.↘",
+    "By the way,↗ how did you know that?↘"
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 11
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Non-final intonation is used in words and phrases that are listed in a series. The voice rises at the end of each item, but falls with the final item."
+   ],
+   "title": "Series of Words",
+   "cd": 4,
+   "track": 12,
+   "id": "series"
+  },
+  {
+   "t": "nums",
+   "cols": 1,
+   "items": [
+    "I like football,↗ basketball,↗ tennis,↗ and golf.↘",
+    "I’m taking math,↗ biology,↗ French,↗ and history.↘",
+    "I left work,↗ came home,↗ and had dinner.↘",
+    "I need milk,↗ apples,↗ eggs,↗ and sugar.↘",
+    "“I learned law so well,↗ the day I graduated↗ I sued the college,↗ won the case,↗ and got my tuition back.”↘ ~Fred Allen"
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 13
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Finally, non-final intonation is used when giving a choice between two or more things."
+   ],
+   "title": "Expressing Choices",
+   "cd": 4,
+   "track": 14,
+   "id": "choices"
+  },
+  {
+   "t": "nums",
+   "cols": 1,
+   "items": [
+    "Do you want to eat↗ in or eat out?↘",
+    "Is your birthday in March↗ or in April?↘",
+    "Do you speak Cantonese↗ or Mandarin?↘",
+    "Is his name Matthew↗ or Michael?↘",
+    "Do you want the blue↗ one or the black↘ one?"
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "wavering",
+   "title": "Wavering Intonation",
+   "cd": 4,
+   "track": 15
+  },
+  {
+   "t": "p",
+   "paras": [
+    "“Wavering intonation” is used for expressing specific emotions or attitudes. With this type of intonation, the pitch changes within words.",
+    "Some of the emotions you can express with your intonation include anger, surprise, sarcasm, hesitation, uncertainty, disgust, fear, amazement, and pity."
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Let’s start with the words <em>you did</em>. We can say them five different ways depending on the emotion or intention. Listen to the audio to hear the intonation changes."
+   ],
+   "cd": 4,
+   "track": 16
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "1. You did?",
+     "<em>curious</em>"
+    ],
+    [
+     "2. You did?",
+     "<em>very surprised</em>"
+    ],
+    [
+     "3. You did?",
+     "<em>disappointed</em>"
+    ],
+    [
+     "4. You did?",
+     "<em>angry</em>"
+    ],
+    [
+     "5. You did.",
+     "<em>in agreement</em>"
+    ]
+   ],
+   "title": "Meaning"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Now try saying the expression, <em>thanks a lot</em>, in three different ways. Change the intonation each time."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "1. Thanks a lot.",
+     "<em>normal</em>"
+    ],
+    [
+     "2. Thanks a lot.",
+     "<em>very happy</em>"
+    ],
+    [
+     "3. Thanks a lot.",
+     "<em>sarcastic</em>"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Try saying <em>okay</em> with different emotions."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Okay.",
+     "<em>normal</em>"
+    ],
+    [
+     "Okay.",
+     "<em>hesitant or unwilling</em>"
+    ],
+    [
+     "Okay!",
+     "<em>very excited</em>"
+    ],
+    [
+     "Okay!",
+     "<em>frustrated and angry</em>"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Try saying <em>no</em> with different emotions."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "No!",
+     "<em>angry</em>"
+    ],
+    [
+     "No?",
+     "<em>surprised</em>"
+    ],
+    [
+     "No...",
+     "<em>hesitant</em>"
+    ],
+    [
+     "No.",
+     "<em>sarcastic</em>"
+    ]
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "a. Did you do it?",
+     "<em>curious</em>"
+    ],
+    [
+     "b. No.",
+     "<em>normal</em>"
+    ],
+    [
+     "a. No?",
+     "<em>very surprised</em>"
+    ],
+    [
+     "b. No!",
+     "<em>angry</em>"
+    ],
+    [
+     "a. Why not?",
+     "<em>surprised</em>"
+    ],
+    [
+     "b. I don’t know.",
+     "<em>hesitant</em>"
+    ],
+    [
+     "a. You don’t know?",
+     "<em>angry</em>"
+    ],
+    [
+     "b. I don’t know.",
+     "<em>angry</em>"
+    ],
+    [
+     "a. Oh really?",
+     "<em>sarcastic</em>"
+    ],
+    [
+     "b. Yeah, really.",
+     "<em>angry</em>"
+    ]
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 17,
+   "sub": "Angry Friends"
+  },
+  {
+   "t": "script",
+   "lines": [
+    [
+     "Emily",
+     "Rachel, is that you?",
+     ""
+    ],
+    [
+     "Rachel",
+     "Hi Emily.",
+     ""
+    ],
+    [
+     "Emily",
+     "I didn’t recognize you at first. Did you lose weight?",
+     ""
+    ],
+    [
+     "Rachel",
+     "As a matter of fact, I lost twenty pounds.",
+     ""
+    ],
+    [
+     "Emily",
+     "Really? How did you do it?",
+     ""
+    ],
+    [
+     "Rachel",
+     "Well, I stopped eating cake, ice cream, potato chips, and candy bars, and I started eating healthier foods like salads, fruit, nuts, and vegetables.",
+     ""
+    ],
+    [
+     "Emily",
+     "Wow! I have to say, you look amazing.",
+     ""
+    ],
+    [
+     "Rachel",
+     "Do you really think so?",
+     ""
+    ],
+    [
+     "Emily",
+     "Absolutely!",
+     ""
+    ]
+   ],
+   "title": "Losing Weight",
+   "cd": 4,
+   "track": 18,
+   "sub": "This dialogue has examples of all of the types of intonation you have learned so far."
+  }
+ ]
+}

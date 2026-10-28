@@ -1,0 +1,1695 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "track": 2,
+   "paras": [
+    "In this chapter you will learn how to accurately pronounce all of the main American English vowel sounds. The English alphabet has five vowels, a, e, i, o and u, but it has about 15 main vowel sounds. For some learners this is one of the most difficult aspects of American English to master. Speakers of languages with fewer vowel sounds are likely to speak English using only the same number of sounds that exist in their native language. Sometimes they do not even hear the distinction between certain sounds in English. Consequently, non-native speakers might pronounce “hill” and “heal” the same way. Similarly, the words sell and sale, or cup, cop, and cap may also sound the same when spoken by a non-native speaker.",
+    "Because there is not always a direct relationship between how a word is spelled and how it is pronounced, you should become familiar with the phonetic symbols that represent the sounds that you are learning. This way, you will be able to use your dictionary when you come across a word that contains a vowel sound that you don’t know how to pronounce. Make sure you also become familiar with the phonetic symbols of your dictionary as they may be a bit different from the symbols that this book uses."
+   ]
+  },
+  {
+   "t": "vowels",
+   "id": "main-vowels",
+   "title": "Main Vowel Sounds of American English",
+   "track": 3,
+   "rows": [
+    [
+     "1.",
+     "/i/",
+     "read, heat, meet, seat, seen, feet",
+     "Please eat the meat and the cheese before you leave."
+    ],
+    [
+     "2.",
+     "/ɪ/",
+     "in, bit, this, give, sister, will, city",
+     "My sister Linda will live in the big city."
+    ],
+    [
+     "3.",
+     "/eɪ/",
+     "late, gate, bait, fail, main, braid, wait",
+     "Jane’s face looks great for her age of eighty-eight."
+    ],
+    [
+     "4.",
+     "/ɛ/",
+     "let, get, end, any, fell, bread, men, said",
+     "I went to Texas for my friend’s wedding."
+    ],
+    [
+     "5.",
+     "/æ/",
+     "last, apple, add, can, answer, class",
+     "The handsome man lost his baggage after his travels."
+    ],
+    [
+     "6.",
+     "/ɑ/",
+     "stop, lock, farm, want, army, possible, got",
+     "John is positive that his car was parked in that lot."
+    ],
+    [
+     "7.",
+     "/ɘ/",
+     "come, up, jump, but, does, love, money, about",
+     "Your younger brother doesn’t trust us, does he?"
+    ],
+    [
+     "8.",
+     "/ɔ/",
+     "all, fall, author, also, applaud, thought, fought",
+     "Paula was doing laundry all day long."
+    ],
+    [
+     "9.",
+     "/oʊ/",
+     "go, slow, so, those, post, moment, drove",
+     "Oh, no! Don’t open the window, it’s cold."
+    ],
+    [
+     "10.",
+     "/ʊ/",
+     "look, took, put, foot, full, wolf, cookie",
+     "He would read the good book if he could."
+    ],
+    [
+     "11.",
+     "/u/",
+     "cool, soup, moon, boot, tooth, move, true",
+     "Sue knew about the food in the room."
+    ],
+    [
+     "12.",
+     "/ɘr/",
+     "her, work, sure, first, early, were, earn, occur",
+     "What were the first words that girl learned?"
+    ],
+    [
+     "13.",
+     "/aɪ/",
+     "time, nine, dry, high, style, five, China",
+     "I advise you to ride a bicycle in China."
+    ],
+    [
+     "14.",
+     "/aʊ/",
+     "south, house, cow, found, down, town",
+     "He went out of the house for about an hour."
+    ],
+    [
+     "15.",
+     "/ɔɪ/",
+     "oil, choice, moist, enjoy, avoid, voice",
+     "Let’s avoid the annoying noise."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "id": "production",
+   "title": "Production of Vowels",
+   "track": 4,
+   "paras": [
+    "We categorize vowels as front, middle, or back depending on which part of the tongue is used to produce the sound. For example, /i/ is a front vowel because the front part of the tongue goes up in the front of the mouth, and /u/ is a back vowel because the back of the tongue goes up in the back of the mouth. We also categorize vowels as high or low. In high vowels, the tongue is pushed up high near the roof of the mouth as in /i/, and in low vowels, the tongue is flat down at the bottom of the mouth, as in /æ/.",
+    "Diphthongs consist of two different vowel sounds that are closely joined together and treated as one vowel. They are represented by two phonetic symbols. To create this sound, move your tongue smoothly from one vowel position to another. The following vowels are diphthongs: /eɪ/ as in take, /oʊ/ as in boat, /aɪ/ as in time, /aʊ/ as in house, and /ɔɪ/ as in boy.",
+    "You will now learn how to correctly pronounce each type of vowel. Refer to the diagrams below to help you better understand the correct tongue and lip positions for these various vowel sounds."
+   ]
+  },
+  {
+   "t": "img",
+   "src": "images/vowel-diagram.png",
+   "alt": "Tongue positions for front, middle and back vowels"
+  },
+  {
+   "t": "sound",
+   "id": "i",
+   "sym": "/i/",
+   "word": "meet",
+   "quote": "A thief believes everybody steals.",
+   "by": "E.W. Howe",
+   "lips": "Slightly smiling, tense, not rounded.",
+   "tongue": "Tense, high and far forward near the roof of the mouth."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /i/",
+   "track": 5,
+   "rows": [
+    [
+     "1.",
+     "ee",
+     "meet, feel, see, free"
+    ],
+    [
+     "2.",
+     "ea",
+     "team, reach, mean, sea"
+    ],
+    [
+     "3.",
+     "ie and ei",
+     "belief, piece, neither, receive"
+    ],
+    [
+     "4.",
+     "final e",
+     "me, we, she, he"
+    ],
+    [
+     "5.",
+     "e + consonant + e",
+     "these, Chinese, Peter"
+    ],
+    [
+     "6.",
+     "final y",
+     "city, duty, country, ability"
+    ],
+    [
+     "7.",
+     "endings with ique",
+     "unique, boutique, critique"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 6,
+   "items": [
+    "deep sea",
+    "beans and cheese",
+    "severe heat",
+    "breathe deep",
+    "three meals",
+    "green leaves",
+    "extremely easy",
+    "sweet dreams",
+    "peaches and cream",
+    "speak Chinese"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 7,
+   "items": [
+    "The employees agreed to meet at eight fifteen.",
+    "Don’t keep the TV near the heater.",
+    "It’s extremely easy to cheat when the teacher isn’t here.",
+    "Please speak to Peter about the employee meeting.",
+    "Steve will reread the email before he leaves."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "I",
+   "sym": "/ɪ/",
+   "word": "sit",
+   "quote": "In the middle of a difficulty lies opportunity.",
+   "by": "Albert Einstein",
+   "lips": "Slightly parted, relaxed.",
+   "tongue": "Relaxed, high, but not as high as for /i/. Sides of the tongue touch upper back teeth."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɪ/",
+   "track": 8,
+   "rows": [
+    [
+     "1.",
+     "i (most common)",
+     "sit, give, this, dinner"
+    ],
+    [
+     "2.",
+     "ui",
+     "build, quit, quick, guilty"
+    ],
+    [
+     "3.",
+     "y between two consonants",
+     "system, gym, symbol, hymn"
+    ]
+   ],
+   "exc": [
+    [
+     "been",
+     "in American English been is pronounced the same as bin, but in British English been sounds like bean."
+    ],
+    [
+     "women",
+     "sounds like wimin (the o is an /ɪ/ sound)"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 9,
+   "items": [
+    "big city",
+    "innocent victim",
+    "drink milk",
+    "children’s film",
+    "simple living",
+    "fish and chips",
+    "trip to Italy",
+    "spring picnic",
+    "this thing",
+    "winter wind"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 10,
+   "items": [
+    "Kim will visit her big sister Linda in Virginia.",
+    "In the beginning it was difficult for Jim to quit drinking.",
+    "The Smiths invited him to an informal dinner.",
+    "This city has an interesting history.",
+    "When did Bill Clinton visit the Middle East?"
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /i/ Versus /ɪ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 11,
+   "heads": [
+    "/i/",
+    "/ɪ/"
+   ],
+   "rows": [
+    [
+     "leave",
+     "live"
+    ],
+    [
+     "feel",
+     "fill"
+    ],
+    [
+     "least",
+     "list"
+    ],
+    [
+     "he’s",
+     "his"
+    ],
+    [
+     "sleep",
+     "slip"
+    ],
+    [
+     "cheap",
+     "chip"
+    ],
+    [
+     "beat",
+     "bit"
+    ],
+    [
+     "steal",
+     "still"
+    ],
+    [
+     "each",
+     "itch"
+    ],
+    [
+     "seek",
+     "sick"
+    ],
+    [
+     "feet",
+     "fit"
+    ],
+    [
+     "sheep",
+     "ship"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds.",
+   "track": 12,
+   "items": [
+    "still sleepy",
+    "very interesting",
+    "feeling ill",
+    "it’s easy",
+    "is he?",
+    "big deal",
+    "these things",
+    "Middle East",
+    "little meal",
+    "green pill"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "ei",
+   "sym": "/eɪ/",
+   "word": "take",
+   "quote": "Take time for all things: great haste makes great waste.",
+   "by": "Benjamin Franklin",
+   "lips": "Not rounded, relaxed.",
+   "tongue": "Tense, moves from the mid-high to high position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /eɪ/",
+   "track": 13,
+   "rows": [
+    [
+     "1.",
+     "a + consonant + e",
+     "late, came, take, save"
+    ],
+    [
+     "2.",
+     "ai",
+     "rain, wait, pain, aim"
+    ],
+    [
+     "3.",
+     "ay",
+     "say, away, play, Monday"
+    ],
+    [
+     "4.",
+     "ey",
+     "they, survey, obey"
+    ],
+    [
+     "5.",
+     "eigh",
+     "weigh, eight, neighbor, freight"
+    ],
+    [
+     "6.",
+     "a (less common)",
+     "April, alien, angel"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 14,
+   "items": [
+    "the same day",
+    "stay away",
+    "escape from jail",
+    "take a break",
+    "stay the same",
+    "explain the situation",
+    "play baseball",
+    "eighty-eight",
+    "bake a cake",
+    "save the whales"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 15,
+   "items": [
+    "She complained about her weight but ate the cake anyway.",
+    "Jake hates waiting for trains and planes.",
+    "It rains and hails in April and May.",
+    "I will stay in the game even though it’s late.",
+    "My neighbor from Spain moved away today."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "e",
+   "sym": "/ɛ/",
+   "word": "get",
+   "quote": "Every exit is an entry somewhere.",
+   "by": "Tom Stoppard",
+   "lips": "Farther apart than for /eɪ/ and relaxed.",
+   "tongue": "Relaxed, mid-high position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɛ/",
+   "track": 16,
+   "rows": [
+    [
+     "1.",
+     "e",
+     "get, end, next, general"
+    ],
+    [
+     "2.",
+     "ea",
+     "heavy, head, read, measure"
+    ]
+   ],
+   "exc": [
+    [
+     "said, says",
+     "again, against, any, many"
+    ]
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "warning",
+   "title": "Warning: Common Mistake",
+   "text": "The verb say is pronounced with the /ɛ/ sound in the past tense form and in the present tense form when it is followed by an s.",
+   "heads": [
+    "/eɪ/",
+    "/ɛ/"
+   ],
+   "rows": [
+    [
+     "I say",
+     "I said"
+    ],
+    [
+     "",
+     "he says"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 17,
+   "items": [
+    "presidential election",
+    "bend your legs",
+    "plenty of energy",
+    "remember the pledge",
+    "better friend",
+    "heavy metal",
+    "get better",
+    "elegant dress",
+    "next Wednesday",
+    "well read"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 18,
+   "items": [
+    "Without some extra effort you will never excel.",
+    "Jenny and her friend had eggs for breakfast.",
+    "I expect this session to end at ten.",
+    "On the seventh of February the weather was wet.",
+    "I see my best friend Fred every seven days."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /ɛ/ Versus /eɪ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 19,
+   "heads": [
+    "/ɛ/",
+    "/eɪ/"
+   ],
+   "rows": [
+    [
+     "pen",
+     "pain"
+    ],
+    [
+     "sell",
+     "sail"
+    ],
+    [
+     "wet",
+     "wait"
+    ],
+    [
+     "west",
+     "waste"
+    ],
+    [
+     "tell",
+     "tail"
+    ],
+    [
+     "Ed",
+     "aid"
+    ],
+    [
+     "test",
+     "taste"
+    ],
+    [
+     "men",
+     "main"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds.",
+   "track": 20,
+   "items": [
+    "less rain",
+    "taste test",
+    "neck pain",
+    "fell away",
+    "wet day",
+    "main men",
+    "great dress",
+    "headache"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "ae",
+   "sym": "/æ/",
+   "word": "fat",
+   "quote": "He who laughs last laughs best.",
+   "by": "American proverb",
+   "lips": "Open, not rounded.",
+   "tongue": "Lowest of all the front vowels. Flat on the floor of the mouth."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /æ/",
+   "track": 21,
+   "rows": [
+    [
+     "",
+     "a",
+     "hat, apple, man, answer"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 22,
+   "items": [
+    "bad example",
+    "national anthem",
+    "back at the ranch",
+    "accurate answer",
+    "bad habit",
+    "practical plan",
+    "annual gathering",
+    "last chance",
+    "handsome actor",
+    "angry man"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 23,
+   "items": [
+    "This is your last chance to give me an accurate answer.",
+    "Sam sat at the back of the math class.",
+    "Danny had a salad and a sandwich in the cafeteria.",
+    "Nancy has a bad attitude in her Spanish class.",
+    "Kathy would rather study acting at the national academy."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /ɛ/ Versus /æ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 24,
+   "heads": [
+    "/ɛ/",
+    "/æ/"
+   ],
+   "rows": [
+    [
+     "men",
+     "man"
+    ],
+    [
+     "said",
+     "sad"
+    ],
+    [
+     "end",
+     "and"
+    ],
+    [
+     "then",
+     "than"
+    ],
+    [
+     "guess",
+     "gas"
+    ],
+    [
+     "slept",
+     "slapped"
+    ],
+    [
+     "head",
+     "had"
+    ],
+    [
+     "expensive",
+     "expansive"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /ɛ/ or /æ/.",
+   "track": 25,
+   "items": [
+    "sad endings",
+    "less land",
+    "angry men",
+    "ten gallons",
+    "last exit",
+    "bad friend"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "a",
+   "sym": "/ɑ/",
+   "word": "father",
+   "quote": "Never go to a doctor whose office plants have died.",
+   "by": "Erma Bombeck",
+   "lips": "Apart, as if you are yawning. Not rounded.",
+   "tongue": "Relaxed, flat at the floor of the mouth."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɑ/",
+   "track": 26,
+   "rows": [
+    [
+     "",
+     "o",
+     "hot, stop, modern, job"
+    ],
+    [
+     "",
+     "a",
+     "father, watch, dark, want"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 27,
+   "items": [
+    "common problem",
+    "body shop",
+    "occupy the office",
+    "office politics",
+    "from top to bottom",
+    "logical response",
+    "hot topic",
+    "modern hospital",
+    "nonstop",
+    "sloppy job"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 28,
+   "items": [
+    "Ronald is confident that he got the job.",
+    "Scott goes to a lot of rock concerts.",
+    "The doctor operated in the modern hospital.",
+    "Bob will probably lock the office.",
+    "He’s got a lot of dollars in his pocket."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /æ/ Versus /ɑ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 29,
+   "heads": [
+    "/æ/",
+    "/ɑ/"
+   ],
+   "rows": [
+    [
+     "hat",
+     "hot"
+    ],
+    [
+     "lack",
+     "lock"
+    ],
+    [
+     "sack",
+     "sock"
+    ],
+    [
+     "sang",
+     "song"
+    ],
+    [
+     "cap",
+     "cop"
+    ],
+    [
+     "add",
+     "odd"
+    ],
+    [
+     "rack",
+     "rock"
+    ],
+    [
+     "tap",
+     "top"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /æ/ or /ɑ/.",
+   "track": 30,
+   "items": [
+    "hot pan",
+    "man’s job",
+    "top answer",
+    "got back",
+    "bad dog",
+    "back pocket"
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "advice",
+   "track": 31,
+   "title": "Advice from a Successful Student",
+   "text": "“During my drive to and from work, I always listen to audio books. The speaker’s voice is usually very clear and not sloppy like the speech I sometimes hear on the street. I listen closely to the accent of the speaker and try to imitate it. I play back certain parts over and over again. The more I do this the better my accent gets.”",
+   "by": "Katarina Matolek, Croatia"
+  },
+  {
+   "t": "sound",
+   "id": "uh",
+   "sym": "/ɘ/",
+   "word": "fun*",
+   "quote": "Love all, trust a few, do wrong to none.",
+   "by": "William Shakespeare",
+   "lips": "Completely relaxed, slightly parted.",
+   "tongue": "Relaxed, middle position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɘ/",
+   "track": 32,
+   "rows": [
+    [
+     "",
+     "u",
+     "but, fun, summer, drunk"
+    ],
+    [
+     "",
+     "o",
+     "love, done, come, son"
+    ],
+    [
+     "",
+     "ou",
+     "cousin, country, enough"
+    ]
+   ],
+   "exc": null,
+   "note": "*The IPA (International Phonetic Alphabet) symbol for the stressed vowel is /ʌ/ and for the unstressed vowel it is /ɘ/. They are basically the same sound. Throughout this book the /ɘ/ will be used for both. For further study of this reduced, neutral sound, refer to Chapter Five, which deals with syllable stress and reduced vowels."
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 33,
+   "items": [
+    "young son",
+    "jump up",
+    "fun in the sun",
+    "another subject",
+    "wonderful mother",
+    "under the rug",
+    "number one",
+    "undercover",
+    "enough money",
+    "Sunday Brunch"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 34,
+   "items": [
+    "Your younger brother doesn’t trust us.",
+    "What country does he come from?",
+    "I had another fun summer in London.",
+    "I don’t have much stuff in the trunk of my truck.",
+    "I love the sunny summer months."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /ɑ/ Versus /ɘ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 35,
+   "heads": [
+    "/ɑ/",
+    "/ɘ/"
+   ],
+   "rows": [
+    [
+     "Don",
+     "done"
+    ],
+    [
+     "shot",
+     "shut"
+    ],
+    [
+     "fond",
+     "fund"
+    ],
+    [
+     "got",
+     "gut"
+    ],
+    [
+     "lock",
+     "luck"
+    ],
+    [
+     "non",
+     "none"
+    ],
+    [
+     "robber",
+     "rubber"
+    ],
+    [
+     "doll",
+     "dull"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /ɑ/ or /ɘ/.",
+   "track": 36,
+   "items": [
+    "come on",
+    "got lucky",
+    "not enough",
+    "cost much",
+    "fun job",
+    "stop running",
+    "jump on",
+    "gunshot"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "aw",
+   "sym": "/ɔ/",
+   "word": "saw",
+   "quote": "Courage is the first of human qualities because it is the quality which guarantees all the others.",
+   "by": "Winston Churchill",
+   "lips": "Apart, very slightly rounded, oval shape.",
+   "tongue": "Slightly tense, down near the floor of mouth."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɔ/",
+   "track": 37,
+   "rows": [
+    [
+     "",
+     "aw",
+     "saw, law, awful, awesome"
+    ],
+    [
+     "",
+     "au",
+     "author, August, applaud, audition"
+    ],
+    [
+     "",
+     "al",
+     "small, walk, tall, always"
+    ],
+    [
+     "",
+     "ought",
+     "bought, thought, fought"
+    ],
+    [
+     "",
+     "aught",
+     "daughter, caught"
+    ],
+    [
+     "",
+     "o",
+     "gone, off, long"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 38,
+   "items": [
+    "pause in the hall",
+    "awful thought",
+    "water the lawn",
+    "talk until dawn",
+    "autumn in Austria",
+    "walk the dog",
+    "small talk",
+    "already exhausted",
+    "tall wall",
+    "caught the ball"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 39,
+   "items": [
+    "The audience applauded even though the talk was awful.",
+    "His small daughter thought that Santa Claus would come in August.",
+    "I saw your mother-in-law in the mall.",
+    "He bought an automobile at the auction last fall.",
+    "This sauce is awesome, Paula!"
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /ɘ/ Versus /ɔ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 40,
+   "heads": [
+    "/ɘ/",
+    "/ɔ/"
+   ],
+   "rows": [
+    [
+     "cut",
+     "caught"
+    ],
+    [
+     "hull",
+     "hall"
+    ],
+    [
+     "done",
+     "dawn"
+    ],
+    [
+     "dug",
+     "dog"
+    ],
+    [
+     "but",
+     "bought"
+    ],
+    [
+     "sung",
+     "song"
+    ],
+    [
+     "cuff",
+     "cough"
+    ],
+    [
+     "flood",
+     "flawed"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /ɘ/ or /ɔ/.",
+   "track": 41,
+   "items": [
+    "another dog",
+    "long month",
+    "much talk",
+    "bought lunch",
+    "coffee cup",
+    "small club"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "ou",
+   "sym": "/oʊ/",
+   "word": "boat",
+   "quote": "No bird soars too high if he soars with his own wings.",
+   "by": "William Blake",
+   "lips": "Very rounded and tense.",
+   "tongue": "A bit tense, moves from mid to high position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /oʊ/",
+   "track": 42,
+   "rows": [
+    [
+     "",
+     "o",
+     "no, don’t, home, only"
+    ],
+    [
+     "",
+     "oa",
+     "road, coat, boat"
+    ],
+    [
+     "",
+     "ow",
+     "own, slow, window"
+    ],
+    [
+     "",
+     "ough",
+     "though, although"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 43,
+   "items": [
+    "phone home",
+    "own a home",
+    "almost over",
+    "open road",
+    "drove slowly",
+    "don’t smoke",
+    "low profile",
+    "slow motion",
+    "old poem",
+    "golden bowl"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 44,
+   "items": [
+    "We both hope it’s going to snow.",
+    "Oh, no! Don’t open the window! It’s cold.",
+    "Do you want to go bowling or roller skating?",
+    "I chose a bowl of soup, potatoes, roast beef, and a soda.",
+    "I don’t know if Joan smokes."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Word Contrasts for /ɑ, ɔ/ Versus /oʊ/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same. Please note that /ɑ/ and /ɔ/ sound almost the same, and therefore are both listed in the first column.",
+   "track": 45,
+   "heads": [
+    "/ɑ, ɔ/",
+    "/oʊ/"
+   ],
+   "rows": [
+    [
+     "bought",
+     "boat"
+    ],
+    [
+     "law",
+     "low"
+    ],
+    [
+     "clause",
+     "close"
+    ],
+    [
+     "odd",
+     "owed"
+    ],
+    [
+     "want",
+     "won’t"
+    ],
+    [
+     "caught",
+     "coat"
+    ],
+    [
+     "walk",
+     "woke"
+    ],
+    [
+     "not",
+     "note"
+    ],
+    [
+     "got",
+     "goat"
+    ],
+    [
+     "non",
+     "known"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /ɑ, ɔ/ or /oʊ/.",
+   "track": 46,
+   "items": [
+    "old law",
+    "not home",
+    "those dogs",
+    "odd boat",
+    "walk slowly",
+    "only daughter"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "oo",
+   "sym": "/ʊ/",
+   "word": "good",
+   "quote": "Without words, without writing and without books there would be no history, there could be no concept of humanity.",
+   "by": "Hermann Hesse",
+   "lips": "Very slightly rounded.",
+   "tongue": "Relaxed, back is raised, higher than for /oʊ/."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ʊ/",
+   "track": 47,
+   "rows": [
+    [
+     "",
+     "oo",
+     "good, look, childhood, understood"
+    ],
+    [
+     "",
+     "u",
+     "push, full, pull, sugar"
+    ],
+    [
+     "",
+     "ould",
+     "would, could, should"
+    ]
+   ],
+   "exc": [
+    [
+     "woman",
+     "sounds like “wumun”"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 48,
+   "items": [
+    "good book",
+    "took a look",
+    "good looking",
+    "fully cooked",
+    "shook his foot",
+    "sugar cookie",
+    "push and pull",
+    "wool pullover",
+    "wooden hook",
+    "good childhood"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 49,
+   "items": [
+    "Would you help me look for my book?",
+    "The sugar cookies taste good.",
+    "The butcher is a good cook.",
+    "He would read the book if he could.",
+    "Butch visited his old neighborhood in Brooklyn."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "u",
+   "sym": "/u/",
+   "word": "too",
+   "quote": "If you could choose one characteristic that would get you through life, choose a sense of humor.",
+   "by": "Jennifer Jones",
+   "lips": "Tense, rounded, as if blowing a balloon.",
+   "tongue": "Slightly tense, high."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /u/",
+   "track": 50,
+   "rows": [
+    [
+     "",
+     "oo",
+     "too, food, school, tool"
+    ],
+    [
+     "",
+     "ue",
+     "true, blue, avenue"
+    ],
+    [
+     "",
+     "o",
+     "do, who, lose, prove"
+    ],
+    [
+     "",
+     "ew",
+     "new, blew, drew"
+    ],
+    [
+     "",
+     "u",
+     "super, rule, duty, student"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 51,
+   "items": [
+    "too few",
+    "fruit juice",
+    "soup spoon",
+    "new suit",
+    "true value",
+    "blue shoes",
+    "new moon",
+    "suitable suitcase",
+    "two rooms",
+    "super cool"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 52,
+   "items": [
+    "The new roof was installed in June.",
+    "I drink fruit juice and eat a lot of soup.",
+    "Your blue shoes are really cool.",
+    "I need proof that you’re telling the truth.",
+    "The statue on the avenue is truly beautiful."
+   ]
+  },
+  {
+   "t": "contrast",
+   "kicker": "Quick Review",
+   "title": "Vowel Contrasts for /ʊ/ Versus /u/",
+   "sub": "Make sure you don’t pronounce these pairs of words the same.",
+   "track": 53,
+   "heads": [
+    "/ʊ/",
+    "/u/"
+   ],
+   "rows": [
+    [
+     "full",
+     "fool"
+    ],
+    [
+     "look",
+     "Luke"
+    ],
+    [
+     "pull",
+     "pool"
+    ],
+    [
+     "stood",
+     "stewed"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "sub": "Make sure the two words in each pair are pronounced with different vowel sounds: /ʊ/ or /u/.",
+   "track": 54,
+   "items": [
+    "good food",
+    "full room",
+    "cook stew",
+    "blue book",
+    "two cookies",
+    "too full"
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "er",
+   "sym": "/ɘr/",
+   "word": "bird",
+   "quote": "Life is uncertain. Eat dessert first.",
+   "by": "Ernestine Ulmer",
+   "lips": "Slightly rounded.",
+   "tongue": "Tense, mid-level position. Tip is curled up a bit and pulled back."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɘr/",
+   "track": 55,
+   "rows": [
+    [
+     "",
+     "er",
+     "her, mercy, mother, winner"
+    ],
+    [
+     "",
+     "ear",
+     "heard, learn, earth"
+    ],
+    [
+     "",
+     "ir",
+     "first, girl, firm"
+    ],
+    [
+     "",
+     "or",
+     "doctor, word, worry"
+    ],
+    [
+     "",
+     "ur",
+     "occur, curtain, jury"
+    ],
+    [
+     "",
+     "ure",
+     "insecure, culture"
+    ],
+    [
+     "",
+     "ar",
+     "grammar, collar"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 56,
+   "items": [
+    "first person",
+    "purple shirt",
+    "learn German",
+    "other world",
+    "serve dinner",
+    "third term",
+    "firm words",
+    "early bird",
+    "nervous girl",
+    "thirty-third"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 57,
+   "items": [
+    "I will work during the third term.",
+    "They served turkey for dinner.",
+    "Her purple shirt is dirty.",
+    "She gave birth to a third girl.",
+    "It’s not worth worrying about another birthday."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "ai",
+   "sym": "/aɪ/",
+   "word": "time",
+   "quote": "We must use time wisely and forever realize that the time is always ripe to do right.",
+   "by": "Nelson Mandela",
+   "lips": "Open, not rounded, closing a bit when moving to the /ɪ/ position.",
+   "tongue": "Relaxed, moves from flat to high position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /aɪ/",
+   "track": 58,
+   "rows": [
+    [
+     "",
+     "y",
+     "fly, sky, apply, style"
+    ],
+    [
+     "",
+     "i",
+     "nice, kind, fine, sign"
+    ],
+    [
+     "",
+     "igh",
+     "light, fight, sight, night"
+    ],
+    [
+     "",
+     "ie",
+     "lie, tie, tried"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 59,
+   "items": [
+    "lime pies",
+    "white wine",
+    "fly a kite",
+    "nice try",
+    "nine lives",
+    "bright light",
+    "fly high",
+    "sign on the line",
+    "fine dining",
+    "ninety-nine"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 60,
+   "items": [
+    "Why is the price so high for that design?",
+    "The wildfire started on Friday night.",
+    "He was tired after hiking for five hours.",
+    "It’s a nine-hour drive to Iowa.",
+    "We had lime pie and dry white wine."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "au",
+   "sym": "/aʊ/",
+   "word": "house",
+   "quote": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.",
+   "by": "Mark Twain",
+   "lips": "Start not rounded, but as you move toward /ʊ/, lips begin to close and become tense.",
+   "tongue": "Moves from relaxed, low to high position for the /ʊ/."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /aʊ/",
+   "track": 61,
+   "rows": [
+    [
+     "",
+     "ou",
+     "found, loud, around, thousand"
+    ],
+    [
+     "",
+     "ow",
+     "now, down, crowd, vowel"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 62,
+   "items": [
+    "about an hour",
+    "crowded house",
+    "downtown",
+    "loud announcement",
+    "countdown",
+    "around the mountain",
+    "brown couch",
+    "found out",
+    "down and out",
+    "pronounce the vowel"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 63,
+   "items": [
+    "I doubt that the clown will say something profound.",
+    "There are flowers all around the house.",
+    "Is that your spouse in the brown blouse?",
+    "The clouds behind the mountain will bring showers.",
+    "The brown cow is near the fountain."
+   ]
+  },
+  {
+   "t": "sound",
+   "id": "oi",
+   "sym": "/ɔɪ/",
+   "word": "boy",
+   "quote": "Don’t worry about avoiding temptation. As you get older, it will avoid you.",
+   "by": "Winston Churchill",
+   "lips": "Move from slightly rounded, oval position to relaxed, slightly parted position.",
+   "tongue": "Relaxed, move from mid-high to high position."
+  },
+  {
+   "t": "spell",
+   "title": "Common Spelling Patterns for /ɔɪ/",
+   "track": 64,
+   "rows": [
+    [
+     "",
+     "oi",
+     "avoid, oil, moist, join"
+    ],
+    [
+     "",
+     "oy",
+     "enjoy, toy, employ, royal"
+    ]
+   ]
+  },
+  {
+   "t": "pairs",
+   "title": "Word Pairs for Practice",
+   "track": 65,
+   "items": [
+    "enjoy the toy",
+    "spoiled boy",
+    "appointment in Detroit",
+    "broiled oysters",
+    "boiling point",
+    "annoying noise",
+    "destroy the poison",
+    "loyal employee",
+    "moist soil",
+    "avoid the moisture"
+   ]
+  },
+  {
+   "t": "list",
+   "title": "Practice Sentences",
+   "track": 66,
+   "items": [
+    "He destroyed the poison by flushing it down the toilet.",
+    "Roy had an appointment in Detroit.",
+    "Joyce is annoyed and a little paranoid.",
+    "I was disappointed with Joy’s choice.",
+    "Why is Floyd avoiding Roy?"
+   ]
+  }
+ ],
+ "videos": {
+  "i": {
+   "v": "PIu5WDIco0I"
+  },
+  "I": {
+   "v": "Ok_HG-0lNCA"
+  },
+  "ei": {
+   "v": "0RXzfRcjk-s"
+  },
+  "e": {
+   "v": "OLG3cCLcNiI"
+  },
+  "ae": {
+   "v": "mynucZiy-Ug"
+  },
+  "a": {
+   "v": "R5CY1UniS68"
+  },
+  "uh": {
+   "v": "m1mDSUSwNls",
+   "more": [
+    "X1utTZqC3AI"
+   ]
+  },
+  "aw": {
+   "v": "pr_KAu-_Hmo"
+  },
+  "ou": {
+   "v": "4kPJLHiiGdU"
+  },
+  "oo": {
+   "v": "moLTR-dLQQY"
+  },
+  "u": {
+   "v": "lkM6CKBM2ns"
+  },
+  "er": {
+   "v": "6ppOrwjvslc",
+   "more": [
+    "AzNRoSGBh44"
+   ]
+  },
+  "ai": {
+   "v": "8uD-GuuSgyk"
+  },
+  "au": {
+   "v": "-V690OA75bA"
+  },
+  "oi": {
+   "v": "ZfjPBN22mK8"
+  }
+ },
+ "vlist": "PLYJV5Moz9cfyRIyd3HKzwRGnDM_BSbEuI"
+}

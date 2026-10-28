@@ -1,0 +1,43 @@
+# Mastering the American Accent: web server rules (Apache 2.4).
+# The site needs only index.php, inc/, data/, assets/ and CD1–CD4/. Everything else is
+# build material and is answered with 404, as if it did not exist.
+
+Options -Indexes
+DirectoryIndex index.php
+
+# ---------------------------------------------------------------------------
+# Hidden from visitors
+# inc/ and data/ are read by PHP from disk; the browser never needs them.
+RedirectMatch 404 "/(inc|data|tools|old|img|\.idea|\.git|__pycache__)(/|$)"
+# Build and editor files, should any be uploaded by mistake
+RedirectMatch 404 "\.(py|pyc|pdf|md|iml|bak|log|sql|sh|ini|lock|dist)$"
+# Dot files (.htaccess, .gitignore, .user.ini, ...)
+RedirectMatch 404 "/\.[^/]*$"
+# Only index.php runs as a page
+RedirectMatch 404 "^(?!.*/index\.php$).*\.php$"
+
+# ---------------------------------------------------------------------------
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+    # Allows only what the pages use: Google Fonts, the YouTube vowel videos, local audio,
+    # and the one inline script in index.php (its hash: update it if that script changes).
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'sha256-JCiVgx8l5YwQkh2QYUFGw0nK4cASukwtMGuFSuslLVM='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; media-src 'self'; frame-src https://www.youtube-nocookie.com; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'self'"
+    Header always unset X-Powered-By
+    Header unset X-Powered-By
+</IfModule>
+
+# ---------------------------------------------------------------------------
+# Caching: audio and images never change; CSS/JS carry ?v= in their URLs (index.php)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType audio/mpeg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType text/javascript "access plus 1 year"
+</IfModule>

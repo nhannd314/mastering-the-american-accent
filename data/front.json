@@ -1,0 +1,802 @@
+{
+ "toc": [
+  {
+   "title": "Introduction",
+   "page": "vi",
+   "level": 0,
+   "link": "intro"
+  },
+  {
+   "title": "Chapter 1: The Vowel Sounds",
+   "page": "1",
+   "level": 0,
+   "link": "ch1"
+  },
+  {
+   "title": "Main Vowel Sounds of American English",
+   "page": "1",
+   "level": 1,
+   "link": "ch1#main-vowels"
+  },
+  {
+   "title": "Production of Vowels",
+   "page": "2",
+   "level": 1,
+   "link": "ch1#production"
+  },
+  {
+   "title": "/i/ as in meet",
+   "page": "3",
+   "level": 1,
+   "link": "ch1#i"
+  },
+  {
+   "title": "/ɪ/ as in sit",
+   "page": "3",
+   "level": 1,
+   "link": "ch1#I"
+  },
+  {
+   "title": "/eɪ/ as in take",
+   "page": "5",
+   "level": 1,
+   "link": "ch1#ei"
+  },
+  {
+   "title": "/ɛ/ as in get",
+   "page": "6",
+   "level": 1,
+   "link": "ch1#e"
+  },
+  {
+   "title": "/æ/ as in fat",
+   "page": "7",
+   "level": 1,
+   "link": "ch1#ae"
+  },
+  {
+   "title": "/ɑ/ as in father",
+   "page": "8",
+   "level": 1,
+   "link": "ch1#a"
+  },
+  {
+   "title": "/ɘ/ as in fun",
+   "page": "9",
+   "level": 1,
+   "link": "ch1#uh"
+  },
+  {
+   "title": "/ɔ/ as in saw",
+   "page": "10",
+   "level": 1,
+   "link": "ch1#aw"
+  },
+  {
+   "title": "/oʊ/ as in boat",
+   "page": "12",
+   "level": 1,
+   "link": "ch1#ou"
+  },
+  {
+   "title": "/ʊ/ as in good",
+   "page": "13",
+   "level": 1,
+   "link": "ch1#oo"
+  },
+  {
+   "title": "/u/ as in too",
+   "page": "13",
+   "level": 1,
+   "link": "ch1#u"
+  },
+  {
+   "title": "/ɘr/ as in bird",
+   "page": "15",
+   "level": 1,
+   "link": "ch1#er"
+  },
+  {
+   "title": "/aɪ/ as in time",
+   "page": "15",
+   "level": 1,
+   "link": "ch1#ai"
+  },
+  {
+   "title": "/aʊ/ as in house",
+   "page": "16",
+   "level": 1,
+   "link": "ch1#au"
+  },
+  {
+   "title": "/ɔɪ/ as in boy",
+   "page": "17",
+   "level": 1,
+   "link": "ch1#oi"
+  },
+  {
+   "title": "Chapter 2: Vowels in Detail",
+   "page": "18",
+   "level": 0,
+   "link": "ch2"
+  },
+  {
+   "title": "Review of /ɪ/ and /i/ Sounds",
+   "page": "18",
+   "level": 1,
+   "link": "ch2#ih-i"
+  },
+  {
+   "title": "Review of /ɛ/ and /æ/ Sounds",
+   "page": "19",
+   "level": 1,
+   "link": "ch2#e-ae"
+  },
+  {
+   "title": "Review of /ɘ/, /ɑ/, /ɔ/, and /oʊ/ Sounds",
+   "page": "20",
+   "level": 1,
+   "link": "ch2#uh-a-aw-ou"
+  },
+  {
+   "title": "The Problematic o",
+   "page": "21",
+   "level": 1,
+   "link": "ch2#problematic-o"
+  },
+  {
+   "title": "The American /ɔ/ Sound",
+   "page": "23",
+   "level": 1,
+   "link": "ch2#american-aw"
+  },
+  {
+   "title": "Review of /ɛ/, /æ/, /ɑ/, /ɔ/, /ɘ/, and /oʊ/",
+   "page": "25",
+   "level": 1,
+   "link": "ch2#review-six"
+  },
+  {
+   "title": "Review of /ʊ/ and /u/ Sounds",
+   "page": "25",
+   "level": 1,
+   "link": "ch2#oo-u"
+  },
+  {
+   "title": "Comparing /u/ and /yu/",
+   "page": "26",
+   "level": 1,
+   "link": "ch2#u-yu"
+  },
+  {
+   "title": "Review of the /ɘr/ Sound",
+   "page": "27",
+   "level": 1,
+   "link": "ch2#er"
+  },
+  {
+   "title": "Vowels Followed by the /r/ Sound",
+   "page": "27",
+   "level": 1,
+   "link": "ch2#vowel-r"
+  },
+  {
+   "title": "Chapter 3: Consonants",
+   "page": "29",
+   "level": 0,
+   "link": "ch3"
+  },
+  {
+   "title": "Forming American Consonants",
+   "page": "29",
+   "level": 1,
+   "link": "ch3#forming"
+  },
+  {
+   "title": "Voiceless and Voiced Consonants",
+   "page": "30",
+   "level": 1,
+   "link": "ch3#voicing"
+  },
+  {
+   "title": "Vowel Length and Voiced and Voiceless Consonants",
+   "page": "31",
+   "level": 1,
+   "link": "ch3#vowel-length"
+  },
+  {
+   "title": "Stops and Continuants",
+   "page": "33",
+   "level": 1,
+   "link": "ch3#stops"
+  },
+  {
+   "title": "Chapter 4: Problematic Consonants",
+   "page": "34",
+   "level": 0,
+   "link": "ch4"
+  },
+  {
+   "title": "The Various t Sounds of American English",
+   "page": "34",
+   "level": 1,
+   "link": "ch4#t-sounds"
+  },
+  {
+   "title": "The “Fast d” Sound",
+   "page": "38",
+   "level": 1,
+   "link": "ch4#fast-d"
+  },
+  {
+   "title": "The /tʃr/ Sound: tr",
+   "page": "39",
+   "level": 1,
+   "link": "ch4#tr"
+  },
+  {
+   "title": "The /dʒr/ Sound: dr",
+   "page": "39",
+   "level": 1,
+   "link": "ch4#dr"
+  },
+  {
+   "title": "The /dʒ/ Sound: du and d + y",
+   "page": "40",
+   "level": 1,
+   "link": "ch4#du"
+  },
+  {
+   "title": "The /tʃ/ Sound: tu and t + y",
+   "page": "40",
+   "level": 1,
+   "link": "ch4#tu"
+  },
+  {
+   "title": "Words Ending in -ed",
+   "page": "41",
+   "level": 1,
+   "link": "ch4#ed"
+  },
+  {
+   "title": "The th Sound",
+   "page": "44",
+   "level": 1,
+   "link": "ch4#th"
+  },
+  {
+   "title": "The American /r/",
+   "page": "48",
+   "level": 1,
+   "link": "ch4#r"
+  },
+  {
+   "title": "The American /l/",
+   "page": "50",
+   "level": 1,
+   "link": "ch4#l"
+  },
+  {
+   "title": "Understanding /l/ Versus /r/",
+   "page": "52",
+   "level": 1,
+   "link": "ch4#l-r"
+  },
+  {
+   "title": "The /v/ Sound",
+   "page": "54",
+   "level": 1,
+   "link": "ch4#v"
+  },
+  {
+   "title": "Understanding /b/ Versus /v/",
+   "page": "55",
+   "level": 1,
+   "link": "ch4#b-v"
+  },
+  {
+   "title": "The /w/ Sound",
+   "page": "56",
+   "level": 1,
+   "link": "ch4#w"
+  },
+  {
+   "title": "Understanding /v/ Versus /w/",
+   "page": "58",
+   "level": 1,
+   "link": "ch4#v-w"
+  },
+  {
+   "title": "The /s/ and /z/ Sounds",
+   "page": "59",
+   "level": 1,
+   "link": "ch4#s-z"
+  },
+  {
+   "title": "The /ŋg/ Sound: Pronouncing ng",
+   "page": "62",
+   "level": 1,
+   "link": "ch4#ng"
+  },
+  {
+   "title": "Consonant Clusters",
+   "page": "63",
+   "level": 1,
+   "link": "ch4#clusters"
+  },
+  {
+   "title": "Chapter 5: Syllable Stress",
+   "page": "66",
+   "level": 0,
+   "link": "ch5"
+  },
+  {
+   "title": "Stressed and Reduced Vowels",
+   "page": "66",
+   "level": 1,
+   "link": "ch5#stressed"
+  },
+  {
+   "title": "Dangers of Stressing the Wrong Syllable",
+   "page": "68",
+   "level": 1,
+   "link": "ch5#dangers"
+  },
+  {
+   "title": "General Rules for Stress Placement",
+   "page": "69",
+   "level": 1,
+   "link": "ch5#rules"
+  },
+  {
+   "title": "Two-Syllable Words",
+   "page": "69",
+   "level": 2,
+   "link": "ch5#two-syllable"
+  },
+  {
+   "title": "Noun and Verb Pairs",
+   "page": "70",
+   "level": 2,
+   "link": "ch5#noun-verb"
+  },
+  {
+   "title": "Words Ending in -tion and -ate",
+   "page": "71",
+   "level": 2,
+   "link": "ch5#tion-ate"
+  },
+  {
+   "title": "-ate Endings of Verbs and Nouns",
+   "page": "71",
+   "level": 2,
+   "link": "ch5#ate-endings"
+  },
+  {
+   "title": "More Stressed Suffixes",
+   "page": "72",
+   "level": 2,
+   "link": "ch5#suffixes"
+  },
+  {
+   "title": "Rules for Prefixes",
+   "page": "72",
+   "level": 2,
+   "link": "ch5#prefixes"
+  },
+  {
+   "title": "Syllable Stress Changes",
+   "page": "74",
+   "level": 1,
+   "link": "ch5#stress-changes"
+  },
+  {
+   "title": "Reduced Vowels for Review",
+   "page": "76",
+   "level": 1,
+   "link": "ch5#reduced-review"
+  },
+  {
+   "title": "Chapter 6: Word Stress",
+   "page": "78",
+   "level": 0,
+   "link": "ch6"
+  },
+  {
+   "title": "Compound Nouns",
+   "page": "78",
+   "level": 1,
+   "link": "ch6#compound"
+  },
+  {
+   "title": "Proper Stress with Adjectives",
+   "page": "80",
+   "level": 1,
+   "link": "ch6#adjectives"
+  },
+  {
+   "title": "Phrasal Verbs",
+   "page": "81",
+   "level": 1,
+   "link": "ch6#phrasal"
+  },
+  {
+   "title": "Noun Forms of Phrasal Verbs",
+   "page": "82",
+   "level": 1,
+   "link": "ch6#phrasal-nouns"
+  },
+  {
+   "title": "Abbreviations and Numbers",
+   "page": "83",
+   "level": 1,
+   "link": "ch6#abbreviations"
+  },
+  {
+   "title": "Names of Places and People",
+   "page": "83",
+   "level": 1,
+   "link": "ch6#names"
+  },
+  {
+   "title": "Word Stress Within a Sentence",
+   "page": "84",
+   "level": 1,
+   "link": "ch6#sentence-stress"
+  },
+  {
+   "title": "Lengthening the Main Vowel in Stressed Words",
+   "page": "84",
+   "level": 1,
+   "link": "ch6#lengthening"
+  },
+  {
+   "title": "Which Words Should I Stress?",
+   "page": "85",
+   "level": 1,
+   "link": "ch6#which-words"
+  },
+  {
+   "title": "Content Words",
+   "page": "85",
+   "level": 2,
+   "link": "ch6#content"
+  },
+  {
+   "title": "Content Words in Detail: Verbs",
+   "page": "86",
+   "level": 2,
+   "link": "ch6#content-verbs"
+  },
+  {
+   "title": "Stress Nouns but Not Pronouns",
+   "page": "87",
+   "level": 2,
+   "link": "ch6#nouns-pronouns"
+  },
+  {
+   "title": "Content Words in Detail: Adjectives",
+   "page": "87",
+   "level": 2,
+   "link": "ch6#content-adjectives"
+  },
+  {
+   "title": "Reducing Vowels in Unstressed Words",
+   "page": "88",
+   "level": 1,
+   "link": "ch6#reducing"
+  },
+  {
+   "title": "Weak Forms",
+   "page": "89",
+   "level": 2,
+   "link": "ch6#weak"
+  },
+  {
+   "title": "Strong Forms",
+   "page": "90",
+   "level": 2,
+   "link": "ch6#strong"
+  },
+  {
+   "title": "Thought Groups and Focus Words",
+   "page": "91",
+   "level": 1,
+   "link": "ch6#thought-groups"
+  },
+  {
+   "title": "Contrastive Stress",
+   "page": "92",
+   "level": 1,
+   "link": "ch6#contrastive"
+  },
+  {
+   "title": "Chapter 7: Intonation",
+   "page": "95",
+   "level": 0,
+   "link": "ch7"
+  },
+  {
+   "title": "Falling Intonation",
+   "page": "95",
+   "level": 1,
+   "link": "ch7#falling"
+  },
+  {
+   "title": "Statements",
+   "page": "95",
+   "level": 2,
+   "link": "ch7#statements"
+  },
+  {
+   "title": "Questions",
+   "page": "95",
+   "level": 2,
+   "link": "ch7#questions"
+  },
+  {
+   "title": "Rising Intonation",
+   "page": "96",
+   "level": 1,
+   "link": "ch7#rising"
+  },
+  {
+   "title": "Non-Final Intonation",
+   "page": "97",
+   "level": 1,
+   "link": "ch7#non-final"
+  },
+  {
+   "title": "Unfinished Thoughts",
+   "page": "97",
+   "level": 2,
+   "link": "ch7#unfinished"
+  },
+  {
+   "title": "Introductory Words",
+   "page": "98",
+   "level": 2,
+   "link": "ch7#introductory"
+  },
+  {
+   "title": "Series of Words",
+   "page": "98",
+   "level": 2,
+   "link": "ch7#series"
+  },
+  {
+   "title": "Expressing Choices",
+   "page": "98",
+   "level": 2,
+   "link": "ch7#choices"
+  },
+  {
+   "title": "Wavering Intonation",
+   "page": "99",
+   "level": 1,
+   "link": "ch7#wavering"
+  },
+  {
+   "title": "Chapter 8: Sound Like a True Native Speaker",
+   "page": "101",
+   "level": 0,
+   "link": "ch8"
+  },
+  {
+   "title": "Linking Words for Smoother Speech Flow",
+   "page": "101",
+   "level": 1,
+   "link": "ch8#linking"
+  },
+  {
+   "title": "Rules for Linking",
+   "page": "102",
+   "level": 1,
+   "link": "ch8#linking-rules"
+  },
+  {
+   "title": "Linking Consonant to Vowel",
+   "page": "102",
+   "level": 2,
+   "link": "ch8#cons-vowel"
+  },
+  {
+   "title": "Linking Consonant to Same Consonant",
+   "page": "103",
+   "level": 2,
+   "link": "ch8#cons-same"
+  },
+  {
+   "title": "Final Stop Between Consonants",
+   "page": "104",
+   "level": 2,
+   "link": "ch8#final-stop"
+  },
+  {
+   "title": "Linking Vowel to Vowel",
+   "page": "104",
+   "level": 2,
+   "link": "ch8#vowel-vowel"
+  },
+  {
+   "title": "Linking Vowels Within a Word",
+   "page": "105",
+   "level": 2,
+   "link": "ch8#vowels-within"
+  },
+  {
+   "title": "Reducing Pronouns",
+   "page": "107",
+   "level": 1,
+   "link": "ch8#pronouns"
+  },
+  {
+   "title": "Contractions",
+   "page": "108",
+   "level": 1,
+   "link": "ch8#contractions"
+  },
+  {
+   "title": "Commonly Contracted Words",
+   "page": "109",
+   "level": 2,
+   "link": "ch8#contracted"
+  },
+  {
+   "title": "Conditional Tense and Contractions",
+   "page": "113",
+   "level": 2,
+   "link": "ch8#conditional"
+  },
+  {
+   "title": "Casual Versus Formal Speech",
+   "page": "115",
+   "level": 1,
+   "link": "ch8#casual"
+  },
+  {
+   "title": "Rules and Patterns of Casual Speech",
+   "page": "116",
+   "level": 2,
+   "link": "ch8#casual-rules"
+  },
+  {
+   "title": "Commonly Confused Words",
+   "page": "118",
+   "level": 1,
+   "link": "ch8#confused"
+  },
+  {
+   "title": "Chapter 9: Memorizing the Exceptions",
+   "page": "119",
+   "level": 0,
+   "link": "ch9"
+  },
+  {
+   "title": "Same Spelling, Different Pronunciation",
+   "page": "119",
+   "level": 1,
+   "link": "ch9#same-spelling"
+  },
+  {
+   "title": "Two Correct Pronunciations",
+   "page": "120",
+   "level": 1,
+   "link": "ch9#two-correct"
+  },
+  {
+   "title": "Especially Difficult Words",
+   "page": "121",
+   "level": 1,
+   "link": "ch9#difficult"
+  },
+  {
+   "title": "Words with Dropped Syllables",
+   "page": "123",
+   "level": 1,
+   "link": "ch9#dropped"
+  },
+  {
+   "title": "Words with Silent Letters",
+   "page": "124",
+   "level": 1,
+   "link": "ch9#silent"
+  },
+  {
+   "title": "Homophones",
+   "page": "125",
+   "level": 1,
+   "link": "ch9#homophones"
+  },
+  {
+   "title": "Native Language Guide",
+   "page": "127",
+   "level": 0,
+   "link": "guide"
+  },
+  {
+   "title": "Chinese",
+   "page": "127",
+   "level": 1,
+   "link": "guide#chinese"
+  },
+  {
+   "title": "Farsi",
+   "page": "135",
+   "level": 1,
+   "link": "guide#farsi"
+  },
+  {
+   "title": "Filipino Languages",
+   "page": "138",
+   "level": 1,
+   "link": "guide#filipino"
+  },
+  {
+   "title": "French",
+   "page": "141",
+   "level": 1,
+   "link": "guide#french"
+  },
+  {
+   "title": "German",
+   "page": "146",
+   "level": 1,
+   "link": "guide#german"
+  },
+  {
+   "title": "Indian Languages",
+   "page": "150",
+   "level": 1,
+   "link": "guide#indian"
+  },
+  {
+   "title": "Indonesian",
+   "page": "154",
+   "level": 1,
+   "link": "guide#indonesian"
+  },
+  {
+   "title": "Japanese",
+   "page": "158",
+   "level": 1,
+   "link": "guide#japanese"
+  },
+  {
+   "title": "Korean",
+   "page": "162",
+   "level": 1,
+   "link": "guide#korean"
+  },
+  {
+   "title": "Portuguese",
+   "page": "166",
+   "level": 1,
+   "link": "guide#portuguese"
+  },
+  {
+   "title": "Russian",
+   "page": "170",
+   "level": 1,
+   "link": "guide#russian"
+  },
+  {
+   "title": "Spanish",
+   "page": "174",
+   "level": 1,
+   "link": "guide#spanish"
+  },
+  {
+   "title": "Vietnamese",
+   "page": "179",
+   "level": 1,
+   "link": "guide#vietnamese"
+  },
+  {
+   "title": "Index",
+   "page": "184",
+   "level": 0,
+   "link": "index"
+  }
+ ]
+}

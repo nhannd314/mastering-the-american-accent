@@ -1,0 +1,1689 @@
+{
+ "blocks": [
+  {
+   "t": "p",
+   "paras": [
+    "This chapter will share some important information that will help you sound more like a true native speaker. You will learn the rules of how words are connected together so that your speech flows better and sounds more natural and more fluent. You will also learn more about which words to reduce and exactly how to reduce them. And you will learn the differences between casual, relaxed speech and more formal, careful speech."
+   ],
+   "cd": 4,
+   "track": 19
+  },
+  {
+   "t": "sec",
+   "id": "linking",
+   "title": "Linking Words for Smoother Speech Flow",
+   "cd": 4,
+   "track": 20
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Many non-native speakers of English believe they should pronounce each word separately because they want to make sure their speech is clear and easily understood. This does help their speech sound clear, but it also creates speech that sounds a bit foreign and a bit mechanical, almost like computer-generated speech.",
+    "Native speakers connect, or “link,” words together if the words are part of the same thought group. They connect the last sound of one word to the first sound of the next word. Linking creates the smooth, uninterrupted sounds that are they key to natural, fluent sounding speech.",
+    "If you’re making the common error of dropping the endings of words by not pronouncing the final consonant, the problem will automatically be solved when you apply the rules of linking to your speech. Linking requires you to connect the final consonant with the next word, if it begins with a vowel. In this way, the final sound, which is always more difficult to pronounce, becomes the first sound of the word that follows it. For example, it’s more difficult to say “burn<strong>ed</strong> out” than to say “burn doubt.”",
+    "Instead of saying “it’s - a - cold - evening” with each word pronounced separately, say “it sa col devening,” and your speech will instantly sound more native-like and you are guaranteed to pronounce the final consonants."
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "warning",
+   "title": "Warning: Common Mistake",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "Linking and speaking fast are <em>not</em> the same thing! You don’t need to speak fast. When native speakers link words, they are not necessarily speaking faster. The speech is just smoother, and less choppy. It’s extremely important to stress the content words when you are linking words because this will force you to slow down at the right place, and it will make your speech more easily understood."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "sec",
+   "id": "linking-rules",
+   "title": "Rules for Linking",
+   "cd": 4,
+   "track": 21
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When a word ends in a consonant and the next word begins with a vowel, connect the final consonant to the next vowel, making it sound as if the second word starts with a consonant. Study the examples below to make this point clear."
+   ],
+   "title": "Linking Consonant to Vowel",
+   "id": "cons-vowel"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "hold on",
+     "“whole Don”"
+    ],
+    [
+     "I like it",
+     "“I lie kit”"
+    ],
+    [
+     "deep end",
+     "“depend”"
+    ],
+    [
+     "get up late",
+     "“get a plate”"
+    ],
+    [
+     "picked out",
+     "“pick doubt”"
+    ],
+    [
+     "this guy",
+     "“the sky”"
+    ]
+   ],
+   "title": "sounds like:"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Note that the words in bold get the most stress."
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 22
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Can‿I come‿<strong>in</strong>?",
+     "b. Yes, come‿<strong>on</strong>‿in. The door‿is‿<strong>open</strong>."
+    ],
+    [
+     "a. Should‿I leave‿it‿<strong>on</strong>?",
+     "b. No, turn‿it‿<strong>off</strong>."
+    ],
+    [
+     "a. What <strong>time</strong>‿is‿it?",
+     "b. It’s‿<strong>already</strong> five‿<strong>o’clock</strong>."
+    ],
+    [
+     "a. Let’s take‿a <strong>walk</strong>.",
+     "b. That’s‿a good‿<strong>idea</strong>."
+    ],
+    [
+     "a. How <strong>far</strong>‿is‿it?",
+     "b. <strong>Four</strong>‿and‿a half‿<strong>hours</strong> away."
+    ],
+    [
+     "a. This‿is‿a good <strong>film</strong>.",
+     "b. Too bad‿it’s sold‿<strong>out</strong>."
+    ],
+    [
+     "a. I have‿an‿awful <strong>headache</strong>.",
+     "b. Take‿an‿<strong>aspirin</strong>."
+    ],
+    [
+     "a. This‿is my brother -‿in-<strong>law</strong>.",
+     "b. We’ve‿already <strong>met</strong>."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When the final consonant of one word is the same as the first consonant of the following word, pronounce the consonant only once. Do not pause between the sounds, but just lengthen the sound a bit or say it with a little bit more energy. See the example below."
+   ],
+   "title": "Linking Consonant to Same Consonant",
+   "cd": 4,
+   "track": 23,
+   "id": "cons-same"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "She speak<strong>s S</strong>panish.",
+     "“She speak Spanish.”"
+    ],
+    [
+     "turne<strong>d d</strong>own",
+     "“turn down”"
+    ],
+    [
+     "hel<strong>p P</strong>aul",
+     "help all"
+    ],
+    [
+     "we<strong>ll l</strong>it",
+     "well it"
+    ],
+    [
+     "bla<strong>ck c</strong>at",
+     "black at"
+    ],
+    [
+     "foreig<strong>n n</strong>ame",
+     "foreign aim"
+    ]
+   ],
+   "title": "sounds like:"
+  },
+  {
+   "t": "nums",
+   "cols": 2,
+   "items": [
+    "bi<strong>g g</strong>ame",
+    "ca<strong>n n</strong>ever",
+    "we<strong>ll l</strong>it",
+    "goo<strong>d d</strong>ay",
+    "thi<strong>s S</strong>aturday",
+    "fa<strong>r r</strong>ight",
+    "sto<strong>p p</strong>laying",
+    "To<strong>m m</strong>ight",
+    "boo<strong>k c</strong>lub",
+    "wha<strong>t t</strong>ime"
+   ],
+   "title": "Word Pairs for Practice",
+   "cd": 4,
+   "track": 24
+  },
+  {
+   "t": "list",
+   "items": [
+    "Both things are from me.",
+    "Stop playing and help Paul.",
+    "She’s single and she’s so happy.",
+    "I’m married and I’m miserable.",
+    "It was so nice to meet Tom."
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 25
+  },
+  {
+   "t": "p",
+   "paras": [
+    "In Chapter Three you learned the difference between stops and continuants. Remember, when a stop is followed by another consonant, do not release the stop. The release creates a puff of air and an extra syllable. Make sure that <em>good time</em> doesn’t sound like “good a time” and that <em>help me</em> doesn’t sound like “help a me.”"
+   ],
+   "title": "Final Stop Between Consonants",
+   "cd": 4,
+   "track": 26,
+   "id": "final-stop"
+  },
+  {
+   "t": "nums",
+   "cols": 2,
+   "items": [
+    "pop music",
+    "good book",
+    "can’t go",
+    "that man",
+    "drop down",
+    "keep trying"
+   ],
+   "title": "Word Pairs for Practice",
+   "cd": 4,
+   "track": 27
+  },
+  {
+   "t": "p",
+   "paras": [
+    "If one word ends with a vowel and the next word begins with a vowel, do not pause between the words. For a smoother transition between the sounds and to ensure a complete pronunciation of both of the vowels, we insert a short /w/ sound after a front vowel (such as /eɪ/, /i/, and /ai/) and a short /y/ sound after a back vowel (such as /ʊ/ and /oʊ/) ."
+   ],
+   "title": "Linking Vowel to Vowel",
+   "cd": 4,
+   "track": 28,
+   "id": "vowel-vowel"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>Insert a very quick /w/ sound</strong>",
+     "go out",
+     "“go – <strong>w</strong>out”"
+    ],
+    [
+     "",
+     "How are you?",
+     "“how <strong>w</strong>are you”"
+    ],
+    [
+     "<strong>Insert a very quick /y/ sound</strong>",
+     "I am",
+     "“I <strong>y</strong>am”"
+    ],
+    [
+     "",
+     "they are",
+     "“they <strong>y</strong>are”"
+    ]
+   ],
+   "title": "Sounds like:"
+  },
+  {
+   "t": "nums",
+   "cols": 2,
+   "items": [
+    "I‿<sup>y</sup>ate out.",
+    "Go‿<sup>w</sup>on.",
+    "They‿<sup>y</sup>agree.",
+    "I know‿<sup>w</sup>it.",
+    "May‿<sup>y</sup>I come‿in?",
+    "So‿<sup>w</sup>awesome!",
+    "I’ll buy‿<sup>y</sup>it.",
+    "He‿<sup>y</sup>ate‿out."
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 29
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Why‿<sup>y</sup>are you so‿<sup>w</sup>upset?",
+     "b. I‿<sup>y</sup>am not!"
+    ],
+    [
+     "a. Who‿<sup>w</sup>is he?",
+     "b. He‿<sup>y</sup>is the‿<sup>y</sup>announcer."
+    ],
+    [
+     "a. How‿<sup>w</sup>is the weather?",
+     "b. Go‿<sup>w</sup>outside and find‿out."
+    ],
+    [
+     "a. Do‿<sup>w</sup>I need to do‿<sup>w</sup>it?",
+     "b. No, I‿<sup>y</sup>already did‿it."
+    ]
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 30
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When the article <em>the</em> is followed by a vowel sound, it is pronounced with /i/ and sounds like “thee.” When it is followed by a consonant, the final sound is /ɘ/, like the <em><strong>u</strong></em> in <em>fun</em>."
+   ],
+   "title": "Do I Say <em>the</em> or <em>thee</em>?",
+   "cd": 4,
+   "track": 31
+  },
+  {
+   "t": "table",
+   "heads": [
+    "/i/",
+    "/ɘ/"
+   ],
+   "rows": [
+    [
+     "th<strong>e</strong> earth",
+     "th<strong>e</strong> world"
+    ],
+    [
+     "<strong>/i/</strong>",
+     "<strong>/ɘ/</strong>"
+    ],
+    [
+     "th<strong>e</strong> apple",
+     "th<strong>e</strong> banana"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "When an individual word contains two vowel sounds together, we also add a little <em>y</em> or <em>w</em> sound. We don’t say “die it” we say “die + yet.”"
+   ],
+   "title": "Linking Vowels Within a Word",
+   "cd": 4,
+   "track": 32,
+   "id": "vowels-within"
+  },
+  {
+   "t": "table",
+   "heads": [
+    "",
+    "sounds like:",
+    "",
+    "sounds like:"
+   ],
+   "rows": [
+    [
+     "client",
+     "“cli /y/ ent”",
+     "cooperate",
+     "“co /w/ operate”"
+    ],
+    [
+     "science",
+     "“sci /y/ ence”",
+     "experience",
+     "“experi /y/ ence”"
+    ],
+    [
+     "serious",
+     "“seri /y/ ous”",
+     "diet",
+     "“di /y/ et”"
+    ],
+    [
+     "quiet",
+     "“qui /y/ et”",
+     "furious",
+     "“furi /y/ ous”"
+    ],
+    [
+     "appreciate",
+     "“appreci/y/ate”",
+     "negotiate",
+     "“negoci/y/ate”"
+    ],
+    [
+     "museum",
+     "“muse/y/um”",
+     "San Diego",
+     "“San Di /y/ago”"
+    ]
+   ],
+   "title": "Word Pairs for Practice",
+   "cd": 4,
+   "track": 33
+  },
+  {
+   "t": "p",
+   "paras": [
+    "This exercise and those that follow will help you practice linking. Remember to place the most stress on the key word, usually a noun or a verb. For longer sentences place the most stress on the focus word of each thought group."
+   ],
+   "title": "Practice Dialogue",
+   "cd": 4,
+   "track": 34
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Can‿I help you?",
+     "b. I’m looking for‿a pair‿of sunglasses.",
+     "a. The sunglasses‿are‿on the other side‿of the make‿up counter.",
+     "b. Oh these‿are nice. Can‿I try them‿on?",
+     "a. The mirror‿is‿over here.",
+     "b. How much‿are these?",
+     "a. They’re‿on sale for one hundred and eighty dollars.",
+     "b. That’s‿a lot‿of money. I don’t think‿I can‿afford that.",
+     "a. The style‿is‿amazing. We’re‿almost‿all sold‿out.",
+     "a. Do you have‿any that‿are cheaper?",
+     "b. No, I am‿afraid‿I don’t. Is there‿anything‿else‿I can help you find?",
+     "a. As‿a matter‿of fact, yes. Help me find‿a rich husband!"
+    ]
+   ],
+   "title": "In the Department Store"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Notice how two same or similar consonants blend into one to link words more smoothly. The final stops are not released."
+   ],
+   "title": "More Practice Dialogues",
+   "cd": 4,
+   "track": 35
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. I believe‿Veronica speaks‿Spanish.",
+     "b. Of course‿she does. She’s from‿Mexico.",
+     "a. That makes‿sense."
+    ],
+    [
+     "a. When’s the big‿game?",
+     "b. Either this‿Saturday or this‿Sunday.",
+     "a. Do you think they’ll‿lose?",
+     "b. I hope not."
+    ],
+    [
+     "a. Keep‿practicing.",
+     "b. You’re‿right, I need‿to."
+    ],
+    [
+     "a. You’ll‿love it.",
+     "b. I suppose‿so."
+    ],
+    [
+     "a. It was a fun‿night but I need‿to go.",
+     "b. Let’s‿stay a little‿longer.",
+     "a. You stay, I’ll‿leave with‿them.",
+     "b. Okay then, I’ll‿leave too."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "This passage provides practice in linking vowel to vowel, consonant to vowel, and consonant to consonant. The focus words are in bold letters. The thought groups are divided by a slash."
+   ],
+   "title": "Practice Paragraph",
+   "cd": 4,
+   "track": 36
+  },
+  {
+   "t": "p",
+   "paras": [
+    "I’ve been practicing the <sup>y</sup>American‿<strong>accent</strong> // for‿a <strong>while</strong> now. At <strong>first</strong>, // it was kind‿of <strong>hard</strong> // to keep <strong>track</strong>‿of‿all the rules‿and‿<strong>exceptions</strong>. I ha<strong>d</strong> no‿<sup>w</sup><strong>idea</strong> // there was‿so much to <strong>learn</strong>. I’ve been <strong>practicing</strong> // with the‿<sup>y</sup><strong>audio</strong> materials. // It’s somewhat‿<strong>easier</strong> // to pronounce‿some‿of the <strong>sounds</strong> // but‿it’s difficult to <strong>know</strong> // how‿<sup>w</sup>I sound‿to‿<sup>w</sup><strong>others</strong>. I think I’m getting <strong>better</strong>. One‿of the hardest‿<strong>things</strong> for me // is to stress‿some <strong>syllables</strong> // and to reduce‿certain‿<strong>others</strong>. When‿I <sup>y</sup>ask my <strong>friends</strong> // how‿<sup>w</sup>I <strong>sound</strong>, they‿<sup>y</sup>all <strong>say</strong> // they hear‿a difference‿in my <strong>speech</strong>. My <strong>boss</strong>‿sai<strong>d</strong> // that‿I am‿making <strong>progress</strong> // and that‿I <strong>sound</strong> // more‿and more like‿a native <strong>speaker</strong>. My clients‿are not‿<strong>asking</strong> me // to <strong>repeat</strong> myself‿as much. It makes‿it‿all <strong>worthwhile</strong>. I won’<strong>t</strong> stop‿<strong>practicing</strong>."
+   ],
+   "title": "My American Accent",
+   "cd": 4,
+   "track": 37
+  },
+  {
+   "t": "box",
+   "kind": "warning",
+   "title": "Warning: Common Mistake",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "Don’t pause within thought groups.",
+      "<strong>Don’t say:</strong> He’s // at work until eleven // o’clock.",
+      "<strong>Say:</strong> He’s at work // until eleven o’clock."
+     ]
+    }
+   ],
+   "cd": 4,
+   "track": 38
+  },
+  {
+   "t": "sec",
+   "id": "pronouns",
+   "title": "Reducing Pronouns",
+   "cd": 4,
+   "track": 39
+  },
+  {
+   "t": "p",
+   "paras": [
+    "In the chapter on word stress you learned that pronouns are not stressed. When we reduce the pronouns, the first letter is often silent. For example, the letter <em><strong>h</strong></em> is often silent for the words <em>he</em>, <em>him</em>, <em>his</em>, <em>her</em>, and <em>hers</em> when these pronouns are not the first words of a sentence. Also, the <em><strong>th</strong></em> sound is often silent for the word <em>them</em>. This is particularly true in casual speech, but it frequently occurs in formal speech as well. Study the example below."
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I love her",
+     "“I lover”"
+    ],
+    [
+     "I knew her",
+     "“I newer”"
+    ],
+    [
+     "stuff he knows",
+     "“stuffy nose”"
+    ],
+    [
+     "did he",
+     "“didee”"
+    ],
+    [
+     "has he",
+     "“hazee”"
+    ]
+   ],
+   "title": "sounds like:"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "<em>Note:</em> Always pronounce the first consonant of a pronoun when the pronoun is in the beginning of a sentence or a phrase."
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Remember that the <strong><em>h</em></strong> in <em>he</em> and <em>him</em> is silent except when these words begin the sentence."
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 40
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Is <s>h</s><em>e</em> nice?",
+    "What’s <s>h</s><em>is</em> name?",
+    "What does <s>h</s><em>e</em> look like?",
+    "How old is <s>h</s><em>e</em>?",
+    "Where does <s>h</s><em>e</em> live?",
+    "What does <s>h</s><em>e</em> do?",
+    "How long have you known <s>h</s><em>im</em>?",
+    "Do you love <s>h</s><em>im</em>?",
+    "Where’s <s>h</s><em>is</em> family from?",
+    "When can we meet <s>h</s><em>im</em>?",
+    "Did you tell <s>h</s><em>im</em> we’d like to meet him?",
+    "What did <s>h</s><em>e</em> say?",
+    "Answer: He said that <s>h</s><em>e</em> thinks my friends ask too many questions!"
+   ],
+   "title": "The New Boyfriend"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Now you will practice the silent <strong><em>h</em></strong> of the pronoun <em>her.</em>"
+   ],
+   "title": "Who’s Laura Jones?",
+   "cd": 4,
+   "track": 41
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Do you know Laura Jones?",
+     "b. Yeah, I know <s>h</s><em>er</em>.",
+     "a. How do you know <s>h</s><em>er</em>?",
+     "b. I know <s>h</s><em>er</em> from school.",
+     "a. Have you seen <s>h</s><em>er</em> lately?",
+     "b. I just saw <s>h</s><em>er</em> a few days ago. I see <s>h</s><em>er</em> about twice a week. She has <s>h</s><em>er</em> dance class next door to mine.",
+     "a. Next time you see <s>h</s><em>er</em>, tell <s>h</s><em>er</em> I want to talk to <s>h</s><em>er</em>."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The <strong><em>th</em></strong> of the pronoun <em>them</em> is silent in these sentences."
+   ],
+   "title": "All About Eggs",
+   "cd": 4,
+   "track": 42
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. I love eggs.",
+     "b. How do you cook <em>t</em><s>h</s><em>em</em>?",
+     "a. All sorts of ways. I boil <em>t</em><s>h</s><em>em</em>, I fry <em>t</em><s>h</s><em>em</em>, I scramble <em>t</em><s>h</s><em>em</em>, and I poach <em>t</em><s>h</s><em>em</em>.",
+     "b. Do you just eat <em>t</em><s>h</s><em>em</em> for breakfast?",
+     "a. No, I have <em>t</em><s>h</s><em>em</em> for dinner too. I cut <em>t</em><s>h</s><em>em</em> up and put <em>t</em><s>h</s><em>em</em> in salads."
+    ]
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "tip",
+   "title": "Study Tip",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "When you watch an American film, try to watch it with closed captioning or subtitles in English. This is a very useful method for developing better listening skills, using the right melody and learning the common reductions of American speech. Play back some scenes and repeat the actors’ lines several times until you can say them the same way."
+     ]
+    }
+   ],
+   "cd": 4,
+   "track": 43,
+   "img": "images/study-tip.png"
+  },
+  {
+   "t": "sec",
+   "id": "contractions",
+   "title": "Contractions",
+   "cd": 4,
+   "track": 44
+  },
+  {
+   "t": "p",
+   "paras": [
+    "A “contraction” is a word that is made shorter when it is linked to the word that comes before it. For example, “<strong>she is</strong> nice.” is usually contracted to “<strong>she’s</strong> nice.” Contractions are a standard part of English speech and they’re used even in very formal situations. Using contractions is not considered sloppy or lazy speech. In fact, if you don’t use contractions, your speech will sound mechanical and foreign and might even give the impression that you are not very fluent in English. For example, you will hear people say, “<strong>I’m</strong> happy,” rather than “I <strong>am</strong> happy.” If you do hear “I <strong>am</strong> happy” it’s usually in response to an opposite statement or question, such as “I don’t think you’re happy.” If the response is “I <strong>am</strong> happy!” with stress on the word <em>am,</em> the meaning is “I <em>really</em> am happy.”",
+    "Another situation in which a contraction may not be used is when a speaker pauses in order to think of what to say next. For example: “I am… happy.”",
+    "<em>Note:</em> Do not use contractions in written language, unless the writing is informal."
+   ]
+  },
+  {
+   "t": "box",
+   "kind": "warning",
+   "title": "Warning: Common Mistake",
+   "children": [
+    {
+     "t": "p",
+     "paras": [
+      "Don’t make up your own contractions. There are specific rules that native speakers follow for contracting words. Only use the ones that you hear native speakers say and the ones that you learn in this book."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "<strong>1. The Verb <em>to be</em></strong>",
+    "<strong>I’m</strong> happy. <strong>She’s</strong> American.",
+    "<strong>2. Auxiliary Verbs</strong> These include <em>be</em>, <em>would</em>, <em>will</em>, and <em>have</em>.",
+    "<strong>He’s</strong> working. <strong>He’d</strong> like to go. <strong>I’ll</strong> call you. <strong>I’ve</strong> been there.",
+    "<strong>3. The Word <em>not</em></strong> <em>Not</em> is contracted when it follows <em>have</em>, <em>be</em>, <em>can</em>, <em>could</em>, <em>should</em>, <em>would</em>, and <em>must</em>.",
+    "I <strong>haven’t</strong> been there. I <strong>can’t</strong> do that."
+   ],
+   "title": "Commonly Contracted Words",
+   "cd": 4,
+   "track": 45,
+   "id": "contracted"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I will do it.",
+     "<strong>I’ll</strong> do it."
+    ],
+    [
+     "You will like it.",
+     "<strong>You’ll</strong> like it."
+    ],
+    [
+     "He will call you.",
+     "<strong>He’ll</strong> call you."
+    ],
+    [
+     "We will take it.",
+     "<strong>We’ll</strong> take it."
+    ],
+    [
+     "They will see.",
+     "<strong>They’ll</strong> see."
+    ],
+    [
+     "It will rain.",
+     "<strong>It’ll</strong> rain."
+    ],
+    [
+     "It will be good.",
+     "<strong>It’ll</strong> be good."
+    ],
+    [
+     "That will be all.",
+     "<strong>That’ll</strong> be all."
+    ],
+    [
+     "There will be snow.",
+     "<strong>There’ll</strong> be snow."
+    ]
+   ],
+   "title": "Practice with Contractions: will"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I would go.",
+     "<strong>I’d</strong> go."
+    ],
+    [
+     "I would like some more.",
+     "<strong>I’d</strong> like some more."
+    ],
+    [
+     "He would go if he could.",
+     "<strong>He’d</strong> go if he could."
+    ],
+    [
+     "She would understand.",
+     "<strong>She’d</strong> understand."
+    ],
+    [
+     "We would like to see it.",
+     "<strong>We’d</strong> like to see it."
+    ]
+   ],
+   "title": "Practice with Contractions: would"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I had never seen it before.",
+     "<strong>I’d</strong> never seen it before."
+    ],
+    [
+     "She had known about it.",
+     "<strong>She’d</strong> known about it."
+    ],
+    [
+     "You had better fix it.",
+     "<strong>You’d</strong> better fix it."
+    ]
+   ],
+   "title": "Practice with Contractions: had",
+   "sub": "Note that this contraction sounds the same as the contraction of <em>would</em>."
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I have been there.",
+     "<strong>I’ve</strong> been there."
+    ],
+    [
+     "I have already eaten",
+     "<strong>I’ve</strong> already eaten."
+    ],
+    [
+     "We have heard.",
+     "<strong>We’ve</strong> heard."
+    ],
+    [
+     "They have done it.",
+     "<strong>They’ve</strong> done it."
+    ],
+    [
+     "I would have done it.",
+     "I <strong>would’ve</strong> done it."
+    ],
+    [
+     "You should have told me.",
+     "You <strong>should’ve</strong> told me."
+    ],
+    [
+     "You must have seen it.",
+     "You <strong>must’ve</strong> seen it."
+    ]
+   ],
+   "title": "Practice with Contractions: have*"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "*<em>Note:</em> Americans generally contract the verb <em>have</em> only if it functions as an auxiliary verb. For example we say: “I’ve been” and “I’ve heard.” But if <em>have</em> is the main verb, we don’t say, “I’ve a car.” We say, “I have a car.”"
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "She has left.",
+     "<strong>She’s</strong> left."
+    ],
+    [
+     "It has been fun.",
+     "<strong>It’s</strong> been fun."
+    ],
+    [
+     "He has already eaten.",
+     "<strong>He’s</strong> already eaten."
+    ],
+    [
+     "Who has seen the film?",
+     "<strong>Who’s</strong> seen the film?"
+    ]
+   ],
+   "title": "Practice with Contractions: has"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "He is working.",
+     "<strong>He’s</strong> working."
+    ],
+    [
+     "She is a teacher.",
+     "<strong>She’s</strong> a teacher."
+    ],
+    [
+     "It is hot.",
+     "<strong>It’s</strong> hot."
+    ],
+    [
+     "Sam is American.",
+     "<strong>Sam’s</strong> American."
+    ],
+    [
+     "Mary is tall.",
+     "<strong>Mary’s</strong> tall."
+    ],
+    [
+     "Dinner is ready.",
+     "<strong>Dinner’s</strong> ready."
+    ]
+   ],
+   "title": "Practice with Contractions: is",
+   "cd": 4,
+   "track": 46,
+   "sub": "Note that this contraction sounds the same as the contraction of <em>has</em>."
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I am fine.",
+     "<strong>I’m</strong> fine."
+    ],
+    [
+     "I am from Japan.",
+     "<strong>I’m</strong> from Japan."
+    ]
+   ],
+   "title": "Practice with Contractions: am"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "We are waiting.",
+     "<strong>We’re</strong> waiting."
+    ],
+    [
+     "We are sorry.",
+     "<strong>We’re</strong> sorry."
+    ],
+    [
+     "They are leaving.",
+     "<strong>They’re</strong> leaving."
+    ],
+    [
+     "They are there.",
+     "<strong>They’re</strong> there."
+    ],
+    [
+     "What are they doing?",
+     "<strong>What’re</strong> they doing?"
+    ],
+    [
+     "When are they coming?",
+     "<strong>When’re</strong> they coming?"
+    ],
+    [
+     "Where are they going?",
+     "<strong>Where’re</strong> they going?"
+    ]
+   ],
+   "title": "Practice with Contractions: are"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I cannot swim.",
+     "I <strong>can’t</strong> swim."
+    ],
+    [
+     "I should not go.",
+     "I <strong>shouldn’t</strong> go."
+    ],
+    [
+     "I do not like it.",
+     "I <strong>don’t</strong> like it."
+    ]
+   ],
+   "title": "Practice with Contractions: not"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "aisle",
+     "I’ll"
+    ],
+    [
+     "wheel",
+     "we’ll"
+    ],
+    [
+     "there",
+     "they’re"
+    ],
+    [
+     "weed",
+     "we’d"
+    ],
+    [
+     "heel/heal",
+     "he’ll"
+    ],
+    [
+     "your",
+     "you’re"
+    ],
+    [
+     "weave",
+     "we’ve"
+    ],
+    [
+     "heed",
+     "he’d"
+    ]
+   ],
+   "title": "Word Pairs for Practice",
+   "sub": "These words pairs are pronounced the same."
+  },
+  {
+   "t": "words",
+   "groups": [
+    {
+     "words": [
+      "1. How’s it going?",
+      "<strong>It’ll</strong> rain.",
+      "2. What’s up?",
+      "11. How’ve you been?",
+      "3. What’re you doing?",
+      "12. Where’re you going?",
+      "4. What’ve you been up to?",
+      "13. Where’s he from?",
+      "5. What’s the matter?",
+      "14. Where’re they from?",
+      "6. What’ll it be?",
+      "15. I’d like that.",
+      "<strong>That’ll</strong> be all.",
+      "16. Who’s calling?",
+      "8. It’ll be hot.",
+      "17. What’s new?",
+      "<strong>It’ll</strong> be good.",
+      "<strong>I’m</strong> fine."
+     ]
+    }
+   ],
+   "title": "Practice with Contractions: Common Expressions",
+   "cd": 4,
+   "track": 47
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Hi Tom. <strong>I’ve</strong> got a question. What <strong>time’s</strong> our meeting?",
+     "b. <strong>It’ll</strong> start at five.",
+     "a. Oh great. <strong>I’m</strong> glad <strong>I’ll</strong> be able to make it. <strong>Who’s</strong> coming?",
+     "b. <strong>Let’s</strong> see… <strong>Bob’ll</strong> be there, <strong>John’ll</strong> be there and <strong>I’ll</strong> be there, but Mary <strong>won’t</strong> make it. <strong>She’s</strong> out of town.",
+     "a. How about Nick?",
+     "b. He <strong>can’t</strong> make it. He said he <strong>would’ve</strong> come if <strong>he’d</strong> known about it earlier.",
+     "a. Is Vivian coming?",
+     "b. She said <strong>she’d</strong> like to make it, but <strong>she’s</strong> got a lot of work to do.",
+     "a. <strong>It’ll</strong> only last an hour, <strong>won’t</strong> it?",
+     "b. Yes, <strong>we’d</strong> better keep it short. <strong>Everybody’ll</strong> want to go home by six o’clock."
+    ]
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 48,
+   "sub": "Employee Meeting"
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. <strong>I’ve</strong> been looking forward to eating here.",
+     "b. Me too. <strong>Everyone’s</strong> been talking about this place.",
+     "a. <strong>What’re</strong> you gonna order?",
+     "b. <strong>I’m</strong> hungry. I think <strong>I’d</strong> like some meat tonight.",
+     "a. Hi folks. <strong>I’ll</strong> be your waitress. Ready to order?",
+     "b. Yes, <strong>we’re</strong> ready.",
+     "a. Great. <strong>What’ll</strong> it be?",
+     "b. <strong>She’ll</strong> have chicken and <strong>I’ll</strong> have steak. And <strong>we’ll</strong> both have a glass of red wine.",
+     "a. Is that it?",
+     "b. <strong>That’ll</strong> be all.",
+     "a. Got it. Your <strong>food’ll</strong> be ready in a few minutes."
+    ]
+   ],
+   "title": "In the Restaurant"
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. It was my birthday two weeks ago.",
+     "b. Oh, I <strong>must’ve</strong> been too busy to look at my calendar. You <strong>should’ve</strong> told me. We <strong>could’ve</strong> celebrated together. I <strong>would’ve</strong> taken you out to dinner. Or I <strong>could’ve</strong> at least baked you a cake."
+    ]
+   ],
+   "title": "Forgotten Birthday"
+  },
+  {
+   "t": "sec",
+   "id": "conditional",
+   "title": "Conditional Tense and Contractions",
+   "cd": 4,
+   "track": 49
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The grammar of the conditional tense requires a lot of small words that you will need to learn to contract. For example, the following sentence which is the conditional past unreal tense contains thirteen short words: “If you had not called me I would not have known about it.” Saying each word separately obviously sounds unnatural and very foreign. Here’s how an American would say that: “If you hadn’t called me, I wouldn’ve known about it.” Instead of “wouldn’t have,” we say, “woudn’ve.” The <em><strong>t</strong></em> of the word <em>not</em> disappears. Or, in more casual situations, the <em>have</em> of <em>would not have</em> sounds like <em><strong>a</strong> </em>as in “woudna.”",
+    "This grammar point is often difficult for some intermediate students of English. It might also be difficult for some advanced speakers who have learned English informally, just by speaking it in the United States, rather than through classroom study. Producing these conditional sentences quickly and naturally, particularly in the past unreal tense is difficult for many learners of English. If this is your case, make an extra effort to master this grammar point. Repeating the sentences of the following exercises will help you memorize the grammatical patterns. Practice them until you feel proficient using them."
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Let’s start learning to use contractions in the easier part of the conditional past: the “<em>if</em> clause.” <em><strong>sounds like:</strong> </em>"
+   ],
+   "title": "Word Groups for Practice",
+   "cd": 4,
+   "track": 50
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "If I had been…",
+     "“If I’d been…”"
+    ],
+    [
+     "If I had not called…",
+     "“If I hadn’t called…”"
+    ],
+    [
+     "If she had seen…",
+     "“If she’d seen…”"
+    ],
+    [
+     "If they had gone...",
+     "“If they’d gone…”"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Now let’s practice the second half of the past conditional sentence. There are two versions of this type of contraction: standard speech and casual speech."
+   ]
+  },
+  {
+   "t": "table",
+   "numbered": true,
+   "rows": [
+    [
+     "would have",
+     "“would’ve”",
+     "“woulda”"
+    ],
+    [
+     "would not have",
+     "“wouldn’ve”",
+     "“wouldna“"
+    ],
+    [
+     "could have",
+     "“could’ve”",
+     "“coulda”"
+    ],
+    [
+     "could not have",
+     "“couldn’ve”",
+     "“couldna”"
+    ],
+    [
+     "should not have",
+     "“shouldn’ve”",
+     "“shouldna”"
+    ]
+   ],
+   "heads": [
+    "",
+    "sounds like:",
+    "casual speech:"
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "With questions using <em>have</em> you must add an /ɘ/ sound between the pronoun and the contraction. But for statements, don’t do this. For example a question like “Would you have been there?” would sound like “Would you’/ɘ/ve been there?” However, a statement would sound like: “You’ve been there.” <em><strong>sounds like:</strong> </em>"
+   ],
+   "title": "Conditional Questions",
+   "cd": 4,
+   "track": 51
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "Would you have…?",
+     "“Would you’/ɘ/ve…?”"
+    ],
+    [
+     "Would you have been…?",
+     "“Would you’/ɘ/ve been…?”"
+    ],
+    [
+     "Would she have…?",
+     "“Would she’/ɘ/ve…. ?”"
+    ],
+    [
+     "Would she have wanted…?",
+     "“Would she’/ɘ/ve wanted…?”"
+    ]
+   ]
+  },
+  {
+   "t": "list",
+   "items": [
+    "If <strong>I’d</strong> known it was your birthday, I <strong>would’ve</strong> gotten you a present.",
+    "If you <strong>hadn’t</strong> been driving so fast, you <strong>wouldn’ve</strong> gotten a ticket.",
+    "If the <strong>weather’d</strong> been warmer, we <strong>would’ve</strong> gone to the park.",
+    "If <strong>he’d</strong> been more careful, he <strong>wouldn’ve</strong> had an accident.",
+    "I <strong>would’ve</strong> passed the test if <strong>I’d</strong> studied more.",
+    "Would <strong>you’/</strong>ɘ<strong>/ve</strong> done that, if <strong>you’d</strong> been in my shoes?",
+    "What would <strong>you’/</strong>ɘ<strong>/ve</strong> said if <strong>she’d</strong> asked you about it?",
+    "Where would <strong>you’/</strong>ɘ<strong>/ve</strong> gone if you <strong>hadn’t</strong> come to the US?"
+   ],
+   "title": "Practice Sentences",
+   "cd": 4,
+   "track": 52,
+   "sub": "These sentences are all in the past conditional tense."
+  },
+  {
+   "t": "list",
+   "items": [
+    "If it <strong>hadn’t</strong> rained we <strong>wouldna</strong> canceled the picnic.",
+    "It <strong>woulda</strong> been more fun if <strong>there’d</strong> been more people at the party.",
+    "I <strong>woulda</strong> called you if <strong>you’d</strong> given me your number.",
+    "If <strong>they’d</strong> come on time, they <strong>wouldna</strong> missed their flight.",
+    "She <strong>wouldna</strong> known if you <strong>hadn’t</strong> told her."
+   ],
+   "title": "Practice Sentences",
+   "sub": "The sentences below are examples of casual speech and use <strong><em>a</em></strong> instead of <strong><em>‘ve</em></strong> for <strong><em>have</em></strong>"
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. What would you’/ɘ/ve done if you hadn’t come to the United States?",
+     "b. If I hadn’t come to the US, I would’ve lived with my family, and I wouldn’ve had to study English. I wouldn’ve met my wife. I would’ve married someone else."
+    ]
+   ],
+   "title": "Practice Dialogue",
+   "cd": 4,
+   "track": 53
+  },
+  {
+   "t": "box",
+   "kind": "advice",
+   "title": "Advice from a Successful Student",
+   "text": "“Speak with confidence. I have learned that your insecurity will actually make your accent stronger. When I go on acting auditions, I first do my homework and work on my major mistakes, and then I let go of all that work and I just do it. I am just myself. So, if you have an important interview or speaking situation coming up, just relax and let your true self come out. Don’t be inhibited.”",
+   "by": "Mauricio Sanchez, Actor, Venezuela",
+   "cd": 4,
+   "track": 54
+  },
+  {
+   "t": "sec",
+   "id": "casual",
+   "title": "Casual Versus Formal Speech",
+   "cd": 4,
+   "track": 55
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Casual speech is used in an informal setting with friends and acquaintances. In casual situations, we are sometimes less careful with pronunciation and grammar. Remember, just like with contractions, there are rules to casual speech. Don’t assume that you can randomly reduce any sounds that you feel like reducing. Doing this will only make your speech sound more foreign or more difficult to understand.",
+    "Casual speech has certain characteristics that distinguish it from formal speech. These are the main ones:"
+   ]
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "Do you want to go?",
+     "“Wanna go?”"
+    ],
+    [
+     "You’d better do it.",
+     "“You better do it.”"
+    ]
+   ],
+   "title": "A. Sentences are shortened and grammar is simplified.",
+   "sub": "<strong>sounds like:</strong>"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "probably",
+     "“probly”"
+    ],
+    [
+     "I don’t know",
+     "“I dunno”"
+    ],
+    [
+     "remember",
+     "“member”"
+    ],
+    [
+     "going",
+     "“goin”"
+    ],
+    [
+     "until",
+     "“til”"
+    ],
+    [
+     "because",
+     "“cuz”"
+    ]
+   ],
+   "title": "B. Speakers are less careful about pronouncing every consonant.",
+   "sub": "<strong>sounds like:</strong>"
+  },
+  {
+   "t": "contrast",
+   "heads": [
+    "",
+    ""
+   ],
+   "rows": [
+    [
+     "I need five dollars.",
+     "“I need five bucks.”"
+    ],
+    [
+     "I don’t have any money.",
+     "“I’m broke.”"
+    ]
+   ],
+   "title": "C. Slang is more acceptable.",
+   "sub": "<strong><em>becomes:</em></strong>"
+  },
+  {
+   "t": "p",
+   "paras": [
+    "Below are some rules of the simplifications that are made in informal speech."
+   ]
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>you</strong>",
+     "<strong>ya</strong>",
+     "I’ll call ya. See ya."
+    ],
+    [
+     "<strong>because</strong>",
+     "<strong>‘cuz</strong>",
+     "I did it ‘cuz I wanted to. I’m tired ‘cuz I worked all day."
+    ],
+    [
+     "I don’t know",
+     "<strong>I dunno</strong>",
+     "I dunno why. I dunno what to do."
+    ],
+    [
+     "<strong>let me</strong>",
+     "<strong>lemme</strong>",
+     "Lemme do it. Lemme help you. Lemme talk to him."
+    ],
+    [
+     "<strong>give me</strong>",
+     "<strong>gimme</strong>",
+     "Gimme a call. Gimme a break! Can you gimme a minute?"
+    ],
+    [
+     "<strong>did you...?</strong>",
+     "<strong>joo</strong>",
+     "Joo call me? Why joo do it? Joo go out last night?"
+    ],
+    [
+     "<strong>do you want to...?</strong>",
+     "<strong>wanna...?</strong>",
+     "Wanna go out? Wanna dance? What do you wanna do?"
+    ],
+    [
+     "<strong>have got to...</strong>",
+     "<strong>gotta...</strong>",
+     "I gotta go. You gotta do it."
+    ],
+    [
+     "<strong>should’ve</strong>",
+     "<strong>shoulda</strong>",
+     "You shoulda told me."
+    ],
+    [
+     "<strong>would’ve</strong>",
+     "<strong>woulda</strong>",
+     "It woulda been nice."
+    ],
+    [
+     "<strong>could’ve</strong>",
+     "<strong>coulda</strong>",
+     "We coulda come."
+    ],
+    [
+     "<strong>must’ve</strong>",
+     "<strong>musta</strong>",
+     "You musta seen it."
+    ],
+    [
+     "<strong>shouldn’t have</strong>",
+     "<strong>shouldna</strong>",
+     "You shouldna done that."
+    ],
+    [
+     "<strong>wouldn’t have</strong>",
+     "<strong>wouldna</strong>",
+     "I woundna known."
+    ],
+    [
+     "<strong>couldn’t have</strong>",
+     "<strong>couldna</strong>",
+     "It couldna happened."
+    ],
+    [
+     "<strong>going to</strong>",
+     "<strong>gonna</strong>",
+     "I’m gonna go. It’s gonna rain. What are you gonna do?"
+    ],
+    [
+     "<strong>what do you...?</strong>",
+     "<strong>wadda you...?</strong>",
+     "Whadda you want? Whadda you doing? Whadda you think?"
+    ]
+   ],
+   "heads": [
+    "Formal, Careful Speech",
+    "Informal, Relaxed Speech",
+    "Examples"
+   ],
+   "title": "Rules and Patterns of Casual Speech",
+   "cd": 4,
+   "track": 56,
+   "id": "casual-rules"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "<strong>a lot of</strong>",
+     "<strong>a lotta</strong>",
+     "That’s a lotta money. I’ve got a lotta friends."
+    ],
+    [
+     "<strong>kind of</strong>",
+     "<strong>kinda</strong>",
+     "It’s kinda hot. What kinda car is that?"
+    ],
+    [
+     "<strong>out of</strong>",
+     "<strong>adda</strong>",
+     "Get adda here. I’m adda money. You’re adda your mind. <strong><em>meaning:</em></strong> You’re crazy."
+    ],
+    [
+     "<strong>go to</strong>",
+     "<strong>goddu</strong>",
+     "I go to work. Let’s go to a concert."
+    ],
+    [
+     "<strong>yes</strong>",
+     "<strong>yeah</strong> / <strong>yup</strong>",
+     "Yeah. It’s good. Yup. I did it."
+    ],
+    [
+     "<strong>no</strong>",
+     "<strong>nope</strong>",
+     "Nope. I’m not going. Nope. That’s not right."
+    ],
+    [
+     "<strong>-ing</strong>",
+     "<strong>in’</strong>",
+     "What are you doin’? Nothin’ much."
+    ]
+   ],
+   "heads": [
+    "Formal, Careful Speech",
+    "Informal, Relaxed Speech",
+    "Examples"
+   ],
+   "title": "Rules and Patterns of Casual Speech"
+  },
+  {
+   "t": "dialog",
+   "items": [
+    [
+     "a. Whadda you doin’ tonight?",
+     "b. I dunno yet. I think I’m gonna just stay home.",
+     "a. Wanna go to a movie?",
+     "b. I’m kinda tired. I gotta get up early tomorrow.",
+     "a. Joo go out last night?",
+     "b. Yeah, I shoudna gone to bed so late. I woulda had a lot more energy today.",
+     "a. Why don cha just take it easy then, and we’ll go out some other time.",
+     "b. Okay, lemme know when you’re free again. See ya."
+    ]
+   ],
+   "title": "Practice Dialogues",
+   "cd": 4,
+   "track": 57,
+   "sub": "Invitation to a Movie"
+  },
+  {
+   "t": "sec",
+   "id": "confused",
+   "title": "Commonly Confused Words",
+   "cd": 4,
+   "track": 58
+  },
+  {
+   "t": "p",
+   "paras": [
+    "The following pairs of words are often mispronounced and end up sounding the same when spoken by some non-native speakers."
+   ]
+  },
+  {
+   "t": "table",
+   "heads": [
+    "",
+    "Pronunciation",
+    "Example"
+   ],
+   "rows": [
+    [
+     "<strong>sell</strong>",
+     "<strong><em>e</em></strong> is /ɛ/ as in <em>get</em>",
+     "Would you like to <strong>sell</strong> it?"
+    ],
+    [
+     "<strong>sale</strong>",
+     "<strong><em>a</em></strong> is /eɪ/ as in <em>take</em>",
+     "Sorry, it’s not for <strong>sale</strong>."
+    ],
+    [
+     "<strong>series</strong>",
+     "two syllables",
+     "I love that new TV <strong>series</strong>."
+    ],
+    [
+     "serious",
+     "three syllables",
+     "Are you <strong>serious</strong>? I hate it."
+    ],
+    [
+     "<strong>color</strong>",
+     "<strong><em>o</em></strong> is /ɘ/ as in <em>fun</em>",
+     "Do you like the <strong>color</strong> of this shirt?"
+    ],
+    [
+     "<strong>collar</strong>",
+     "<strong><em>o</em></strong> is /ɑ/ as in <em>father</em>",
+     "Yes, but I want one with a <strong>collar</strong>."
+    ],
+    [
+     "<strong>costume</strong>",
+     "<strong><em>o</em></strong> is /ɑ/ as in <em>father</em>",
+     "Children wear <strong>costumes</strong> for Halloween."
+    ],
+    [
+     "<strong>custom</strong>",
+     "<strong><em>u</em></strong> is /ɘ/ as in <em>fun</em>",
+     "Is that an American <strong>custom</strong>?"
+    ],
+    [
+     "<strong>been</strong>",
+     "ee is /I/ as in <em>sit</em>",
+     "What have you <strong>been</strong> cooking?"
+    ],
+    [
+     "<strong>bean</strong>",
+     "ee is /i/ as in <em>meet</em>",
+     "I’ve been cooking <strong>beans</strong>."
+    ],
+    [
+     "<strong>of</strong>",
+     "<strong><em>f</em></strong> is a /v/ sound",
+     "What are you thinking <strong>of</strong>?"
+    ],
+    [
+     "<strong>off</strong>",
+     "<strong><em>o</em></strong> is /ɑ/ as in <em>father</em>",
+     "I’m thinking of taking the day <strong>off</strong>."
+    ],
+    [
+     "<strong>want</strong>",
+     "<strong><em>a</em></strong> is /ɑ/ as in <em>father</em>",
+     "Do you want to go?"
+    ],
+    [
+     "<strong>won’t</strong>",
+     "<strong><em>o</em></strong> is /ou/ as in <em>boat</em>",
+     "No, I <strong>won’t</strong> go."
+    ],
+    [
+     "<strong>dessert</strong>",
+     "second syllable stress",
+     "I had <strong>dessert</strong> after dinner."
+    ],
+    [
+     "<strong>desert</strong>",
+     "first syllable stress",
+     "They drove through the <strong>desert</strong>."
+    ],
+    [
+     "<strong>where</strong>",
+     "<strong><em>er</em></strong> is/ɛɘr/ as in <em>care</em>",
+     "<strong>Where</strong> did they go?"
+    ],
+    [
+     "<strong>were</strong>",
+     "<strong><em>er</em></strong> is /ɘr/ as in <em>bird</em>",
+     "They <strong>were</strong> here a minute ago."
+    ],
+    [
+     "<strong>wonder</strong>",
+     "<strong><em>o</em></strong> is /ɘ/ as in <em>fun</em>",
+     "I <strong>wonder</strong> where they are."
+    ],
+    [
+     "<strong>wander</strong>",
+     "<strong><em>a</em></strong> is /ɑ/ as in <em>father</em>",
+     "They’re probably <strong>wandering</strong> in the forest."
+    ],
+    [
+     "<strong>warm</strong>",
+     "<strong><em>or</em></strong> is /ɔr/ as in <em>for</em>",
+     "It’s a <strong>warm</strong> day."
+    ],
+    [
+     "<strong>worm</strong>",
+     "<strong><em>or</em></strong> is /ɚ/ as in <em>bird</em>",
+     "There’s a <strong>worm</strong> in my apple."
+    ],
+    [
+     "<strong>woman</strong>",
+     "<strong><em>o</em></strong> is /ʊ/ as in <em>good</em>",
+     "She is a nice <strong>woman</strong>."
+    ],
+    [
+     "<strong>women</strong>",
+     "<em><strong>o</strong></em> is /I/ as in <em>sit <strong>t</strong></em> is almost /d/",
+     "All of the <strong>women</strong> here are nice."
+    ],
+    [
+     "<strong>potty</strong>",
+     "",
+     "The little boy wants to go <strong>potty</strong>."
+    ],
+    [
+     "",
+     "sounds like “pardy”",
+     ""
+    ],
+    [
+     "<strong>party</strong>",
+     "",
+     "He’s at the birthday <strong>party</strong>."
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "paras": [
+    "(“fast d” sound)"
+   ]
+  }
+ ]
+}
